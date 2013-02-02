@@ -16,7 +16,7 @@ module.exports = function (grunt) {
 				'js/main.js'
 			],
 			options: {
-				jshintrc: '.jshintrc'
+				jshintrc: 'node_modules/grunt-contrib-jshint/.jshintrc'
 			}
 		},
 

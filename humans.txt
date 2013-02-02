@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    Anselm Hannemann -- @helloanselm
 
 # THANKS
 
@@ -13,3 +14,7 @@
 
     HTML5, CSS3
     Normalize.css, jQuery, Modernizr
+    init
+    Yekyll
+    github
+    grunt
