@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "[Weekly] How to do better"
 ---
 
@@ -7,7 +7,7 @@ title: "[Weekly] How to do better"
 
 ## Being a better web citizen
 
-[Chris Heilmann](http://christianheilmann.com/) posted a blog entry this week because he is annoyed by the going on rant on social media platforms about products, events and persons. He writes why ranting hurts people and doesn't do anything good to anyone. Finally after reading this blog hopefully some more people understand how to really help the web and other people in it.  
+[Chris Heilmann](http://christianheilmann.com/) posted a blog entry this week because he is annoyed by the going on rant on social media platforms about products, events and persons. He writes why ranting hurts people and doesn't do anything good to anyone. Finally after reading this blog hopefully some more people understand how to really help the web and other people in it.
 
 - [BEING A BETTER WEB CITIZEN: COMPLAIN WHERE THINGS GET FIXED](http://christianheilmann.com/2012/08/20/being-a-better-web-citizen-complain-where-things-get-fixed/)
 

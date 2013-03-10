@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "CreateTheWeb London"
 ---
 
@@ -17,7 +17,7 @@ But the other sessions showing the new tools of the [Adobe Edge suite](http://ht
 
 ## Edge Inspect
 
-Most of you might have already heard the Adobe Shadow tool which is now renamed to [Edge Inspect](http://html.adobe.com/edge/inspect/) and offers a great help to test and debug on many devices with aut-reload, remote inspection etc. And you can also extend with Remy Sharps [jsbin](http://jsbin.com/) and [jsconsole](http://jsconsole.com/).  
+Most of you might have already heard the Adobe Shadow tool which is now renamed to [Edge Inspect](http://html.adobe.com/edge/inspect/) and offers a great help to test and debug on many devices with aut-reload, remote inspection etc. And you can also extend with Remy Sharps [jsbin](http://jsbin.com/) and [jsconsole](http://jsconsole.com/).
 Unfortunately you can only set up to 2 connections at a time if you use Edge Inspect with a free CreativeCloud membership. Otherwise you need to pay $10/month or $50/month for the whole app-suite. But I already have the full membership and think it's totally worth the money.
 
 ## Edge Reflow
@@ -25,14 +25,14 @@ Unfortunately you can only set up to 2 connections at a time if you use Edge Ins
 And there is this new tool called [Edge Reflow](http://html.adobe.com/edge/reflow/). It is not available already but there will be a beta in a few weeks ready to try it out. And it looks awesome for all of us. That is because it is a tool for designers who don't know much about HTML and CSS. But it offers a way to build responsive prototypes directly in HTML/CSS on a design basis ("WYSIWYG"). And it does a fairly good job looking at the output code. Sure there are still some bugs and not many features yet but it is already looking as promising that many web developers said:
 
 
-> Release reflow already. People need tools to help them with the imaginative component of responsive layout #CreateTheWeb  
+> Release reflow already. People need tools to help them with the imaginative component of responsive layout #CreateTheWeb
 [Rodney Rehm](https://twitter.com/rodneyrehm/statuses/253157183221559297)
 
 ## Brackets / Edge Code
 
 There is one tool that already had its fame some time ago. When Adobe released [Brackets on github](https://github.com/adobe/brackets) they didn't say anything about it and still it was a TOP10 github repo for several weeks!
 
-That is because this software is such a great project by different views: It is fully open-source. It is from developers for developers and with developers. It is a code editor written in HTML, CSS, JS for HTML, CSS, JS which makes it pretty usable and extendable. And it has some cool features like inline-cross-editing, inspection, live reload in Chrome etc. 
+That is because this software is such a great project by different views: It is fully open-source. It is from developers for developers and with developers. It is a code editor written in HTML, CSS, JS for HTML, CSS, JS which makes it pretty usable and extendable. And it has some cool features like inline-cross-editing, inspection, live reload in Chrome etc.
 
 ## The history of web technologies
 

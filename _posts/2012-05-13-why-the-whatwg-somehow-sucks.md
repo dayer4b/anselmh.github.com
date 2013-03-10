@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Why the WHATWG somehow sucks!"
 ---
 

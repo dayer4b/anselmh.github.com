@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "What's wrong with Adobe Proto"
 ---
 
@@ -27,7 +27,7 @@ After you've created a new document based on a grid system you start drawing you
 
 # Creative Cloud App not available, <s>Dreamweaver officially not ready for Proto</s>
 
-While Adobe announced on Creative Cloud presentation that you can use the whole product family including the new Touch apps, this is only partially the truth. It is possible to use Proto and of course it is possible to use Adobe Dreamweaver. But you might think you can use both together and edit your wireframes from Proto inside of Dreamweaver. But the gateway still is not available.  
+While Adobe announced on Creative Cloud presentation that you can use the whole product family including the new Touch apps, this is only partially the truth. It is possible to use Proto and of course it is possible to use Adobe Dreamweaver. But you might think you can use both together and edit your wireframes from Proto inside of Dreamweaver. But the gateway still is not available.
 In fact you can get it working manually. You just have to install the [beta plugin for Dreamweaver from Adobe Labs](http://labs.adobe.com/technologies/protoextension/) and download your cloud files from creative.adobe.com manually. After installing the plugin you can open the .pro (Proto) files in Dreamweaver. The plugin will convert the wireframe into HTML and CSS code and you can start editing your site.
 
 **UPDATE**: Since of today Dreamweaver 6.0.1 update coming via Creative Cloud supports opening Adobe Proto files. Adobe integrated the former plugin into the Dreamweaver core.
@@ -38,7 +38,7 @@ In fact you can get it working manually. You just have to install the [beta plug
 
 But if you are looking at what the Dreamweaver extension extracted from Proto wireframe, you will think again if you really want to use this tool for code.
 
-As written before the boxes don't align to the grid. The converted CSS is totally blown-up by unnecessary properties and pixel-based layout stuff. But it misses a browser-reset or normalize. The HTML is a mix between HTML5, XHTML and wrong tags.  
+As written before the boxes don't align to the grid. The converted CSS is totally blown-up by unnecessary properties and pixel-based layout stuff. But it misses a browser-reset or normalize. The HTML is a mix between HTML5, XHTML and wrong tags.
 I set up a headline in Adobe Proto by choosing the headline-text-tool in the App. Now the result of this is a p-tag which is definitely not a headline-tag.
 
 ![screenshot of Adobe Proto App with wireframe on it](/assets/images/blog/2012-07-12_Proto/dw-proto_2.png)

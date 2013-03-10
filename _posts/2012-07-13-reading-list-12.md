@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Links of the week"
 ---
 
@@ -21,5 +21,5 @@ title: "Links of the week"
 
 5. When we are talking about Google I/O, [here is Chris Heilmann's summary of the best talks](http://christianheilmann.com/2012/07/02/google-io-2012-notes-lots-of-them/).
 
-6. Here is a [podcast about responsive images](http://5by5.tv/webahead/25) on 5by5.tv with Mat Marquis from Filament Group who has a lead role in W3CG responsive images.  
+6. Here is a [podcast about responsive images](http://5by5.tv/webahead/25) on 5by5.tv with Mat Marquis from Filament Group who has a lead role in W3CG responsive images.
 He first explains what it is all about and why we need the solution and then goes further into the whole story.

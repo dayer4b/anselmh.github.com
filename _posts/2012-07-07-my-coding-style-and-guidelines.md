@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "My Coding Style and Guidelines"
 ---
 
@@ -15,7 +15,7 @@ My own coding philosophy is simple: Make it as simple as it can be but understan
 
 # Frameworks
 
-I personally thought for a long time that I do not want to use frameworks because they are limiting my freedom of code. As I do not like to rewrite existing code for other purposes but prefer to write my own code I do not like many frameworks that have default output of code. This is why I do not like most CMS either and prefer [MODX](http://modx.com/) or [Kirby](http://getkirby.com/).  
+I personally thought for a long time that I do not want to use frameworks because they are limiting my freedom of code. As I do not like to rewrite existing code for other purposes but prefer to write my own code I do not like many frameworks that have default output of code. This is why I do not like most CMS either and prefer [MODX](http://modx.com/) or [Kirby](http://getkirby.com/).
 But it totally makes sense to share ideas and reuse existing best practices. The [HTML5Boilerplate](http://html5boilerplate.com/) exactly does it in the way I like it &ndash; it provides me a default minimal output of HTML I have to write on every website anyway. Not more, not less.
 
 # HTML
@@ -32,8 +32,8 @@ In HTML5 it is not necessary anymore to add trailing slashes to self-closing tag
 
 ## Optional closing tags
 
-As mentioned before you don't have to close tags like &lt;li>. This is a nice time-saver and as I use separate lines and tab-spaces this doesn't screw up your code-readability. But unfortunately most editors, IDEs, CMS and other software do not understand this behavior and could screw up the whole code I prefer to not do this in live-projects.  
-In fact, I use this style for private use when writing my HTML5-based presentation slides etc. And fortunately this works in Design-mode of Dreamweaver CS6 so this is like building the slides in Powerpoint. 
+As mentioned before you don't have to close tags like &lt;li>. This is a nice time-saver and as I use separate lines and tab-spaces this doesn't screw up your code-readability. But unfortunately most editors, IDEs, CMS and other software do not understand this behavior and could screw up the whole code I prefer to not do this in live-projects.
+In fact, I use this style for private use when writing my HTML5-based presentation slides etc. And fortunately this works in Design-mode of Dreamweaver CS6 so this is like building the slides in Powerpoint.
 
 ## Code indentation
 
@@ -46,17 +46,17 @@ I often changed my style on whitespace in the past. Now I use a lot of whitespac
 	<dl>
 	    <dt></dt>
 	    <dd></dt>
-	
+
 	    <dt></dt>
 	    <dd></dt>
-	
+
 	    <dt></dt>
-	    <dd></dt>	
+	    <dd></dt>
 	</dl>
- 	
-	<div class="promo">		
+
+	<div class="promo">
 	    <p><strong>Pellentesque</strong> senectus</p>
-	    <a href="#" class="btn">Lorem</a>	
+	    <a href="#" class="btn">Lorem</a>
 	</div>
 
 <hr>
@@ -84,11 +84,11 @@ I try do this exactly like Harry Roberts. The shared section defines default val
 	a,.brand,h1,h2,h3,h4,h5,h6{
  	   color:#BADA55;
 	}
-	
+
 ## formatting
 
 I do it the standard way:
-	
+
 	selector{
 	    color: #fff;
 	}
@@ -104,7 +104,7 @@ I like the way writing vendor prefixes in the clean way. Although it needs a bit
 		   -moz-box-sizing: border-box;
 		    -ms-box-sizing: border-box;
 		     -o-box-sizing: border-box;
-		        box-sizing: border-box;	
+		        box-sizing: border-box;
 	}
 
 # Summary
