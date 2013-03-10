@@ -1,5 +1,9 @@
 
 .wrapper {
+	@media ($a-media-m) {
+		max-width: 50em;
+		margin: 2em auto 0 auto;
+	}
 
 	&:before {
 		@include x-multiple-colored-gradient(( "left", #78cfc6 0%, #78cfc6 25%, #ffb300 25%, #ffb300 50%, #e01b6a 50%, #e01b6a 75%, #111 75% ));
@@ -13,9 +17,6 @@
 .page-main {
 	@extend %clearfix;
 
-	@include x-rem(max-width, 35);
-	@include x-rem(margin-right, 5);
-
 	line-height: 1.5;
 }
 
@@ -25,6 +26,10 @@
 	&:first-child {
 		@include x-rem(font-size, 1.5);
 	}
+}
+
+.page-main p {
+	@include x-rem(max-width, 35);
 }
 
 .page-main > ul,

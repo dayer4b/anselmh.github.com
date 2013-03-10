@@ -5,7 +5,28 @@
 }
 
 .posts-post {
-	margin: 2em 0 4em 0;
+	margin: 0.5em 0 0.5em 0;
+	padding: 1.5em 1em;
+
+	vertical-align: middle;
+	border: thin solid $a-mid;
+
+	@media ($a-media-m) {
+		display: inline-block;
+		width: 27%;
+		min-width: 10em;
+		min-height: 10em;
+	}
+}
+
+.posts-post:nth-child(1),
+.posts-post:nth-child(2),
+.posts-post:nth-child(3), {
+	border-color: $a-pink;
+
+	a {
+		color: $a-pink;
+	}
 }
 
 	.post__time {
@@ -16,4 +37,29 @@
 
 	.post__title {
 		margin: 0.25em 0 0.5em 0;
+		font-weight: normal;
+
+		a {
+			text-decoration: none;
+			border-bottom: thin solid $a-mid;
+			padding-bottom: 0;
+		}
+	}
+
+.posts-pagination {
+	@include page--font-header;
+	list-style: none;
+
+	> li {
+		display: inline;
+
+		color: $a-mid;
+
+		> a {
+			color: $a-pink;
+		}
+	}
+}
+	.page-main > .posts-pagination {
+		padding-left: 0;
 	}
