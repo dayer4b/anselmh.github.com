@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /*
  *	This project's description goes here
  *
@@ -475,14 +476,16 @@ table {
 /*
  * Hide from both screenreaders and browsers: h5bp.com/u
  */
-.hidden {
+.hidden,
+.ಠ_ಠ {
   display: none !important;
   visibility: hidden; }
 
 /*
  * Hide only visually, but have it available for screenreaders: h5bp.com/v
  */
-.visuallyhidden {
+.visuallyhidden,
+.accessibility {
   border: 0;
   clip: rect(0 0 0 0);
   height: 1px;
@@ -661,11 +664,15 @@ textarea {
     font-size: 1em;
     color: #999999; }
 
-.page-nav > ul {
-  padding-left: 0;
-  list-style: none; }
-  .page-nav > ul > li {
-    display: inline-block; }
+.page-nav {
+  font-family: "Istok Web", "Helvetica Neue", Helvetica, Cambria, Arial, sans-serif; }
+  .page-nav > ul {
+    padding-left: 0;
+    list-style: none; }
+    .page-nav > ul > li {
+      display: inline-block; }
+      .page-nav > ul > li > a {
+        text-decoration: none; }
 
 .page-foot {
   margin: 5em auto 0 auto; }
@@ -686,7 +693,6 @@ textarea {
   max-width: 35rem;
   margin-right: 80px;
   margin-right: 5rem;
-  margin-left: auto;
   line-height: 1.5; }
 
 .page-main > p {
@@ -726,6 +732,20 @@ textarea {
   color: #999999; }
   .page-foot a, .page-foot a:hover, .page-foot a:visited {
     color: #999999; }
+
+.posts-list {
+  list-style: none;
+  padding: 0; }
+
+.posts-post {
+  margin: 2em 0 4em 0; }
+
+.post__time {
+  font-size: 1em;
+  color: #999999; }
+
+.post__title {
+  margin: 0.25em 0 0.5em 0; }
 
 @media print {
   /* ==========================================================================

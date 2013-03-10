@@ -1,6 +1,5 @@
 
 .wrapper {
-	//border-top: 0.5em solid #e01b6a;
 
 	&:before {
 		@include x-multiple-colored-gradient(( "left", #78cfc6 0%, #78cfc6 25%, #ffb300 25%, #ffb300 50%, #e01b6a 50%, #e01b6a 75%, #111 75% ));
@@ -16,7 +15,6 @@
 
 	@include x-rem(max-width, 35);
 	@include x-rem(margin-right, 5);
-	margin-left: auto;
 
 	line-height: 1.5;
 }
