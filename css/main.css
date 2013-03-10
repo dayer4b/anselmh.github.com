@@ -680,6 +680,11 @@ textarea {
 .page-foot {
   margin: 5em auto 0 auto; }
 
+@media (max-width: 64em) {
+  .wrapper {
+    padding: 0 0.5em 0 0.5em;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box; } }
 @media (min-width: 35em) {
   .wrapper {
     max-width: 50em;
@@ -790,6 +795,15 @@ textarea {
 .page-main > h2 {
   font-weight: normal;
   color: #e01b6a; }
+
+.page-main p > img {
+  display: block;
+  max-width: 100%; }
+  @media (min-width: 35em) {
+    .page-main p > img {
+      float: left;
+      padding: 0.25em 1em 1.5em 0;
+      max-width: 30%; } }
 
 @media print {
   /* ==========================================================================
