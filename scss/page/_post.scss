@@ -24,9 +24,11 @@
 .page-main {
 	@extend %clearfix;
 
+	padding-bottom: 2em;
 	line-height: 1.5;
 }
 
+.page-main > h1,
 .page--post > h1 {
 	color: $a-pink;
 }

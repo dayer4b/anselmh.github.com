@@ -12,7 +12,6 @@
 
 	<title>{{ page.title }} &ndash; Anselm Hannemann &ndash; HTML5, CSS, front-end architecture, performance and Digital Publishing</title>
 
-	<!-- Load Webfonts from Google CDN asynchronously -->
 	<script type="text/javascript">
 		WebFontConfig = {
 			google: { families: [ 'Istok+Web:400,700:latin' , 'Lora:400,700:latin' ] }
@@ -38,7 +37,7 @@
 
 	<!-- Hidden preload `div` to fetch images before CSS needs them. -->
 	<div class="ಠ_ಠ">
-		<img src="/imgs/sprites/main.svg" alt="">
+
 	</div>
 
 	<div class="wrapper">
@@ -52,11 +51,12 @@
 
 			<nav class="page-nav" role="navigation">
 				<ul>
-					<li><a href="/">Home</a></li>
+					<li><a href="/">Blog</a></li>
 					<li><a href="/about/">About</a></li>
-					<li><a href="/about/#work">Work</a></li>
-					<li><a href="/talks/">Talks</a></li>
-					<li><a href="/tests/">Tests</a></li>
+					<li><a href="/work/">Work</a></li>
+					<li><a href="/contact/">Contact</a></li>
+					<!-- <li><a href="/talks/">Talks</a></li>
+					<li><a href="/tests/">Tests</a></li> -->
 				</ul>
 			</nav>
 
@@ -91,6 +91,7 @@
 			<p>&copy; {{ 'now' | date: "%Y" }} <a href="http://alpha.app.net/anselm">Anselm Hannemann</a>.
 			   The source code of this blog is <a href="https://github.com/anselmh/anselm-hannemann.com">hosted on GitHub</a>.<br>
 			   You should <a href="">grab the RSS feed</a> and <a href="https://twitter.com/helloanselm">follow me on Twitter</a>.</p>
+			<p>This site is under my <a href="/tos/">Terms of Service</a>. All commercial work / projects are based on the individual project contract and the ToS. <a href="/legal/">Go to legal notices</a></p>
 		</footer>
 	</div>
 
