@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Blogging with Jekyll, Markdown and GitHub pages"
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Should conference coverage be free for everyone?"
 ---
 
@@ -11,5 +11,5 @@ I would be pleased if you spread the word and share this post. I want to make a 
 
 <iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dGZqclBYYUxuS0dQOElULXhvd3RISVE6MQ" width="320" height="380" frameborder="0" marginheight="0" marginwidth="0">Wird geladen...</iframe>
 
-And if you want to **share your opinion**, add some notes or just want to shout at me, **[mention me on Twitter](https://twitter.com/anselmhannemann), [on ADN](https://alpha.app.net/anselm), [comment on Google Plus](https://plus.google.com/111125333979619018462/posts/V49kvz17CD7)** or [on news.ycombinator](http://news.ycombinator.com/item?id=4841615).  
+And if you want to **share your opinion**, add some notes or just want to shout at me, **[mention me on Twitter](https://twitter.com/anselmhannemann), [on ADN](https://alpha.app.net/anselm), [comment on Google Plus](https://plus.google.com/111125333979619018462/posts/V49kvz17CD7)** or [on news.ycombinator](http://news.ycombinator.com/item?id=4841615).
 I really appreciate your feedback.

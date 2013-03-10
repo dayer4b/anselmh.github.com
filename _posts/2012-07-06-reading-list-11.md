@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "#11 The crazy weekly"
 ---
 
@@ -7,7 +7,7 @@ title: "#11 The crazy weekly"
 
 - This is Wally, the mega yacht. Check out their website to see more awesome boats: <a href="http://www.wally.com/why/">![mega-yacht on sea](/assets/images/blog/2012-07-06/wy.jpg)</a>
 
-- Now [this presentation](https://speakerdeck.com/u/matthewreidsma/p/responsive-web-design-for-libraries-get-beyond-the-myth-of-the-mobile-web-1) shows you a summary on what is responsive webdesign. It really is worth it!  
+- Now [this presentation](https://speakerdeck.com/u/matthewreidsma/p/responsive-web-design-for-libraries-get-beyond-the-myth-of-the-mobile-web-1) shows you a summary on what is responsive webdesign. It really is worth it!
 <script async class="speakerdeck-embed" data-id="4fe7fa63558e2d001f020d47" data-ratio="1.3333333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 - Improved developer tooling, [read](http://addyosmani.com/blog/improved-developer-tooling-and-yeoman/) an see the video.

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Why I removed the Social Media Buttons"
 ---
 

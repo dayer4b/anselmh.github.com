@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "[Weekly Roundup #8] Links of the week"
 ---
 
@@ -9,16 +9,16 @@ title: "[Weekly Roundup #8] Links of the week"
 
 - Here is a nice article about the [new CSS3 OpenType features](http://www.typotheque.com/articles/opentype_features_in_web_browsers) and how you can use it. Also a comparison chart is there to display which browsers support the specific styles.
 
-- Finally this silly scaling bug is resolved in iOS6:  
+- Finally this silly scaling bug is resolved in iOS6:
 <blockquote class="twitter-tweet" lang="de"><p>I have seen it with my own eyes: as of iOS 6.0, the orientationchange/scale bug is dead.<a href="http://t.co/kfeBye74" title="http://filamentgroup.com/examples/iosScaleBug/">filamentgroup.com/examples/iosSc…</a></p>&mdash; Mat “Wilto” Marquis (@wilto) <a href="https://twitter.com/wilto/status/212636063762628608" data-datetime="2012-06-12T20:02:42+00:00">Juni 12, 2012</a></blockquote>
 <script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-- I am talking about responsive images in German podcast ["Working Draft"](http://workingdraft.de/73/) and  about CSS compositing, CSS blending, Quota Management API and CORS.  
+- I am talking about responsive images in German podcast ["Working Draft"](http://workingdraft.de/73/) and  about CSS compositing, CSS blending, Quota Management API and CORS.
 As of this, Matthew Wilcox [wrote for the Opera Dev Channel](http://dev.opera.com/articles/view/responsive-images-problem/) a big summary of the topic, too.
 
 - If you thought SPDY is this brilliant performant and superfast new "HTTP" you might be wrong. Guy Podjarny [shows the results](http://www.guypo.com/technical/not-as-spdy-as-you-thought/).
 
-- iOS6 will have increased AppCache and now is up to 25MB:  
+- iOS6 will have increased AppCache and now is up to 25MB:
 <blockquote class="twitter-tweet" lang="de"><p>Hey, <a href="https://twitter.com/search/%2523iOS6">#iOS6</a> will have increased HTML5 <a href="https://twitter.com/search/%2523AppCache">#AppCache</a> up to 25MB (5MB currently)!</p>&mdash; Anselm Hannemann (@anselmhannemann) <a href="https://twitter.com/anselmhannemann/status/212435080516349952" data-datetime="2012-06-12T06:44:04+00:00">Juni 12, 2012</a></blockquote>
 <script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

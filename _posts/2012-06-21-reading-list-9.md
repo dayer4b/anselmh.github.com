@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Links of the week #9 – Work, Life and Side Projects"
 ---
 
@@ -13,6 +13,6 @@ title: "Links of the week #9 – Work, Life and Side Projects"
 
 - [Debunking Responsive CSS Performance Myths](http://www.igvita.com/2012/06/14/debunking-responsive-css-performance-myths/) – this article shows what myths you might heard of are wrong. So read it, and rethink if you are right on responsive CSS performance.
 
-- Hell yeah, Front Trends 2012 videos are live! Check them out [here](https://vimeo.com/user9986068) or watch two of them in my blog:  
-<iframe src="http://player.vimeo.com/video/44182484?byline=0&amp;color=d13066" width="630" height="354" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>  
+- Hell yeah, Front Trends 2012 videos are live! Check them out [here](https://vimeo.com/user9986068) or watch two of them in my blog:
+<iframe src="http://player.vimeo.com/video/44182484?byline=0&amp;color=d13066" width="630" height="354" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 <iframe src="http://player.vimeo.com/video/44297900?byline=0&amp;color=d13066" width="630" height="354" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>

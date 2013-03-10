@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "The probably best iPad Magazines so far"
 ---
 
@@ -7,7 +7,7 @@ title: "The probably best iPad Magazines so far"
 
 If you search for cool iPad magazines you might buy these ones here. They all are very cool magazines and worth the price they cost. The pictures shown here are just screens of the current issue and might be outdated directly after publishing this post. Please make your own opinion and share it on iTunes :).
 
-- [MONTE Magazin: ![image of follow-up link to MONTE App in iTunes Store](/assets/images/blog/2012-03-08_iPadMags/monte_2.jpg)](http://itunes.apple.com/de/app/monte-magazin-01/id447344403?mt=8)  
+- [MONTE Magazin: ![image of follow-up link to MONTE App in iTunes Store](/assets/images/blog/2012-03-08_iPadMags/monte_2.jpg)](http://itunes.apple.com/de/app/monte-magazin-01/id447344403?mt=8)
 
 - [Le Monde M Magazine: ![image of follow-up link to Le Monde Magazin App in iTunes Store](/assets/images/blog/2012-03-08_iPadMags/lemonde-m.jpg)](http://itunes.apple.com/sa/app/m-magazine/id478671861?mt=8)
 

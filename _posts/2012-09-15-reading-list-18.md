@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Late Reading List #18"
 ---
 

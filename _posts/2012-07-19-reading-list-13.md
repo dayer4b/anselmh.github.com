@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "13th roundup of the week"
 ---
 
@@ -13,7 +13,7 @@ title: "13th roundup of the week"
 
 4. Adobe WebPlatform Team published an **[article about image progress events](http://blogs.adobe.com/webplatform/2012/07/10/image-progress-event-progress/)**. This is about the loading progress of images on a website and how to control and target it. This will be very helpful to control the image loading on websites and it is helpful for responsive images as well as you can control which image to load on which device/resolution/UA.
 
-5. With the problem of responsive images, Matt Wilcox brought up another problem and a solution for it: **HTML variables**. This would have been super useful for responsive images media-queries, anchors and URLs as well as other markup patterns. We left that out for the responsive images solution but now Ville V. Vanninen (AKA sakamies) [published a javascript](https://github.com/sakamies/headcase.js) that allows to use these variables on your HTML.  
+5. With the problem of responsive images, Matt Wilcox brought up another problem and a solution for it: **HTML variables**. This would have been super useful for responsive images media-queries, anchors and URLs as well as other markup patterns. We left that out for the responsive images solution but now Ville V. Vanninen (AKA sakamies) [published a javascript](https://github.com/sakamies/headcase.js) that allows to use these variables on your HTML.
 _Just be aware that this can completely break your markup and website if JS is disabled and that the script increases your initial load time._
 
 6. Christian Heilmann [asks for your help](https://plus.google.com/111552931212713155841/posts/RkpYBcJQf5S). He wants to know what **Javascript frameworks you're using** when developing a mobile (web-)App. Just [fill out his quick survey](https://docs.google.com/spreadsheet/viewform?formkey=dGZ3b2l0WTI5YkVUZjZhLWZZWnhsc1E6MQ) to move the web forward.

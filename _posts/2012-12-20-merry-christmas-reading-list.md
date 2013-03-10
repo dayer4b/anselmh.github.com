@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Merry Christmas and… a Reading List"
 ---
 
@@ -8,7 +8,7 @@ title: "Merry Christmas and… a Reading List"
 
 ## Holidays
 
-First, I will be in holidays for the next few days and back on January, 6th.  
+First, I will be in holidays for the next few days and back on January, 6th.
 Don't expect an answer or anything else via email, twitter oder other communication. I won't have access to phone or internet during this time.
 
 ## Projects

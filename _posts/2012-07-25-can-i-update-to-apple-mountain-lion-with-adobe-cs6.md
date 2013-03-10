@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Can I update to Apple Mountain Lion with Adobe CS6?"
 ---
 

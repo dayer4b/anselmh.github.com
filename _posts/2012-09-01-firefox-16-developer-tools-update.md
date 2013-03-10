@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Firefox 16 developer tools update"
 ---
 
@@ -15,7 +15,7 @@ I would say well done, Mozilla! :)
 
 ## Console
 
-The other news is the **new console** where you can start controlling Firefox via console. **Open the console with Shift + F2** (add fn-key on OS X) and start typing.  
+The other news is the **new console** where you can start controlling Firefox via console. **Open the console with Shift + F2** (add fn-key on OS X) and start typing.
 Now, what can you do with it? [Chris Heilmann shows](http://christianheilmann.com/2012/08/15/browsers-have-a-presenter-mode-console-info/) a super-cool way of using console.info() for presentations. Get inspired!
 
 ## cookie edit

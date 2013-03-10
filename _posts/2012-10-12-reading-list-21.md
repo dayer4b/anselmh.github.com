@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Reading List #21"
 ---
 
@@ -13,7 +13,7 @@ First I want to promote an event here because it is in my personal interest to g
 
 [Hans wrote](http://drublic.de/blog/conference-test-the-web-forward/) about the last weeks stuffed with conferences and calls for participation on [TestTheWebForward in Paris](http://testthewebforward.org/paris-2012.html) later this month.
 
-If you want to contribute to W3C or WHATWG or just want to help [MoveTheWebForward](http://movethewebforward.org/) you should attend to the hacker-session in Paris on October, 26th-27th. You will learn how to write tests for browsers and specs and how to report back to make the web a better place! 
+If you want to contribute to W3C or WHATWG or just want to help [MoveTheWebForward](http://movethewebforward.org/) you should attend to the hacker-session in Paris on October, 26th-27th. You will learn how to write tests for browsers and specs and how to report back to make the web a better place!
 
 ## Weekly Reading List
 

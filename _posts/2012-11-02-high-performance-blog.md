@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "I am a high performance blog"
 ---
 

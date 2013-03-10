@@ -27,6 +27,10 @@
 	line-height: 1.5;
 }
 
+.page--post > h1 {
+	color: $a-pink;
+}
+
 .page-main > p {
 	@include x-hyphen();
 
@@ -36,7 +40,8 @@
 }
 
 .page-main p,
-.page-main li {
+.page-main li,
+.page-main pre {
 	@include x-rem(max-width, 40);
 }
 

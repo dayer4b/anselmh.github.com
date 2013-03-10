@@ -1,5 +1,10 @@
 // Standard formatting
 
+img {
+	max-width: 100%;
+	height: auto;
+}
+
 .page-main a {
 	color: $a-turquoise;
 }
@@ -87,7 +92,7 @@
 	@media ($a-media-m) {
 		float: left;
 		padding: 0.25em 1em 1.5em 0;
-		max-width: 30%;
+		max-width: 15em;
 	}
 }
 

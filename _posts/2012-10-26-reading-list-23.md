@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Reading List #23"
 ---
 
@@ -15,5 +15,5 @@ title: "Reading List #23"
 
 - [rvl.io](http://www.rvl.io/anselm) - ya know reveal.js? This is the online editor and platform
 
-- Joshua Davis at BTPlay:  
+- Joshua Davis at BTPlay:
 <iframe src="http://player.vimeo.com/video/52161889?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;color=8b5e3b" width="576" height="324" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>

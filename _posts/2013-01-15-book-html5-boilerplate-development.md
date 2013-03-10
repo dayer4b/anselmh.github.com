@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Book: HTML5 Boilerplate Development"
 ---
 
@@ -17,8 +17,8 @@ Then follows a chapter about how to deal with jQuery and plugins as well as how 
 
 If you ever wondered what this [.htaccess](https://github.com/h5bp/html5-boilerplate/blob/master/.htaccess) file does, the next chapter will tell you. All the cool tricks done in the project are explained and let you understand more of servers, clients and performance issues.
 
-Now, you basically know about all the cool things you can do with HTML5Boilerplate but unfortunately one often has to deal with older browsers, too. H5BP has several helpers built in for old IE and you will learn how to use them and what you have to take care of if you build a modern responsive website.  
-As SASS as a CSS preprocessor language becomes more and more popular, there is a section how you can convert your styles from CSS to SASS.  
+Now, you basically know about all the cool things you can do with HTML5Boilerplate but unfortunately one often has to deal with older browsers, too. H5BP has several helpers built in for old IE and you will learn how to use them and what you have to take care of if you build a modern responsive website.
+As SASS as a CSS preprocessor language becomes more and more popular, there is a section how you can convert your styles from CSS to SASS.
 But we're not finished yet, there are tons of things that are not build into HTML5Boilerplate by default but can speed up your site, increase SEO level or other things. This book brims over with cool tricks!
 
 Now you might be finished with your cool new project but still have to deploy it. This can be automated with build scripts. [Divya Manian](http://nimbupani.com/), the author of the book, tells you how to deal with a build tool to automate your deployment process and let these tools do all the concatenation, compression stuff you won't do manually. Now if you've read all that, you will be an expert of frontend development. No, basically I can say, if you read it and can develop under these guidelines as well as understand what you do, you are a rock solid developer.
