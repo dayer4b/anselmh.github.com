@@ -1,7 +1,15 @@
+// Standard formatting
+
+.page-main a {
+	color: $a-turquoise;
+}
+
+
+// Post list - Index view
+
 .posts-list {
 	list-style: none;
 	padding: 0;
-
 }
 
 .posts-post {
@@ -19,15 +27,15 @@
 	}
 }
 
-.posts-post:nth-child(1),
-.posts-post:nth-child(2),
-.posts-post:nth-child(3), {
-	border-color: $a-pink;
+		.posts-post:nth-child(1),
+		.posts-post:nth-child(2),
+		.posts-post:nth-child(3), {
+			border-color: $a-pink;
 
-	a {
-		color: $a-pink;
-	}
-}
+			a {
+				color: $a-pink;
+			}
+		}
 
 	.post__time {
 		font-size: 1em;
@@ -60,6 +68,15 @@
 		}
 	}
 }
+
 	.page-main > .posts-pagination {
 		padding-left: 0;
 	}
+
+// Standard pages
+
+.page-main > h2 {
+	font-weight: normal;
+	color: $a-pink;
+}
+
