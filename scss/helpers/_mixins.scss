@@ -1,5 +1,92 @@
 // font family
 
 @mixin page--font-body {
-	font-family: "ff-meta-serif-web-pro", Georgia, Times, "Times New Roman", serif;
+	font-family: 'Lora', Georgia, Times, 'Times New Roman', serif;
+}
+
+@mixin page--font-header {
+	font-family: 'Istok Web', 'Helvetica Neue', Helvetica, Cambria, Arial, sans-serif;
+}
+
+// Applies hyphenations and line breaks on a given element
+
+@mixin x-hyphen() {
+	word-break: break-all;
+	word-break: break-word;
+
+	-webkit-hyphens: auto;
+	   -moz-hyphens: auto;
+	        hyphens: auto;
+}
+
+// Enables using of CSS3 value `rem`
+// Documentation: docs/rem.md
+@mixin x-rem($property, $values, $main-font-size: 16px) {
+
+	// Empty list for all values in px
+	$px-values: ();
+	$rem-values: ();
+
+	// Iterate over entries
+	@each $value in $values {
+
+		// If the value is zero, return 0
+		@if $value == 0 {
+			$px-values: append($px-values, $value);
+			$rem-values: append($rem-values, $value);
+
+		// If the value is not zero, convert it from px to rem
+		} @else {
+			$px-values: append($px-values, ($value * $main-font-size) );
+			$rem-values: append($rem-values, #{$value}rem);
+		}
+	}
+
+	// Return the property and its list of converted values
+	#{$property}: #{$px-values};
+	#{$property}: #{$rem-values};
+}
+
+// Generates multiple color stops in gradients for a given element
+// Documentation: docs/multiple-colored-gradient.md
+@mixin x-multiple-colored-gradient($args) {
+
+	$gradient: ();
+	$pos: nth($args, 1);
+	$pos_newsyntax: ();
+
+	// New Syntax
+	@if $pos == 'top' {
+		$pos_newsyntax: 'to bottom';
+	} @else if $pos == 'right' {
+		$pos_newsyntax: 'to left';
+	} @else if $pos == 'bottom' {
+		$pos_newsyntax: 'to top';
+	} @else if $pos == 'left' {
+		$pos_newsyntax: 'to right';
+	} @else {
+		$pos_newsyntax: $pos;
+	}
+
+	@each $g in $args {
+		@if ($g != 'top')
+			and ($g != 'right')
+			and ($g != 'bottom')
+			and ($g != 'left')
+			and ($g != 'to top')
+			and ($g != 'to right')
+			and ($g != 'to bottom')
+			and ($g != 'to left')
+			/* angle targeted? */ {
+				$gradient: append($gradient, $g, comma);
+		}
+	}
+
+	/* all done for angle support yet? Not sure. */
+
+	background-image:  -webkit-linear-gradient(unquote($pos), $gradient);
+	background-image:     -moz-linear-gradient(unquote($pos), $gradient);
+	background-image:      -ms-linear-gradient(unquote($pos), $gradient);
+	background-image:       -o-linear-gradient(unquote($pos), $gradient);
+	background-image: unquote('linear-gradient(#{$pos_newsyntax}, #{$gradient})');
 }

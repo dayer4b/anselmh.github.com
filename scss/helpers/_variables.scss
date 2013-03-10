@@ -1,0 +1,19 @@
+$copy-color: #111;
+$background: #f7f5f6;
+
+$copy-color--invert: $background;
+$background--invert: $copy-color;
+
+//own namespaced colors
+$a-bright: $background;
+$a-mid: #999;
+$a-dark: $copy-color;
+
+$a-turquoise: #78cfc6;
+$a-yellow: #ffb300;
+$a-pink: #e01b6a;
+
+// media queries
+$a-media-s: "max-width: 20em";
+$a-media-m: "max-width: 35em";
+$a-media-l: "min-width: 50em";

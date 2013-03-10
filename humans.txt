@@ -9,6 +9,7 @@
 # THANKS
 
     <name>
+    Hans-Christian Reinl (@drublic) for his init-framework
 
 # TECHNOLOGY COLOPHON
 
@@ -16,5 +17,4 @@
     Normalize.css, jQuery, Modernizr
     init
     Yekyll
-    github
-    grunt
+    github-pages

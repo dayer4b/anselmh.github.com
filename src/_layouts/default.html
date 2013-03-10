@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js  page  {{ page.page-class }}">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, minimum-scale=1.0">
+	<meta name="description" content="Articles on HTML5, CSS, front-end architecture, performance and Digital Publishing.">
+
+	<link rel="dns-prefetch" href="//helloanselm.com">
+	<link rel="dns-prefetch" href="//anselm.uberspace.de">
+	<link rel="dns-prefetch" href="//ajax.googleapis.com">
+
+	<title>{{ page.title }} &ndash; Anselm Hannemann &ndash; HTML5, CSS, front-end architecture, performance and Digital Publishing</title>
+
+	<!-- Load Webfonts from Google CDN asynchronously -->
+	<script type="text/javascript">
+		WebFontConfig = {
+			google: { families: [ 'Istok+Web:400,700:latin' , 'Lora:400,700:latin' ] }
+		};
+		(function() {
+			var wf = document.createElement('script');
+			wf.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+			wf.type = 'text/javascript';
+			wf.async = 'true';
+			var s = document.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(wf, s);
+		})();
+	</script>
+
+	<link rel="stylesheet" href="/css/main.css">
+
+	<link rel="shortcut icon" href="/icon.png">
+	<link rel="apple-touch-icon-precomposed" href="/icon.png">
+	<meta name="apple-mobile-web-app-title" content="helloanselm">
+
+	<script src="/js/vendor/modernizr-2.6.2.js"></script>
+</head>
+<body>
+	<!--[if lt IE 9]>
+		<p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+	<![endif]-->
+
+	<!-- Hidden preload `div` to fetch images before CSS needs them. -->
+	<div class="ಠ_ಠ">
+		<img src="/imgs/sprites/main.svg" alt="">
+	</div>
+
+<div class="wrapper">
+
+	<header class="page-head">
+
+		<a href="/">
+			<h1>Anselm Hannemann</h1>
+			<h2>Freelance Web Developer, Speaker, Event organizer</h2>
+		</a>
+
+		<nav class="page-nav" role="navigation">
+			<ul>
+				<li><a href="/">Home</a></li>
+				<li><a href="/about/">About</a></li>
+				<li><a href="/about/#work">Work</a></li>
+				<li><a href="/talks/">Talks</a></li>
+				<li><a href="/tests/">Tests</a></li>
+			</ul>
+		</nav>
+
+	</header>
+
+	<main class="page-main" role="main">
+
+		{{ content }}
+
+	</main>
+
+	<aside class="page-aside">
+		<div class="aside--profile-picture" data-picture data-alt="Portrait of Anselm Hannemann outdoor">
+			<div data-src="/img/anselmhannemann.jpg"></div>
+			<div data-src="/img/anselmhannemann.jpg" data-media="(min-width: 1000px)"></div>
+			<noscript><img src="/img/anselmhannemann.jpg" alt="Portrait of Anselm Hannemann outdoor"></noscript>
+		</div>
+		<p>Hi there, I’m Anselm. I am a 23 year old <b>designer</b>, <b>developer</b>, <b>writer</b> and <b>speaker</b> from germany; I work as a freelancer. I <a href="/archive/">write</a>, <a href="http://twitter.com/helloanselm">tweet</a>, <a href="https://slides.anselm-hannemann.com/">speak</a> and <a href="http://github.com/anselmh">share code</a> about HTML5, CSS3 techniques and various other stuff.</p>
+		<p><a href="https://twitter.com/helloanselm" class="twitter-follow-button" data-show-count="true" data-lang="en">Follow @helloanselm</a></p>
+
+		<ul class="block-list">
+
+			<li>
+				<a href="http://inuitcss.com">
+					<img src="/img/content/inuit.css-logo.png" alt="OpenDeviceLab.com" class="logo">
+				</a>
+				<a href="http://opendevicelab.com">opendevicelab.com</a> is a platform aout Open Device Testing Labs.
+			</li>
+
+			<li>
+				<a href="">
+					<img src="" alt="">
+				</a>
+				<a hef="#">RICG</a> is a W3C Community Group for Responsive Images solutions on the web.
+			</li>
+
+		</ul>
+
+	</aside>
+
+	<footer class="page-foot">
+
+		<p>&copy; {{ 'now' | date: "%Y" }} <a href="http://alpha.app.net/anselm">Anselm Hannemann</a>.
+		   Built with <a href="http://html5boilerplate.com">H5BP (customized)</a>
+		   and <a href="https://github.com/mojombo/jekyll/">Jekyll</a>.
+		   The source code of this blog is <a href="https://github.com/anselmh/anselm-hannemann.com">hosted on GitHub</a>.<br>
+		   You should <a href="http://feeds.feedburner.com/">grab the RSS feed</a> and <a href="https://twitter.com/helloanselm">follow me on Twitter</a>.</p>
+
+	</footer>
+</div>
+
+	<script>
+		var _paq = _paq || [];
+		(function(){ var u=(("https:" == document.location.protocol) ? "https://anselm-hannemann.com/piwik/" : "http://anselm-hannemann.com/piwik/");
+		_paq.push(['setSiteId', {1}]);
+		_paq.push(['setTrackerUrl', u+'piwik.php']);
+		_paq.push(['trackPageView']);
+		_paq.push(['enableLinkTracking']);
+		var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript'; g.defer=true; g.async=true; g.src=u+'piwik.js';
+		s.parentNode.insertBefore(g,s); })();
+	</script>
+	<noscript><p><img src="http://anselm-hannemann.com/piwik/piwik.php?idsite=1" style="border:0" alt="" /></p></noscript>
+</body>
+</html>
