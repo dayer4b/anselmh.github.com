@@ -7,6 +7,7 @@
 		> h1,
 		> h2 {
 			margin: 0;
+			font-weight: normal;
 		}
 
 		> h2 {
@@ -28,6 +29,8 @@
 
 			> a{
 				text-decoration: none;
+				color: $a-turquoise;
+				border-bottom: thin solid $a-mid;
 			}
 		}
 	}

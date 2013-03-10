@@ -659,7 +659,8 @@ textarea {
   text-decoration: none; }
   .page-head > a > h1,
   .page-head > a > h2 {
-    margin: 0; }
+    margin: 0;
+    font-weight: normal; }
   .page-head > a > h2 {
     font-size: 1em;
     color: #999999; }
@@ -672,11 +673,17 @@ textarea {
     .page-nav > ul > li {
       display: inline-block; }
       .page-nav > ul > li > a {
-        text-decoration: none; }
+        text-decoration: none;
+        color: #78cfc6;
+        border-bottom: thin solid #999999; }
 
 .page-foot {
   margin: 5em auto 0 auto; }
 
+@media (min-width: 35em) {
+  .wrapper {
+    max-width: 50em;
+    margin: 2em auto 0 auto; } }
 .wrapper:before {
   /* all done for angle support yet? Not sure. */
   background-image: -webkit-linear-gradient(left, #78cfc6 0%, #78cfc6 25%, #ffb300 25%, #ffb300 50%, #e01b6a 50%, #e01b6a 75%, #111111 75%);
@@ -689,10 +696,6 @@ textarea {
   height: 0.5em; }
 
 .page-main {
-  max-width: 560px;
-  max-width: 35rem;
-  margin-right: 80px;
-  margin-right: 5rem;
   line-height: 1.5; }
 
 .page-main > p {
@@ -704,6 +707,10 @@ textarea {
   .page-main > p:first-child {
     font-size: 24px;
     font-size: 1.5rem; }
+
+.page-main p {
+  max-width: 560px;
+  max-width: 35rem; }
 
 .page-main > ul,
 .page-main > ol {
@@ -738,14 +745,49 @@ textarea {
   padding: 0; }
 
 .posts-post {
-  margin: 2em 0 4em 0; }
+  margin: 0.5em 0 0.5em 0;
+  padding: 1.5em 1em;
+  vertical-align: middle;
+  border: thin solid #999999; }
+  @media (min-width: 35em) {
+    .posts-post {
+      display: inline-block;
+      width: 27%;
+      min-width: 10em;
+      min-height: 10em; } }
+
+.posts-post:nth-child(1),
+.posts-post:nth-child(2),
+.posts-post:nth-child(3) {
+  border-color: #e01b6a; }
+  .posts-post:nth-child(1) a,
+  .posts-post:nth-child(2) a,
+  .posts-post:nth-child(3) a {
+    color: #e01b6a; }
 
 .post__time {
   font-size: 1em;
   color: #999999; }
 
 .post__title {
-  margin: 0.25em 0 0.5em 0; }
+  margin: 0.25em 0 0.5em 0;
+  font-weight: normal; }
+  .post__title a {
+    text-decoration: none;
+    border-bottom: thin solid #999999;
+    padding-bottom: 0; }
+
+.posts-pagination {
+  font-family: "Istok Web", "Helvetica Neue", Helvetica, Cambria, Arial, sans-serif;
+  list-style: none; }
+  .posts-pagination > li {
+    display: inline;
+    color: #999999; }
+    .posts-pagination > li > a {
+      color: #e01b6a; }
+
+.page-main > .posts-pagination {
+  padding-left: 0; }
 
 @media print {
   /* ==========================================================================
