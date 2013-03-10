@@ -80,3 +80,14 @@
 	color: $a-pink;
 }
 
+.page-main p > img {
+	display: block;
+	max-width: 100%;
+
+	@media ($a-media-m) {
+		float: left;
+		padding: 0.25em 1em 1.5em 0;
+		max-width: 30%;
+	}
+}
+

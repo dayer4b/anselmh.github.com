@@ -5,7 +5,8 @@ title: "About me"
 
 ## About me
 
-I am a 23 year old frontend developer from the lovely Munich, Germany and work as a freelancer. You can hire me but _be sure [I match your interest]()_.  
+![Profile picture of Anselm Hannemann](/img/anselmhannemann.jpg)
+I am a 23 year old frontend developer from the lovely Munich, Germany and work as a freelancer. You can hire me but _be sure [I match your interest]()_.
 Also _make sure you are asking for a proper time frame_. I won't take any development project that has to be finished within the next two weeks. [Find out why]().
 
 ## What I do
@@ -30,11 +31,11 @@ If you hire me, you will get either of the following work from me:
 
 - If you don't know how to make a responsive and flexible concept and design I won't be the right person to develop your layout as code.
 
-- Consider a proper timeframe that is doable for you and me. If I don't have the data in time, I might have to drop the project or drop the project during development and send you an invoice for the work I've done until that.   
+- Consider a proper timeframe that is doable for you and me. If I don't have the data in time, I might have to drop the project or drop the project during development and send you an invoice for the work I've done until that.
 
 ## Recruiters
 
-This is simple: I am always open for a new work experience but be sure it really fits to me and it is properly paid.  
+This is simple: I am always open for a new work experience but be sure it really fits to me and it is properly paid.
 I expect recruiters to read my [CV](), look at [my projects]() and consider the employer has no problem with me not having a post-graduate but 6 years working in my job already with much experience.
 
 With that in mind, I will be happy to speak with you about possibilities. But don't expect me to reply if you are not aware of the point above. Thank you! :)
