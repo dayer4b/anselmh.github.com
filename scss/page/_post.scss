@@ -1,0 +1,74 @@
+
+.wrapper {
+	//border-top: 0.5em solid #e01b6a;
+
+	&:before {
+		@include x-multiple-colored-gradient(( "left", #78cfc6 0%, #78cfc6 25%, #ffb300 25%, #ffb300 50%, #e01b6a 50%, #e01b6a 75%, #111 75% ));
+
+		display: block;
+		width: 100%;
+		height: 0.5em;
+	}
+}
+
+.page-main {
+	@extend %clearfix;
+
+	@include x-rem(max-width, 35);
+	@include x-rem(margin-right, 5);
+	margin-left: auto;
+
+	line-height: 1.5;
+}
+
+.page-main > p {
+	@include x-hyphen();
+
+	&:first-child {
+		@include x-rem(font-size, 1.5);
+	}
+}
+
+.page-main > ul,
+.page-main > ol {
+	padding: 0 0 0 1em;
+}
+
+.page-aside {
+	@extend %clearfix;
+	@include x-rem(padding, 1 1 0.25 1);
+	@include x-rem(margin, 0 1 0 2);
+	@include x-rem(font-size, 1);
+
+	float: left;
+	width: 20em;
+
+	background: $a-turquoise;
+
+	line-height: 1.5;
+	color: #fff;
+
+	> ul {
+		list-style: none;
+		padding: 0;
+	}
+
+	a, a:hover, a:visited {
+		color: $a-dark;
+	}
+
+	.aside--profile-picture {
+
+	}
+}
+
+.page-foot {
+	//@include x-rem(font-size, 1);
+
+	clear: both;
+	color: $a-mid;
+
+	a, a:hover, a:visited {
+		color: $a-mid;
+	}
+}

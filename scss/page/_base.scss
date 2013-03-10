@@ -15,12 +15,23 @@ button,
 input,
 select,
 textarea {
-	color: #222;
+	color: $copy-color;
 }
 
 body {
-	font-size: 1em;
+	font-size: 21px;
 	line-height: 1.4;
+	background: $background;
+
+	@include x-multiple-colored-gradient(( "left", $a-turquoise 0%, $a-turquoise 25%, $a-yellow 25%, $a-yellow 45%, $a-pink 45%, $a-pink 70%, $copy-color 70% ));
+	background-size: 100% 0.4em;
+	background-repeat: no-repeat;
+}
+
+a,
+a:hover,
+a:visited {
+	color: $a-dark;
 }
 
 /*

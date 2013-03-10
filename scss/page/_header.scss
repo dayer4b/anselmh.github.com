@@ -1,0 +1,29 @@
+
+.page-head {
+
+	> a {
+		text-decoration: none;
+
+		> h1,
+		> h2 {
+			margin: 0;
+		}
+
+		> h2 {
+			font-size: 1em;
+			color: $a-mid;
+		}
+	}
+}
+
+.page-nav {
+
+	> ul {
+		padding-left: 0;
+		list-style: none;
+
+		> li {
+			display: inline-block;
+		}
+	}
+}
