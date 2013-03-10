@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The W3C Redesign in a nutshell"
+published: false
 ---
 
 **By accident I was forced to redesign the W3C QA blog. An interesting back and forward story.**
