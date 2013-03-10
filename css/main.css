@@ -708,9 +708,10 @@ textarea {
     font-size: 24px;
     font-size: 1.5rem; }
 
-.page-main p {
-  max-width: 560px;
-  max-width: 35rem; }
+.page-main p,
+.page-main li {
+  max-width: 640px;
+  max-width: 40rem; }
 
 .page-main > ul,
 .page-main > ol {
@@ -719,12 +720,6 @@ textarea {
 .page-aside {
   padding: 16px 16px 4px 16px;
   padding: 1rem 1rem 0.25rem 1rem;
-  margin: 0 16px 0 32px;
-  margin: 0 1rem 0 2rem;
-  font-size: 16px;
-  font-size: 1rem;
-  float: left;
-  width: 20em;
   background: #78cfc6;
   line-height: 1.5;
   color: #fff; }
@@ -732,13 +727,16 @@ textarea {
     list-style: none;
     padding: 0; }
   .page-aside a, .page-aside a:hover, .page-aside a:visited {
-    color: #111111; }
+    color: #f7f5f6; }
 
 .page-foot {
   clear: both;
   color: #999999; }
   .page-foot a, .page-foot a:hover, .page-foot a:visited {
     color: #999999; }
+
+.page-main a {
+  color: #78cfc6; }
 
 .posts-list {
   list-style: none;
@@ -788,6 +786,10 @@ textarea {
 
 .page-main > .posts-pagination {
   padding-left: 0; }
+
+.page-main > h2 {
+  font-weight: normal;
+  color: #e01b6a; }
 
 @media print {
   /* ==========================================================================
