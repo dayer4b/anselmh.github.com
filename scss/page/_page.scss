@@ -138,6 +138,11 @@ img {
 		-ms-transition: all ease-in-out 0.5s;
 		transition: all ease-in-out 0.5s;
 
+		@media (max-width: 35em) {
+			min-height: 0;
+			height: auto;
+		}
+
 		&:hover {
 			-webkit-filter: grayscale(0);
 			filter: grayscale(0);
@@ -158,8 +163,29 @@ img {
 	}*/
 }
 
+	.work--oss {
+		position: relative;
+	}
 
+	@media ($a-media-m) {
+		.work--oss:after {
+			position: absolute;
+			right: -3.5em;
+			top: 1em;
+			display: block;
+			width: 10em;
+			height: 2em;
+			padding-top: 0.4em;
+			padding-left: 4em;
 
+			background: $a-turquoise;
+			color: #fff;
+			font-size: 0.6em;
+			@include page--font-header;
+			content: 'Open Source' !important;
+			-webkit-transform: rotate(30deg);
+		}
+	}
 
 
 
