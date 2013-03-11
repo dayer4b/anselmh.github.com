@@ -6,3 +6,4 @@ permalink: /:year/:title
 paginate: 12
 destination: _site
 future: false
+markdown: redcarpet
