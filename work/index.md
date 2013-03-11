@@ -37,5 +37,5 @@ Here are some projects I am part of. For most I developed the frontend code or d
 
 ### [InDesign User Group Munich](http://indesignusergroup.de/)
 
-![Logo of the InDesign User Group Munich showing the Münchner Kindl](/img/work/idugm.svg) I am one of three hosts of the InDesign User Group Munich. Events happen every two months and are free and public.
+I am one of three hosts of the InDesign User Group Munich. Events happen every two months and are free and public.
 
