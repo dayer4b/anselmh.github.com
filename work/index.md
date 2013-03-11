@@ -51,9 +51,9 @@ Here are some projects I am part of. For most I developed the frontend code or d
 
 ### [PUBKON Conference](http://pubkon.eu/)
 
-The PUBKON conference is a German publishing event happening once a year. It features most of the Top-Speakers as well as some less known newcomers and full day workshops the day before the conference starts. I am one of the four organizers.
+![Logo of the PUBKON Conference showing the ](/img/work/PUBKON_13.svg) The PUBKON conference is a German publishing event happening once a year. It features most of the Top-Speakers as well as some less known newcomers and full day workshops the day before the conference starts. I am one of the four organizers.
 
 ### [InDesign User Group Munich](http://indesignusergroup.de/)
 
-I am one of three hosts of the InDesign User Group Munich. Events happen every two months and are free and public.
+![Logo of the InDesign User Group Munich showing the Münchner Kindl](/img/work/idugm.svg) I am one of three hosts of the InDesign User Group Munich. Events happen every two months and are free and public.
 
