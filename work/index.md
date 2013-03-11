@@ -27,24 +27,6 @@ Here are some projects I am part of. For most I developed the frontend code or d
 		</a>
 	</li>
 
-	<li class="work--oss">
-		<a href="">
-			<img src="/img/work/" alt="">
-		</a>
-	</li>
-
-	<li class="work--oss">
-		<a href="">
-			<img src="/img/work/" alt="">
-		</a>
-	</li>
-
-	<li class="work--oss">
-		<a href="">
-			<img src="/img/work/" alt="">
-		</a>
-	</li>
-
 </ul>
 
 ## Events
