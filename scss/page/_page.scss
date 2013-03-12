@@ -9,6 +9,10 @@
 	.page-head > a > h1 {
 		@include x-rem(margin-top, 1.5);
 	}
+
+	.page-main {
+		font-size: 0.7em;
+	}
 }
 
 img {
