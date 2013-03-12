@@ -10,7 +10,9 @@
 		@include x-rem(margin-top, 1.5);
 	}
 
-	.page-main {
+	.page-main,
+	.page-aside,
+	.page-foot {
 		font-size: 0.7em;
 	}
 }
