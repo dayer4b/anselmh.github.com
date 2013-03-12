@@ -51,6 +51,11 @@ WebFontConfig = {
 
 This all results in a super fast load time. As the site is served through a CDN, delays are much less than before when serving everything from just German servers. Even on mobile networks the site loads very fast.
 
+## URL Redirects
+
+This is a bit trickier than usual and as GitHub pages only serve static content you are not able to send 301 redirects or similar. This is with what you have to deal when moving to static pages. You can either just use the same URL structure as you've had before or you can redirect the user via JavaScript on your 404.html page.
+I've chosen to to the latter. My URL structure is now simpler than before. I don't care too much about Google and therefore it does not matter that my previous links will break here. For the users I rewrite my URL with a small JavaScript pattern in my 404.html so they still get my blog posts.
+
 ## File bugs or contribute
 
 As I am hosting and serving the site on GitHub, you can [file issues to the repository](https://github.com/anselmh/anselmh.github.com) or send a pull-request. I am happy to discuss specific topics in the bug tracker with you.
