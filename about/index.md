@@ -22,7 +22,7 @@ If you hire me, you will get either of the following work from me:
 ## What I do not do:
 
 - **no Backend stuff is served** although I can recommend you people doing that for you properly
-- **Countless revisions and changes in a project**. I expect that you have a proper concept, time frame, one final revision. This avoids high invoices and bad mood on both sides. _I you can't provide that and won't let me do the concept, too, I might be the wrong person to hire._
+- **Countless revisions and changes in a project**. I expect that you have a proper concept, time frame, one final revision. This avoids high invoices and bad mood on both sides. _If you can't provide that and won't let me do the concept, too, I might be the wrong person to hire._
 - If you need to rely on very old browsers and want to include stuff like Flash, I clearly am the wrong person to hire.
 
 <a id="matchmyinterest"> </a>
