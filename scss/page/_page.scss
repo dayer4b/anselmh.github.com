@@ -7,7 +7,7 @@
 	}
 
 	.page-head h1 {
-		@include x-rem(1.5);
+		@include x-rem(margin-top, 1.5);
 	}
 }
 
