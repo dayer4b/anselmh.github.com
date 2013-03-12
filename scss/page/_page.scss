@@ -22,7 +22,7 @@ img {
 	padding: 1.5em 1em;
 
 	vertical-align: middle;
-	border: thin solid $a-mid;
+	background: #444;
 
 	@media ($a-media-m) {
 		display: inline-block;
@@ -35,7 +35,7 @@ img {
 		.posts-post:nth-child(1),
 		.posts-post:nth-child(2),
 		.posts-post:nth-child(3), {
-			border-color: $a-pink;
+			background: #222;
 
 			a {
 				color: $a-pink;
@@ -45,7 +45,7 @@ img {
 	.post__time {
 		font-size: 1em;
 
-		color: $a-mid;
+		color: $a-bright;
 	}
 
 	.post__title {
