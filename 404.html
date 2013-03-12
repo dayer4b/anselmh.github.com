@@ -24,6 +24,17 @@
 			var s = document.getElementsByTagName('script')[0];
 			s.parentNode.insertBefore(wf, s);
 		})();
+
+		// JS redirection
+		var oldURIPath = window.location.pathname;
+
+			console.log('before replace ' + oldURIPath);
+
+		oldURIPath.replace(/blog\/(\d+)\/\d+\/\d+\/(.*)/, "/$0");
+
+			console.log('after replace ' + oldURIPath);
+
+		window.location.replace(oldURIPath);
 	</script>
 
 	<link rel="stylesheet" href="/css/main.css">
