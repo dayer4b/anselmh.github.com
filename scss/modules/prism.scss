@@ -39,6 +39,10 @@ pre {
 	padding: 1em;
 	margin: .5em 0;
 	overflow: auto;
+
+	@media (max-width: 35em) {
+		@include x-rem(font-size, 0.8);
+	}
 }
 
 :not(pre) > code[class*="language-"],
