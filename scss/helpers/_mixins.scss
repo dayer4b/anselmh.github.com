@@ -11,7 +11,6 @@
 // Applies hyphenations and line breaks on a given element
 
 @mixin x-hyphen() {
-	word-break: break-all;
 	word-break: break-word;
 
 	-webkit-hyphens: auto;
