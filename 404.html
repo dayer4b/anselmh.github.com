@@ -27,8 +27,8 @@
 
 		// JS redirection
 		var oldURIPath = window.location.pathname;
-		oldURIPath.replace(/\/blog\/(\d+)\/\d+\/\d+\/(.*)\//, "/$1/$2/");
-		window.location.replace(oldURIPath);
+		var newURIPath = oldURIPath.replace(/\/blog\/(\d+)\/\d+\/\d+\/(.*)\//, "/$1/$2/");
+		window.location.replace(newURIPath);
 	</script>
 
 	<link rel="stylesheet" href="/css/main.css">
