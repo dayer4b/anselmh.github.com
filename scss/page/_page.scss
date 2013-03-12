@@ -1,9 +1,13 @@
 // Standard formatting
 
 @media (max-width: 35em) {
-	h1,
-	h2 {
-		line-height: 1;
+	.page-head h1,
+	.page-main > h1 {
+		line-height: 1.2;
+	}
+
+	.page-head h1 {
+		@include x-rem(1.5);
 	}
 }
 
