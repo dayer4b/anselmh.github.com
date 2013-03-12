@@ -1,5 +1,12 @@
 // Standard formatting
 
+@media ($a-media-m) {
+	h1,
+	h2 {
+		line-height: 1;
+	}
+}
+
 img {
 	max-width: 100%;
 	height: auto;
