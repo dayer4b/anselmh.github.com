@@ -6,7 +6,7 @@
 		line-height: 1.2;
 	}
 
-	.page-head h1 {
+	.page-head > a > h1 {
 		@include x-rem(margin-top, 1.5);
 	}
 }
