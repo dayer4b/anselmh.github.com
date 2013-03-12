@@ -30,7 +30,7 @@
 
 			console.log('before replace ' + oldURIPath);
 
-		oldURIPath.replace(/blog\/(\d+)\/\d+\/\d+\/(.*)/, "/$0");
+		oldURIPath.replace(\/blog\/(\d+)\/\d+\/\d+\/(.*)\/, "/$1/$2/");
 
 			console.log('after replace ' + oldURIPath);
 
