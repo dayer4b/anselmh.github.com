@@ -5,7 +5,7 @@ title: "About me"
 
 ## About me
 
-![Profile picture of Anselm Hannemann](/img/anselmhannemann.jpg)
+![Profile picture of Anselm Hannemann](http://img.anselmhannemann.netdna-cdn.com/img/anselmhannemann.jpg)
 I am a 23 year old frontend developer from the lovely Munich, Germany and work as a freelancer. You can hire me but _be sure [I match your interest](#matchmyinterest)_.
 Also _make sure you are asking for a proper time frame_. I won't take any development project that has to be finished within the next two weeks. [Find out why](#whytimeframesmatter).
 

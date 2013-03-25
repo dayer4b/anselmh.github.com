@@ -11,19 +11,19 @@ Here are some projects I am part of. For most I developed the frontend code or d
 
 	<li class="work--commercial">
 		<a href="https://itunes.apple.com/de/app/focus-magazin/id548284324">
-			<img src="/img/work/focusmag_1.jpg" alt="Screenshot FOCUS Magazin iPad App">
+			<img src="http://img.anselmhannemann.netdna-cdn.com/img/work/focusmag_1.jpg" alt="Screenshot FOCUS Magazin iPad App">
 		</a>
 	</li>
 
 	<li class="work--oss">
 		<a href="https://itunes.apple.com/de/app/monte-magazin-02/id511267812">
-			<img src="/img/work/monte2_3.jpg" alt="Screenshot MONTE Magazin 02 iPad App">
+			<img src="http://img.anselmhannemann.netdna-cdn.com/img/work/monte2_3.jpg" alt="Screenshot MONTE Magazin 02 iPad App">
 		</a>
 	</li>
 
 	<li class="work--oss">
 		<a href="http://opendevicelab.com/">
-			<img src="/img/work/odl-com.jpg" alt="Screenshot of Opendevicelab.com website">
+			<img src="http://img.anselmhannemann.netdna-cdn.com/img/work/odl-com.jpg" alt="Screenshot of Opendevicelab.com website">
 		</a>
 	</li>
 
@@ -33,7 +33,7 @@ Here are some projects I am part of. For most I developed the frontend code or d
 
 ### [PUBKON Conference](http://pubkon.eu/)
 
-![Logo of the PUBKON Conference showing the ](/img/work/PUBKON_13.svg) The PUBKON conference is a German publishing event happening once a year. It features most of the Top-Speakers as well as some less known newcomers and full day workshops the day before the conference starts. I am one of the four organizers.
+![Logo of the PUBKON Conference showing the ](http://img.anselmhannemann.netdna-cdn.com/img/work/PUBKON_13.svg) The PUBKON conference is a German publishing event happening once a year. It features most of the Top-Speakers as well as some less known newcomers and full day workshops the day before the conference starts. I am one of the four organizers.
 
 ### [InDesign User Group Munich](http://indesignusergroup.de/)
 
