@@ -26,6 +26,14 @@ img {
 	color: $a-turquoise;
 }
 
+.page--notice {
+	max-width: 91.25%;
+
+	line-height: 1;
+	@include x-rem(font-size, 1.25);
+
+	color: $a-yellow !important;
+}
 
 // Post list - Index view
 
