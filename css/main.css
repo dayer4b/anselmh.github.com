@@ -834,6 +834,12 @@ img {
       padding: 0.25em 1em 1.5em 0;
       max-width: 15em; } }
 
+@media (min-width: 35em) {
+  .page--post p > img,
+  .page--post img {
+    max-width: 100%;
+    padding: 0.25em; } }
+
 .page-main > .work--list,
 .work--list,
 .page--gallery {
