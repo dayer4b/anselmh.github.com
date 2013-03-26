@@ -121,6 +121,14 @@ img {
 	}
 }
 
+.page--post p > img,
+.page--post img {
+	@media ($a-media-m) {
+		max-width: 100%;
+		padding: 0.25em;
+	}
+}
+
 .page-main > .work--list,
 .work--list,
 .page--gallery {
