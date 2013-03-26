@@ -3,7 +3,7 @@ layout: post
 title: "Reading List 5"
 ---
 
-**Gosh, it was some weeks already that I've published my last reading list. A new issue now.**
+**Gosh, it has been some weeks already that I've published my last reading list. A new issue now.**
 
 
 - **[Progressive Reduction](http://layervault.tumblr.com/post/42361566927/progressive-reduction)** is a nice UI technique focussing on reduction.
