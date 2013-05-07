@@ -8,7 +8,7 @@ I just read that article which gives an overview on what average websites consis
 
 What I saw there made me think what is wrong with the average website: 
 
-![infographic about the balance of HTML, CSS, JS and Images on responsive vs non-responsive websites showing average of 1.4MB, 2/3rd images, too much JavaScript](http://img.anselmhannemann.netdna-cdn.com/img/rwd-page-reqs-by-ftype-res.png)
+![infographic about the balance of HTML, CSS, JS and Images on responsive vs non-responsive websites showing average of 1.4MB, 2/3rd images, too much JavaScript](http://img.anselmhannemann.netdna-cdn.com/img/blog/rwd-page-reqs-by-ftype-res.png)
 
 First, it is about **the pagesize itself**:  
 1.4MB is the average. I cannot imagine why so many websites need so much 'information' that they are this large. A normal website shouldn't be larger than ~500kb I'd say, many can be even smaller. Surely there are some pages where this does not apply but even on heavily image driven websites you can achieve a pagesize of 1.4MB (spoken about a website I've build recently with many images).
