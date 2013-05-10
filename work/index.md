@@ -7,8 +7,8 @@ Here are some projects I am part of. For most I developed the frontend code or d
 
 ## Projects
 
-<ul class="page--gallery work--list">
-	
+<ul class="page--gallery work--list clearfix">
+
 	<li class="work--commercial">
 		<a href="http://sap-datacenter.com/">
 			<img src="http://img.anselmhannemann.netdna-cdn.com/img/work/sap-dc-web.jpg" alt="Screenshot of SAP-Datacenter Website">
