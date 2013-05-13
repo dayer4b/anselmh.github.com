@@ -7,3 +7,6 @@ destination: _site
 future: false
 show_drafts: nil
 markdown: redcarpet
+safe: true
+lsi: false
+pygments: true
