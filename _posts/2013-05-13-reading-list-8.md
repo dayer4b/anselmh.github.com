@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Reading List 8"
+date: 2013-05-13 00:00:00
 ---
 
 Last weeks cool stuff in the webd development blogs.
