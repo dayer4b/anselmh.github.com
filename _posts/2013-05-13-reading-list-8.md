@@ -3,7 +3,7 @@ layout: post
 title: "Reading List 8"
 ---
 
-Short list of new articles that help you on web development.
+Last weeks cool stuff in the webd development blogs.
 
 - **Mapbox announced that they have a new technique serving [vector map tiles](http://mapbox.com/blog/vector-tiles/)** which is super-awesome. Unfortunately this seems yet to be a closed beta
 
