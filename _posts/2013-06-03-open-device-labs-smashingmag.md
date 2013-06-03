@@ -22,6 +22,6 @@ If you have thoughts about it, please share them as comments on the article and 
 
 ## netawards
 
-On Friday, May 31th 2013 I flew to London early in the morning to participate the .netmag **[netawards](http://www.thenetawards.com/) 2013**. I was nominated with the **[opendevicelab.com](http://opendevicelab.com/) project** as Game Changer Of The Year together with Christian "The Schepp" Schäfer and Jay Meissner. We are still super excited about the nomination itself. We didn't won the award but appreciate all support and help! I also met many new people from the web scene and had good conversations and a great time!
+On Friday, May 31th 2013 I flew to London early in the morning to participate the .netmag **[netawards](http://www.thenetawards.com/) 2013**. I was nominated with the **[opendevicelab.com](http://opendevicelab.com/) project** as Game Changer Of The Year together with Christian "The Schepp" Schäfer and Jay Meissner. We are still super excited about the nomination itself. We haven't won the award but appreciate all support and help! I also met many new people from the web scene and had good conversations and a great time!
 
 ![Photo of the awesome location of netawards 2013, a big old decorated hall](http://img.anselmhannemann.netdna-cdn.com/img/blog/netawards-1.jpg)
