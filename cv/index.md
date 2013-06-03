@@ -25,12 +25,13 @@ title: "Resumé / CV"
 
 ## Open Source Engagement
 
-- Co-creator of [opendevicelab.com](http://opendevicelab.com/), a well known web portal for Open Device Labs and device testing resources
+- Co-creator of [opendevicelab.com](http://opendevicelab.com/) &mdash; nominated as Game Changer Of The Year 2013 at netmag's netawards
 - Team member of [responsiveimages.org](http://responsiveimages.org/), web standards group of the W3C for the `<picture>` element and `srcset` attribute.
 - Participator and Contributor to [testthewebforward](http://testthewebforward.org/), [WebPlatform.org](http://docs.webplatform.org/wiki/User:Anselm) and the W3C mailing list
-- Creator of [MLReader](https://chrome.google.com/webstore/detail/webstandards-mailing-list/kapkofkiggcefopeamfcpkkgfjjhmamf), [MODX-Boilerplate](https://github.com/anselmh/modx-boilerplate), the [HTML5-DPS-Boilerplate](https://github.com/anselmh/HTML5-DPS-Boilerplate) and [many small projects](https://github.com/anselmh?tab=repositories)
+- Creator of [CSS-Slider](https://github.com/anselmh/css-slider/), [MLReader](https://chrome.google.com/webstore/detail/webstandards-mailing-list/kapkofkiggcefopeamfcpkkgfjjhmamf), [MODX-Boilerplate](https://github.com/anselmh/modx-boilerplate), the [HTML5-DPS-Boilerplate](https://github.com/anselmh/HTML5-DPS-Boilerplate) and [many small projects](https://github.com/anselmh?tab=repositories)
 - Creator of [Publishing-Please!](http://publishing-please.com/), a web portal about Digital Publishing tools
 - Invited guest on [Workingdraft Podcast](http://workingdraft.de/) (very well known German web tech podcast), several times
+- Writer for [Smashing Magazine](http://www.smashingmagazine.com/author/anselm-hannemann/)
 - Writer for [.net magazine](http://www.netmagazine.com/features/road-responsive-images) and other magazines / blogs
 
 ## Speaker
@@ -43,6 +44,7 @@ title: "Resumé / CV"
 
 ## Important client work
 
+- Frontend-Development of the [SAP DataCenter Website](http://www.sapdatacenter.com/en/#!)
 - Co-Developed the [FOCUS Magazin for iPad](https://itunes.apple.com/us/app/focus-magazin/id548284324?mt=8) with 2issue
 - Co-Developed [one of the first iPad Magazines](https://itunes.apple.com/de/app/monte-sommer-2011/id447344403) including full featured social sharing with [2issue](http://2issue.com/) and [mag10](http://mag10.my/) in 2011
 
