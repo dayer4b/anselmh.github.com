@@ -11,8 +11,6 @@ The last week was a special week for me. First, the awesome (and probably best w
 
 The second day was something special for me &ndash; my first SmashingMag article was published this day.
 
-===
-
 ## Open Device Labs &ndash; Why Should We Care?
 
 On Tuesday, May 28th 2013 [my first **Smashing Magazine** article](http://www.smashingmagazine.com/2013/05/28/open-device-labs-why-should-we-care/) came out. It is a general introduction into Device Testing on Real Devices and the possibility to save costs by crowdsourcing devices in shared places around the world &ndash; so called Open Device Labs.
@@ -20,8 +18,6 @@ On Tuesday, May 28th 2013 [my first **Smashing Magazine** article](http://www.sm
 [![Screenshot of the Smashing Magazine article about Open Device Labs](http://img.anselmhannemann.netdna-cdn.com/img/smashingmag-odl--screenshot-1.png)](http://www.smashingmagazine.com/2013/05/28/open-device-labs-why-should-we-care/)
 
 If you have thoughts about it, please share them as comments on the article and I'd be happy if you share the article to spread the word about Open Device Labs!
-
-===
 
 ## netawards
 
