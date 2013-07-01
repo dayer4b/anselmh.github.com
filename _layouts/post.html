@@ -9,33 +9,26 @@
 
 	<link rel="dns-prefetch" href="//helloanselm.com">
 	<link rel="dns-prefetch" href="//img.anselmhannemann.netdna-cdn.com">
-	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//use.typekit.net">
 	<link rel="dns-prefetch" href="//anselm.uberspace.de">
-	<link rel="dns-prefetch" href="//ajax.googleapis.com">
 
 	<title>{{ page.title }} &ndash; Anselm Hannemann &ndash; HTML5, CSS, front-end architecture, performance and Digital Publishing</title>
 
 	<script type="text/javascript">
-		WebFontConfig = {
-			google: { families: [ 'Istok+Web:400,700:latin' , 'Lora:400,700:latin' ] }
-		};
 		(function() {
-			var wf = document.createElement('script');
-			wf.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
-			wf.type = 'text/javascript';
-			wf.async = 'true';
-			var s = document.getElementsByTagName('script')[0];
-			s.parentNode.insertBefore(wf, s);
+			var config = {
+				kitId: 'ryx7jcg',
+				scriptTimeout: 3000
+			};
+			var h=document.getElementsByTagName("html")[0];h.className+=" wf-loading";var t=setTimeout(function(){h.className=h.className.replace(/(\s|^)wf-loading(\s|$)/g," ");h.className+=" wf-inactive"},config.scriptTimeout);var tk=document.createElement("script"),d=false;tk.src='//use.typekit.net/'+config.kitId+'.js';tk.type="text/javascript";tk.async="true";tk.onload=tk.onreadystatechange=function(){var a=this.readyState;if(d||a&&a!="complete"&&a!="loaded")return;d=true;clearTimeout(t);try{Typekit.load(config)}catch(b){}};var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(tk,s)
 		})();
 	</script>
 
-	<link rel="stylesheet" href="http://img.anselmhannemann.netdna-cdn.com/css/main.css?v=1.0.2">
-
-	<script src="http://img.anselmhannemann.netdna-cdn.com/js/vendor/modernizr-2.6.2.js"></script>
+	<link rel="stylesheet" href="http://img.anselmhannemann.netdna-cdn.com/css/main.css?v=2">
 </head>
 <body>
 	<!--[if lt IE 10]>
-		<p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+		<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
 	<![endif]-->
 
 	<!-- Hidden preload `div` to fetch images before CSS needs them. -->
@@ -43,63 +36,50 @@
 
 	</div>
 
-	<div class="wrapper">
-
-		<header class="page-head">
-
-			<a href="/">
+	<header class="page__header">
+		<div class="page__header--wrapper">
+			<a class="page__header__title" href="/">
 				<h1>Anselm Hannemann</h1>
 				<h2>Freelance Web Developer, Speaker, Event organizer</h2>
 			</a>
 
-			<nav class="page-nav" role="navigation">
+			<nav class="page__header__nav" role="navigation">
 				<ul>
 					<li><a href="/">Blog</a></li>
 					<li><a href="/about/">About</a></li>
 					<li><a href="/work/">Work</a></li>
 					<li><a href="/open/">Open</a></li>
 					<li><a href="/contact/">Contact</a></li>
-					<!-- <li><a href="/talks/">Talks</a></li>
-					<li><a href="/tests/">Tests</a></li> -->
 				</ul>
 			</nav>
+		</div>
 
-		</header>
+		<div class="page__header__action">
+			<h2>You need high quality frontend web development?<br>Or a digital magazine?</h2>
+			<hr>
+			<p><a class="btn--big--positive" href="/contact/">Hire me!</a></p>
+		</div>
 
-		<main class="page-main page--post" role="main">
-			<h1>{{ page.title }}</h1>
-			{{ content }}
-		</main>
+	</header>
 
-		<aside class="page-aside">
+	<main class="page__main page__post" role="main">
+		<h1>{{ page.title }}</h1>
+		{{ content }}
+	</main>
 
-			<div class="aside--profile-picture" data-picture data-alt="Portrait of Anselm Hannemann outdoor">
-				<div data-src="http://img.anselmhannemann.netdna-cdn.com/img/anselmhannemann.jpg"></div>
-				<div data-src="http://img.anselmhannemann.netdna-cdn.com/img/anselmhannemann.jpg" data-media="(min-width: 1000px)"></div>
-				<noscript>
-					<img src="http://img.anselmhannemann.netdna-cdn.com/img/anselmhannemann.jpg" alt="Portrait of Anselm Hannemann outdoor">
-				</noscript>
-			</div>
+	<footer class="page__footer">
+		<p>Hi there, I’m Anselm &mdash; a 23 year old <b>designer</b>, <b>developer</b>, <b>writer</b> and <b>speaker</b> from Germany; I work as a freelancer. I <a href="/open/">write</a>, <a href="http://twitter.com/helloanselm">tweet</a>, <a href="http://lanyrd.com/profile/anselmhannemann/">speak</a> and <a href="http://github.com/anselmh">share code</a> about HTML5, CSS3 techniques and various other stuff.</p>
 
-			<p>Hi there, I’m Anselm. I am a 23 year old <b>designer</b>, <b>developer</b>, <b>writer</b> and <b>speaker</b> from Germany; I work as a freelancer. I <a href="/">write</a>, <a href="http://twitter.com/helloanselm">tweet</a>, <a href="http://lanyrd.com/profile/anselmhannemann/">speak</a> and <a href="http://github.com/anselmh">share code</a> about HTML5, CSS3 techniques and various other stuff.</p>
+		<ul class="page__footer__follow">
+			<li><a href="https://twitter.com/helloanselm">Follow @helloanselm</a> on Twitter</li>
+			<li><a href="https://alpha.app.net/anselm">Follow @anselm</a> on ADN</li>
+		</ul>
 
-			<ul class="aside-followme">
-				<li><a href="https://twitter.com/helloanselm">Follow @helloanselm</a> on Twitter</li>
-				<li><a href="https://alpha.app.net/anselm">Follow @anselm</a> on ADN</li>
-			</ul>
-
-		</aside>
-
-		<footer class="page-foot">
-
-			<p>&copy; {{ 'now' | date: "%Y" }} <a href="http://alpha.app.net/anselm">Anselm Hannemann</a>.
-			   Built with <a href="http://html5boilerplate.com">H5BP (customized)</a>
-			   and <a href="https://github.com/mojombo/jekyll/">Jekyll</a>.
-			   The source code of this blog is <a href="https://github.com/anselmh/anselmh.github.com">hosted on GitHub</a>. The site is supported by <a href="http://www.maxcdn.com/">MaxCDN</a> – a great CDN for your static files. Thanks a bunch for sponsoring!<br>
-			   You should <a href="http://helloanselm.com/atom.xml">grab the RSS feed</a> and <a href="https://twitter.com/helloanselm">follow me on Twitter</a>.</p>
-
-		</footer>
-	</div>
+		<p>&copy; 2013 <a href="http://alpha.app.net/anselm">Anselm Hannemann</a>.
+		   The source code of this blog is <a href="https://github.com/anselmh/anselmh.github.com">hosted on GitHub</a>. The site is supported by <a href="http://www.maxcdn.com/">MaxCDN</a> – a great CDN for your static files. Thanks a bunch for sponsoring!<br>
+		   You should <a href="http://helloanselm.com/atom.xml">grab the RSS feed</a> and <a href="https://twitter.com/helloanselm">follow me on Twitter</a>.</p>
+		<p>This site is under my <a href="/tos/">Terms of Service</a>. All commercial work / projects are based on the individual project contract and the ToS. <a href="/legal/">Go to legal notices</a></p>
+	</footer>
 
 	<script>
 		var _paq = _paq || [];
@@ -112,6 +92,5 @@
 		s.parentNode.insertBefore(g,s); })();
 	</script>
 	<noscript><p><img src="http://anselm.taurus.uberspace.de/piwik/piwik.php?idsite=1" style="border:0" alt="" /></p></noscript>
-	<script src="/js/vendor/prism.js"></script>
 </body>
 </html>

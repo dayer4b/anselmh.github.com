@@ -1,4 +1,17 @@
+.page__footer {
+	max-width: 48rem;
 
-.page-foot {
-	margin: 5em auto 0 auto;
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+
+	margin: 2rem auto 2rem auto;
+
+	background: #fff;
+	border-top: thin solid $borderColor;
+
+	@media (max-width: $mediaL) {
+		padding: 2rem;
+		max-width: 100%;
+	}
 }

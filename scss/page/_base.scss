@@ -15,23 +15,26 @@ button,
 input,
 select,
 textarea {
-	color: $copy-color;
+	color: $mainColor;
 }
 
 body {
-	font-size: 21px;
+	font-family: $mainFont;
+	font-size: $initialFontSize;
 	line-height: 1.4;
-	background: $background;
-
-	@include x-multiple-colored-gradient(( "left", $a-turquoise 0%, $a-turquoise 25%, $a-yellow 25%, $a-yellow 45%, $a-pink 45%, $a-pink 70%, $copy-color 70% ));
-	background-size: 100% 0.4em;
-	background-repeat: no-repeat;
 }
 
-a,
-a:hover,
-a:visited {
-	color: $a-dark;
+a {
+	color: $mainColor;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+.ಠ_ಠ{
+	display: none !important;
 }
 
 /*
@@ -90,10 +93,10 @@ textarea {
 }
 
 /* ==========================================================================
-   Chrome Frame prompt
+   Browse Happy prompt
    ========================================================================== */
 
-.chromeframe {
+.browsehappy {
 	margin: 0.2em 0;
 	background: #ccc;
 	color: #000;

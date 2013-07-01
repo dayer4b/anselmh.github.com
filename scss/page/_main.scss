@@ -1,0 +1,168 @@
+/* page__main */
+
+.page__main {
+	max-width: 48rem;
+
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+
+	margin: -4rem auto 2rem auto;
+	padding: 2rem;
+
+	background: #fff;
+
+	h1 {
+		text-align: center;
+	}
+
+	h2,
+	h3 {
+		margin: 2rem 0 1.5rem 0;
+		padding-bottom: 0.5rem;
+		text-align: center;
+		border-bottom: thin solid $borderColor;
+	}
+
+	ol,
+	ul {
+		padding: 0 0 0 1.25rem;
+
+		> li {
+			margin: 0.25rem 0 0.25rem 0;
+		}
+	}
+
+	img {
+		@include x-animation(fadeIn 500ms ease-in-out);
+
+		position: relative;
+		left: -2rem;
+		width: 48rem;
+		max-width: 48rem;
+		height: auto;
+		margin: 1rem 0;
+
+		@media (max-width: $mediaL) {
+			max-width: 100%;
+			width: 100%;
+			left: 0;
+		}
+	}
+}
+
+.involvement {
+	ul {
+		@extend %clearfix;
+
+		padding: 0;
+		list-style: none;
+		text-align: justify;
+		font-size: 0.1px;
+
+		&:after{
+			content: '';
+			display: inline-block;
+			width: 100%;
+		}
+
+		> li {
+			display: inline-block;
+			vertical-align: top;
+			width: 31%;
+			margin-bottom: 1rem;
+			padding: 0.5rem;
+
+			-webkit-box-sizing: border-box;
+			   -moz-box-sizing: border-box;
+			        box-sizing: border-box;
+
+			border: thin solid #DDD;
+
+			@media (max-width: $mediaL) {
+				width: 48%;
+			}
+
+			@media (max-width: $mediaS) {
+				width: 100%;
+			}
+
+			a {
+				display: block;
+				position: relative;
+				width: 100%;
+
+				&:before {
+					content: '';
+					display: block;
+					margin-top: 100%;
+				}
+			}
+
+			img {
+				@include x-transition(all 250ms linear);
+
+				position: absolute;
+				top: 0;
+				left: 0;
+				bottom: 0;
+				right: 0;
+
+				max-width: 100%;
+				margin-top: -100%;
+
+				-webkit-filter: grayscale(100%);
+				filter: grayscale(100%);
+
+				&:hover {
+					-webkit-filter: grayscale(0%);
+					filter: grayscale(0%);
+				}
+			}
+
+			h3 {
+				font-size: 1.25rem;
+				margin: 0;
+				padding: 0.5rem 0 0 0;
+				border-bottom: none;
+				height: 3rem;
+				line-height: 1;
+			}
+		}
+	}
+}
+
+
+.page__post {
+
+}
+
+	.posts__list,
+	.posts__pagination {
+		list-style: none;
+	}
+
+	.post__time {
+		display: block;
+		text-align: center;
+		color: #666;
+	}
+
+	.posts__list .post__title {
+		margin-top: 0;
+		border: none;
+	}
+
+	.posts__pagination {
+		display: block;
+		text-align: center;
+
+		> li {
+			display: inline;
+		}
+	}
+
+.page__work {
+	list-style: none;
+	padding: 0;
+}

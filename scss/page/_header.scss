@@ -1,37 +1,147 @@
+/* page__header */
 
-.page-head {
+.page__header {
+	width: 100%;
+	height: 30rem;
 
-	> a {
-		text-decoration: none;
+	background: url('../img/balcony-sunset--darkened.jpg');
+	background-size: 100% auto;
+	background-repeat: no-repeat;
 
-		> h1,
-		> h2 {
+	@media (max-width: $mediaS) {
+		background-size: cover;
+	}
+}
+
+.page__header:before {
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: block;
+	width: 100%;
+	height: 4rem;
+	background: #fff;
+	background: rgba(255, 255, 255, 0.95);
+	content: '';
+	z-index: 10;
+
+	@media (max-width: $mediaS) {
+		height: 6rem;
+	}
+}
+
+.page__header--wrapper {
+	position: relative;
+	z-index: 20;
+	height: 4rem;
+	max-width: 48rem;
+	margin: 0 auto;
+
+	@media (max-width: $mediaS) {
+		height: 6rem;
+	}
+}
+
+.page__header__title,
+.page__header__nav {
+	@extend %clearfix;
+
+	width: 50%;
+	float: left;
+
+	@media (max-width: $mediaS) {
+		float: none;
+		width: 100%;
+		text-align: center;
+	}
+}
+
+.page__header__title {
+	font-family: $secondFont;
+	text-decoration: none;
+	margin-top: 0.25rem;
+
+	h1 {
+		margin: 0;
+		font-size: 2rem;
+		font-weight: normal;
+	}
+
+	h2 {
+		margin: 0 0 0 0;
+		display: none;
+		font-weight: normal;
+	}
+}
+
+.page__header__nav {
+	font-family: $secondFont;
+	text-align: right;
+
+	@media (max-width: $mediaS) {
+		text-align: center;
+	}
+
+	> ul {
+		margin: 1rem 0 0 0;
+		padding: 0;
+		list-style: none;
+
+		@media (max-width: $mediaS) {
 			margin: 0;
-			font-weight: normal;
 		}
+	}
 
-		> h2 {
-			font-size: 1em;
-			color: $a-mid;
+	li {
+		display: inline-block;
+		vertical-align: top;
+
+		> a {
+			text-decoration: none;
+			padding: 0.4rem;
+			margin-left: 0.15rem;
+
+			@media (max-width: $mediaS) {
+				padding: 0.2rem;
+				margin-left: 0;
+			}
 		}
 	}
 }
 
-.page-nav {
-	@include page--font-header;
+.page__header__action {
+	position: relative;
+	top: 3rem;
+	margin: 0 auto 0 auto;
+	text-align: center;
+	color: $lightColor;
+	text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.15);
 
-	> ul {
-		padding-left: 0;
-		list-style: none;
+	h2 {
+		font-size: 3rem;
 
-		> li {
-			display: inline-block;
-
-			> a{
-				text-decoration: none;
-				color: $a-turquoise;
-				border-bottom: thin solid $a-mid;
-			}
+		@media (max-width: $mediaL) {
+			font-size: 2rem;
 		}
+
+		@media (max-width: $mediaM) {
+			font-size: 1.5rem;
+		}
+	}
+
+	h2,
+	p {
+		margin: 0 0 1.5rem 0;
+	}
+
+	hr {
+		margin: 0 auto 3rem auto;
+		width: 35rem;
+		max-width: 80%;
+		border-top: thin solid rgba(255, 255, 255, 0.5);
+	}
+
+	.btn--big--positive {
+
 	}
 }
