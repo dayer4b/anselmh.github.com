@@ -3,13 +3,44 @@ layout: default
 title: "Home"
 ---
 
-<h1 class="accessibility">Anselm Hannemann &ndash; HTML5, CSS, front-end architecture, performance and Digital Publishing&hellip;</h1>
+<h1 class="visuallyhidden">Anselm Hannemann &ndash; HTML5, CSS, front-end architecture, performance and Digital Publishing&hellip;</h1>
+
+<section class="involvement">
+	<h2>Work I am involved in</h2>
+
+	<ul>
+		<li>
+			<a href="http://dpunkt.de/buecher/4213/adobe-digital-publishing-suite.html"><img src="http://img.anselmhannemann.netdna-cdn.com/img/work/dpunkt-dps-book.jpg" alt="Book cover Adobe Digital Publishing Suite"></a>
+			<h3>Adobe Digital Publishing Suite Book</h3>
+		</li>
+		<li>
+			<a href="http://opendevicelab.com/"><img src="http://img.anselmhannemann.netdna-cdn.com/img/work/odl-logo.svg" alt="Logo of Open Device Labs"></a>
+			<h3>Open Device Labs</h3>
+		</li>
+		<li>
+			<a href="http://responsiveimages.org/"><img src="http://img.anselmhannemann.netdna-cdn.com/img/work/ricg-icon--red.svg" alt="Logo of the Responsive Images Community Group showing media query rectangles"></a>
+			<h3>Responsive Images Community Group</h3>
+		</li>
+		<li>
+			<a href="http://wdrl.helloanselm.com/"><img src="http://img.anselmhannemann.netdna-cdn.com/img/work/wdrl-logo.svg" alt="Logo of the web dev reading list showing a circle and WDRL text"></a>
+			<h3>Web Dev Reading List</h3>
+		</li>
+		<li>
+			<a href="http://pubkon.eu/"><img src="http://img.anselmhannemann.netdna-cdn.com/img/work/PUBKON_13.svg" alt="Logo of the PUBKON conference containing fancy rounded rectangles"></a>
+			<h3>PUBKON Conference</h3>
+		</li>
+		<li>
+			<a href="http://publishing-please.com/"><img src="http://img.anselmhannemann.netdna-cdn.com/img/work/digital-publishing-please.svg" alt="Logo of Digital Publishing Please including the project's text"></a>
+			<h3>Digital Publishing Please</h3>
+		</li>
+	</ul>
+</section>
 
 <section class="posts">
-	<div class="page--notice">Important: <a href="http://wdrl.helloanselm.com/">The Reading Lists moved to its own project.</a></div>
-    <ul class="posts-list">
+	<h2>Latest Articles</h2>
+    <ul class="posts__list">
         {% for post in paginator.posts %}
-        <li class="posts-post">
+        <li class="posts__post">
             <span class="post__time">{{ post.date | date: "%d %B, %Y" }}</span>
             <h2 class="post__title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
         </li>
@@ -17,7 +48,7 @@ title: "Home"
     </ul>
 </section>
 
-<ol class="nav  posts-pagination">
+<ol class="nav  posts__pagination">
     <li class="pagination__prev">
         {% if paginator.previous_page %}
         {% if paginator.previous_page == 1 %}

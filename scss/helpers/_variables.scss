@@ -1,20 +1,20 @@
-$copy-color: #111;
-$background: #f7f5f6;
+/**
+ * Variables to be used throughout the project
+ */
 
-$copy-color--invert: $background;
-$background--invert: $copy-color;
+// Text Color
+$mainColor: #111;
+$lightColor: #fff;
 
-//own namespaced colors
-$a-bright: $background;
-$a-mid: #999;
-$a-dark: $copy-color;
+$borderColor: #ccc;
 
-$a-turquoise: #78cfc6;
-$a-yellow: #ffb300;
-$a-pink: #e01b6a;
+// Fonts and Font related things
+$mainFont: 'Calluna', Georgia, 'Times New Roman', serif;
+$secondFont: 'Calluna-Sans', 'Calibri', Arial, sans-serif;
+$initialFontSize: 1.3125em; /* =21px */
 
-// media queries
-$a-media-s: "max-width: 20em";
-$a-media-m: "min-width: 35em";
-$a-media-l: "min-width: 50em";
-$a-media-xl: "min-width: 70em";
+// Media Queries
+$mediaXS: 20em;
+$mediaS: 35em;
+$mediaM: 45em;
+$mediaL: 70em;

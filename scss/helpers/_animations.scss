@@ -1,0 +1,42 @@
+/* Animations */
+
+@mixin x-animation ($values) {
+	-webkit-animation: $values;
+	        animation: $values;
+}
+// @include x-animation(jump 1s ease-out);
+
+@mixin x-keyframes ($name) {
+	@-webkit-keyframes #{$name} {
+		@content;
+	}
+
+	@keyframes #{$name} {
+		@content;
+	}
+}
+
+// @include x-animation(jump 1s ease-out);
+
+// @include x-keyframes(jump) {
+//     from { top: 0; }
+//     to { top: -10px; }
+// }
+
+@mixin x-transition ($values) {
+	-webkit-transition: $values;
+	     -o-transition: $values;
+	        transition: $values;
+}
+
+// @include x-transition(background 0.3s ease-in);
+
+
+@include x-keyframes(fadeIn) {
+	0% {
+		opacity: 0;
+	}
+	100%{
+		opacity: 1;
+	}
+}
