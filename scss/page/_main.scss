@@ -95,7 +95,7 @@
 				&:before {
 					content: '';
 					display: block;
-					margin-top: 100%;
+					padding-top: 100%;
 				}
 			}
 
@@ -109,7 +109,7 @@
 				right: 0;
 
 				max-width: 100%;
-				margin-top: -100%;
+				margin-top: 0%;
 
 				-webkit-filter: grayscale(100%);
 				filter: grayscale(100%);
