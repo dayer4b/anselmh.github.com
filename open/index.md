@@ -25,6 +25,7 @@ Here are a few projects I do:
 
 - Write articles in magazines or on websites with useful content:
 	- [SmashingMag: "Open Device Labs: Why Should We Care?"](http://www.smashingmagazine.com/2013/05/28/open-device-labs-why-should-we-care/)
-	- [.net-magazine: "The road to responsive images"](http://www.netmagazine.com/features/road-responsive-images)
+	- [.netmagazine: "The road to responsive images"](http://www.netmagazine.com/features/road-responsive-images)
+	- [.netmagazine: "Responsive design: we are not there yet"](http://www.netmagazine.com/features/responsive-design-we-are-not-there-yet)
 	- [t3n: "Praktische Lösungen für flexible Bilder: Responsive Images schon jetzt einsetzen"](http://t3n.de/magazin/praktische-losungen-flexible-bilder-responsive-images-232734/) [German]
 - [MLReader](https://chrome.google.com/webstore/detail/webstandards-mailing-list/kapkofkiggcefopeamfcpkkgfjjhmamf), [MODX-Boilerplate](https://github.com/anselmh/modx-boilerplate), [HTML5-DPS-Boilerplate](https://github.com/anselmh/HTML5-DPS-Boilerplate), [Publishing-Please!](http://publishing-please.com/).
