@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Revival of Newsletters"
-published: false
+published: true
 ---
 
 As a dedicated worker you have to stay informed about the latest news and technology in your job. This counts for web developers, designers as well as many other jobs that develop vastly over just a few months or years. It is hard to stay up-to-date while still getting work done – that’s why we need some selection.
