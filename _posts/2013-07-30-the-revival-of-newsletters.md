@@ -33,3 +33,6 @@ And if not, I for my own list, provide an online archive that can be accessed by
 I am not sure this fully explains why Newsletters are on the uprise again but I heard a lot about overworking, over-sharing (“death to bullshit”) and think summaries via email can ease those problems.
 
 Discuss this topic on Branch:
+
+<script type="text/javascript" src="http://embed-script.branch.com/assets/embed/embed.m.js?body=0" data-branch-embedid="fwwpqMMz8X8" ></script>
+<noscript><a href="http://branch.com/b/the-revival-of-newsletters">The Revival of Newsletters</a></noscript>
