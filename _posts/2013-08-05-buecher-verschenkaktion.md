@@ -16,7 +16,7 @@ Wer etwas haben möchte, schreibt mir bitte einfach eine E-Mail an hello [at] an
 
 ## DVDs:
 
-- 2x: [HTML und CSS von video2brain](https://www.video2brain.com/de/videotraining/html-und-css)
+- 1x: [HTML und CSS von video2brain](https://www.video2brain.com/de/videotraining/html-und-css)
 - 1x: [Moderne Websites mit Dreamweaver CS5.5, HTML5, CSS3 und jQuery](https://www.video2brain.com/de/videotraining/moderne-websites-mit-dreamweaver-cs5-5-html5-css3-und-jquery)
 
 ## Bücher
