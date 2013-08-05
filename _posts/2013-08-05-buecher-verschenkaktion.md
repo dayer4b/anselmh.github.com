@@ -11,6 +11,7 @@ Bereits vor einigen Wochen überkam mich das Gefühl, dass ich zu viele Sachen h
 **Daher verschenke ich nun folgende Sachen**:
 
 Ihr könnt die Sachen entweder in München bei mir abholen oder ich schicke sie euch zu (dann würde ich nur um Erstattung der Versandkosten bitten).
+
 Wer etwas haben möchte, schreibt mir bitte einfach eine E-Mail an hello [at] anselm-hannemann.com mit den Sachen, die er haben möchte. Ich versuche die Liste hier so aktuell wie möglich zu halten:
 
 ## DVDs:
