@@ -16,7 +16,7 @@ Wer etwas haben möchte, schreibt mir bitte einfach eine E-Mail an hello [at] an
 
 ## DVDs:
 
-- 3x: [HTML und CSS von video2brain](https://www.video2brain.com/de/videotraining/html-und-css)
+- 2x: [HTML und CSS von video2brain](https://www.video2brain.com/de/videotraining/html-und-css)
 - 3x: [Moderne Websites mit Dreamweaver CS5.5, HTML5, CSS3 und jQuery](https://www.video2brain.com/de/videotraining/moderne-websites-mit-dreamweaver-cs5-5-html5-css3-und-jquery)
 
 ## Bücher
@@ -28,7 +28,7 @@ Wer etwas haben möchte, schreibt mir bitte einfach eine E-Mail an hello [at] an
 - 1x: [Schriftdesign, mitp](http://www.amazon.de/schriftdesign-allan-haley-B%C3%BCcher/s?ie=UTF8&keywords=Schriftdesign%20Allan%20Haley&page=1&rh=n%3A186606%2Ck%3ASchriftdesign%20Allan%20Haley)
 - 1x: [Barrierefreiheit verstehen und umsetzen, dpunkt](http://www.dpunkt.de/buecher/2537.html)
 - 1x: [HTML5 von Peter Kröner 2. Auflage, OpenSourcePress](http://html5-buch.de/)
-- 1x [Der erfolgreiche Webdesigner, Galileo Design](http://www.galileodesign.de/1727)
+- <s>1x [Der erfolgreiche Webdesigner, Galileo Design](http://www.galileodesign.de/1727)</s>
 - 1x [ABC3D von Marion Bataille, Carlsen](http://www.youtube.com/watch?v=VKSfevX1vXg)
 
 ## Papiermuster
