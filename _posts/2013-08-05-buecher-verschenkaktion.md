@@ -22,7 +22,7 @@ Wer etwas haben möchte, schreibt mir bitte einfach eine E-Mail an hello [at] an
 ## Bücher
 
 - <s>1x: [Git, dpunkt](http://www.dpunkt.de/buecher/3545/git.html)</s>
-- 1x: [ePub für InDesigner, dpunkt](http://www.dpunkt.de/buecher/3777/epub-f%26uuml%3Br-%28in%29designer.html)
+- <s>1x: [ePub für InDesigner, dpunkt](http://www.dpunkt.de/buecher/3777/epub-f%26uuml%3Br-%28in%29designer.html)</s>
 - 1x: [HTML5 Boilerplate Web Development, Packt Publishing](http://www.packtpub.com/html5-boilerplate-web-development/book)
 - 1x: [SQL kurz & gut, O`Reilly](http://www.oreilly.de/catalog/sqlpg2ger/)
 - 1x: [Schriftdesign, mitp](http://www.amazon.de/schriftdesign-allan-haley-B%C3%BCcher/s?ie=UTF8&keywords=Schriftdesign%20Allan%20Haley&page=1&rh=n%3A186606%2Ck%3ASchriftdesign%20Allan%20Haley)
