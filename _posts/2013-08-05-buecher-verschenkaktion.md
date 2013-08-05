@@ -17,11 +17,11 @@ Wer etwas haben möchte, schreibt mir bitte einfach eine E-Mail an hello [at] an
 ## DVDs:
 
 - 2x: [HTML und CSS von video2brain](https://www.video2brain.com/de/videotraining/html-und-css)
-- 3x: [Moderne Websites mit Dreamweaver CS5.5, HTML5, CSS3 und jQuery](https://www.video2brain.com/de/videotraining/moderne-websites-mit-dreamweaver-cs5-5-html5-css3-und-jquery)
+- 2x: [Moderne Websites mit Dreamweaver CS5.5, HTML5, CSS3 und jQuery](https://www.video2brain.com/de/videotraining/moderne-websites-mit-dreamweaver-cs5-5-html5-css3-und-jquery)
 
 ## Bücher
 
-- 1x: [Git, dpunkt](http://www.dpunkt.de/buecher/3545/git.html)
+- <s>1x: [Git, dpunkt](http://www.dpunkt.de/buecher/3545/git.html)</s>
 - 1x: [ePub für InDesigner, dpunkt](http://www.dpunkt.de/buecher/3777/epub-f%26uuml%3Br-%28in%29designer.html)
 - 1x: [HTML5 Boilerplate Web Development, Packt Publishing](http://www.packtpub.com/html5-boilerplate-web-development/book)
 - 1x: [SQL kurz & gut, O`Reilly](http://www.oreilly.de/catalog/sqlpg2ger/)
