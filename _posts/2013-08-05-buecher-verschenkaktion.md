@@ -29,7 +29,7 @@ Wer etwas haben möchte, schreibt mir bitte einfach eine E-Mail an hello [at] an
 - <s>1x: [Barrierefreiheit verstehen und umsetzen, dpunkt](http://www.dpunkt.de/buecher/2537.html)</s>
 - 1x: [HTML5 von Peter Kröner 2. Auflage, OpenSourcePress](http://html5-buch.de/)
 - <s>1x [Der erfolgreiche Webdesigner, Galileo Design](http://www.galileodesign.de/1727)</s>
-- 1x [ABC3D von Marion Bataille, Carlsen](http://www.youtube.com/watch?v=VKSfevX1vXg)
+- <s>1x [ABC3D von Marion Bataille, Carlsen](http://www.youtube.com/watch?v=VKSfevX1vXg)</s>
 
 ## Papiermuster
 
