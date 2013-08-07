@@ -33,7 +33,7 @@ Wer etwas haben möchte, schreibt mir bitte einfach eine E-Mail an hello [at] an
 
 ## Papiermuster
 
-- 1x [LASERLINE Blackbox](http://www.laser-line.de/serviceandsupport/muster/blackbox.php)
+- <s>1x [LASERLINE Blackbox](http://www.laser-line.de/serviceandsupport/muster/blackbox.php)</s>
 - 1x Paket mit div. Römerturm Papiermusterbüchern
 
 Eine doch ganz ansehnliche Liste an Büchern, kostenlos (bis auf den Versand) an euch. Einfach so. Weil Verschenken Spaß macht und ich mehr Platz haben möchte.
