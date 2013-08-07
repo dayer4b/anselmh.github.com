@@ -24,7 +24,7 @@ Wer etwas haben möchte, schreibt mir bitte einfach eine E-Mail an hello [at] an
 - <s>1x: [Git, dpunkt](http://www.dpunkt.de/buecher/3545/git.html)</s>
 - <s>1x: [ePub für InDesigner, dpunkt](http://www.dpunkt.de/buecher/3777/epub-f%26uuml%3Br-%28in%29designer.html)</s>
 - <s>1x: [HTML5 Boilerplate Web Development, Packt Publishing](http://www.packtpub.com/html5-boilerplate-web-development/book)</s>
-- 1x: [SQL kurz & gut, O`Reilly](http://www.oreilly.de/catalog/sqlpg2ger/)
+- <s>1x: [SQL kurz & gut, O`Reilly](http://www.oreilly.de/catalog/sqlpg2ger/)</s>
 - 1x: [Schriftdesign, mitp](http://www.amazon.de/schriftdesign-allan-haley-B%C3%BCcher/s?ie=UTF8&keywords=Schriftdesign%20Allan%20Haley&page=1&rh=n%3A186606%2Ck%3ASchriftdesign%20Allan%20Haley)
 - <s>1x: [Barrierefreiheit verstehen und umsetzen, dpunkt](http://www.dpunkt.de/buecher/2537.html)</s>
 - <s>1x: [HTML5 von Peter Kröner 2. Auflage, OpenSourcePress](http://html5-buch.de/)</s>
@@ -34,7 +34,7 @@ Wer etwas haben möchte, schreibt mir bitte einfach eine E-Mail an hello [at] an
 ## Papiermuster
 
 - <s>1x [LASERLINE Blackbox](http://www.laser-line.de/serviceandsupport/muster/blackbox.php)</s>
-- 1x Paket mit div. Römerturm Papiermusterbüchern
+- <s>1x Paket mit div. Römerturm Papiermusterbüchern</s>
 
 Eine doch ganz ansehnliche Liste an Büchern, kostenlos (bis auf den Versand) an euch. Einfach so. Weil Verschenken Spaß macht und ich mehr Platz haben möchte.
 
