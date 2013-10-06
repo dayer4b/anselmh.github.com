@@ -49,6 +49,6 @@ This look pretty fantastic, doesn't it? To be honest, my trips aren't _that_ coo
 
 Wether you're just changing the location of your work in the same city or traveling to foreign countries – it all counts and all makes a difference. By being at foreign places you'll have new impressions, maybe even a foreign language or unknown culture. This is where our mind comes into place: When you see something new your brain thinks how to connect this to your known world. And that's where ideas develop.
 
-It might be the wrong thing to travel if you need a project to be finished – it is actually hard to just work after a schedule being abroad. But if you need some inspiration or new ideas it might be the best idea to just leave your usual place to work.
+It might be the wrong thing to travel if you need a project to be finished – it is actually hard to just work after a schedule being abroad. But if you need some inspiration or new ideas it might be the best idea to just leave your usual place to work&hellip;
 
 ![Sunset over the ocean](http://img.anselmhannemann.netdna-cdn.com/img/blog/20130920-Italy--web-16.jpg)
