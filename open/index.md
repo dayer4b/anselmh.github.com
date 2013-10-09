@@ -17,15 +17,18 @@ Here are a few projects I do:
 
 - [Web Dev Reading List](http://wdrl.helloanselm.com/)
 
-- Core-Contributor to [CSS-Modal](http://drublic.github.io/css-modal/) and [init](https://github.com/drublic/init)
+- Co-Developer of the [INIT Framework]([init](https://github.com/drublic/init))
+
+- Core-Contributor to [CSS-Modal](http://drublic.github.io/css-modal)
 
 - Documenting the web [@webplatform](http://docs.webplatform.org/wiki/User:Anselm), [MDN](https://developer.mozilla.org/en-US/profiles/anselmh) and [W3C Testing Suite](http://test.csswg.org/).
 
 - Discussing specifications and use-cases in W3C and WHATWG Mailing Lists.
 
-- Write articles in magazines or on websites with useful content:
+- I wrote several articles (excerpt):
 	- [SmashingMag: "Open Device Labs: Why Should We Care?"](http://www.smashingmagazine.com/2013/05/28/open-device-labs-why-should-we-care/)
 	- [.netmagazine: "The road to responsive images"](http://www.netmagazine.com/features/road-responsive-images)
 	- [.netmagazine: "Responsive design: we are not there yet"](http://www.netmagazine.com/features/responsive-design-we-are-not-there-yet)
 	- [t3n: "Praktische Lösungen für flexible Bilder: Responsive Images schon jetzt einsetzen"](http://t3n.de/magazin/praktische-losungen-flexible-bilder-responsive-images-232734/) [German]
-- [MLReader](https://chrome.google.com/webstore/detail/webstandards-mailing-list/kapkofkiggcefopeamfcpkkgfjjhmamf), [MODX-Boilerplate](https://github.com/anselmh/modx-boilerplate), [HTML5-DPS-Boilerplate](https://github.com/anselmh/HTML5-DPS-Boilerplate), [Publishing-Please!](http://publishing-please.com/).
+	- [The Pastry Box Project: The Value and Importance of Content](http://the-pastry-box-project.net/anselm-hannemann/2013-october-3/)
+- I make [MLReader](https://chrome.google.com/webstore/detail/webstandards-mailing-list/kapkofkiggcefopeamfcpkkgfjjhmamf), [MODX-Boilerplate](https://github.com/anselmh/modx-boilerplate), [HTML5-DPS-Boilerplate](https://github.com/anselmh/HTML5-DPS-Boilerplate), [Publishing-Please!](http://publishing-please.com/).
