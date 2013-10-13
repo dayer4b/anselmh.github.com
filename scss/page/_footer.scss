@@ -1,4 +1,5 @@
 .page__footer {
+	font-size: 1rem;
 	max-width: 48rem;
 
 	-webkit-box-sizing: border-box;
@@ -13,5 +14,19 @@
 	@media (max-width: $mediaL) {
 		padding: 2rem;
 		max-width: 100%;
+	}
+
+	.profileimg {
+		max-width: 6rem;
+		float: left;
+
+		border-radius: 50%;
+	}
+
+	.page__footer__follow {
+		display: inline-block;
+
+		margin-top: 1.5rem;
+		min-height: 3rem;
 	}
 }

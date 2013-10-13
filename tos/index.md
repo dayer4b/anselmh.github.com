@@ -10,4 +10,4 @@ If you search for my [legal information, find it here](/legal/).
 
 ## Notice
 
-Terms of Service are currently only available in German. Find the [Allgemeine Geschäftsbedingungen](http://anselm-hannemann.com/agb.pdf) here.
+<s>Terms of Service are currently only available in German. Find the [Allgemeine Geschäftsbedingungen](http://anselm-hannemann.com/agb.pdf) here.</s>
