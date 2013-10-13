@@ -30,4 +30,39 @@ A few notices on that technique you should be aware of:
 
 That's it, I hope it helps. Thanks for reading!
 
+----
+
+_I received some feedback by [Rodney Rehm](http://rodneyrehm.de/en/) and want to add some things now:_
+
+## Google Chrome's subresources
+
+Not a webstandard yet, Google Chrome tackles the prefetching problem [within a link element](http://www.chromium.org/spdy/link-headers-and-server-hint/link-rel-subresource) in the head section of your HTML document:
+
+	<link rel="subresource" href="img/css-background-image.jpg">
+
+Browser support (as of now): Google Chrome only.
+
+## Removing the preload element from DOM
+
+You can of course, and if you already use JavaScript in your page easily clean the DOM up after the subresources have been loaded. This can be done by a small snippet like this with jQuery:
+
+	$(document).ready(function() {
+		$('.preload').remove();
+	});
+
+If you're not using jQuery, consider using a [DOM Ready snippet](https://github.com/addyosmani/jquery.parts/blob/master/jquery.documentReady.js) and do this manually:
+
+	<script src="js/jquery.documentReady.js"></script>
+	<script>
+		$(function(){
+			var preloadNode = document.querySelector('.preload');
+			if (preloadNode.parentNode) {
+				preloadNode.parentNode.removeChild(preloadNode);
+			}
+		});
+	</script>
+
+----
+
+
 _Credit notice: I am not sure where I found this technique first but [Harry](http://csswizardry.com/) at least uses it so I guess I owe him the credit although I added the alt-attribute for better screenreader compatibility even if the CSS is not loaded._
