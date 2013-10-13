@@ -780,6 +780,8 @@ textarea {
   text-align: center;
   color: #999;
   border-top: thin solid #DDD; }
+.page__post pre {
+  font-size: 1rem; }
 
 .posts__list,
 .posts__pagination {
@@ -902,11 +904,3 @@ textarea {
   h2,
   h3 {
     page-break-after: avoid; } }
-@media screen only and (max-width: 480px) {
-  /* ==========================================================================
-     EXAMPLE Media Queries for Responsive Design.
-     Theses examples override the primary ('mobile first') styles.
-     Modify as content requires.
-     ========================================================================== */ }
-@media screen only and (max-width: 480px) and (-o-min-device-pixel-ratio: 5 / 4), screen only and (max-width: 480px) and (-webkit-min-device-pixel-ratio: 1.25), screen only and (max-width: 480px) and (min-resolution: 120dpi) {
-  /* Style adjustments for high resolution devices */ }
