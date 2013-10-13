@@ -1,5 +1,5 @@
 @charset "UTF-8";
-/*
+/*!
  *	This project's description goes here
  *
  *	@author		Some author's name
@@ -796,6 +796,7 @@ textarea {
   padding: 0; }
 
 .page__footer {
+  font-size: 1rem;
   max-width: 48rem;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -807,6 +808,14 @@ textarea {
     .page__footer {
       padding: 2rem;
       max-width: 100%; } }
+  .page__footer .profileimg {
+    max-width: 6rem;
+    float: left;
+    border-radius: 50%; }
+  .page__footer .page__footer__follow {
+    display: inline-block;
+    margin-top: 1.5rem;
+    min-height: 3rem; }
 
 /* Buttons */
 .btn {
