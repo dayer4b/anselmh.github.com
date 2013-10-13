@@ -772,6 +772,15 @@ textarea {
       height: 3rem;
       line-height: 1; }
 
+.page__post > h1 {
+  margin: 0.67em 0 0.5rem 0; }
+.page__post .date {
+  margin-top: 0;
+  padding-top: 0.5rem;
+  text-align: center;
+  color: #999;
+  border-top: thin solid #DDD; }
+
 .posts__list,
 .posts__pagination {
   list-style: none; }
