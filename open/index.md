@@ -7,17 +7,38 @@ title: "Open"
 
 I believe in Open Source and sharing resources with other people. Although I cannot open source every piece of work I do, I try to do my best improving the web and sharing resources to the community. I try to move the web forward by [contributing code](http://github.com/anselmh/), writing articles or speaking at conferences or talking in podcasts.
 
-Here are a few projects I do:
+<section class="involvement">
+	<ul>
+		<li>
+			<a href="http://drublic.github.io/init"><img src="http://img.anselmhannemann.netdna-cdn.com/img/work/init.svg" alt="Logo of INIT"></a>
+			<h3>INIT Framework</h3>
+		</li>
+		<li>
+			<a href="http://opendevicelab.com/"><img src="http://img.anselmhannemann.netdna-cdn.com/img/work/odl-logo.svg" alt="Logo of Open Device Labs"></a>
+			<h3>Open Device Labs</h3>
+		</li>
+		<li>
+			<a href="http://responsiveimages.org/"><img src="http://img.anselmhannemann.netdna-cdn.com/img/work/ricg-icon--red.svg" alt="Logo of the Responsive Images Community Group showing media query rectangles"></a>
+			<h3>Responsive Images Community Group</h3>
+		</li>
+		<li>
+			<a href="http://wdrl.helloanselm.com/"><img src="http://img.anselmhannemann.netdna-cdn.com/img/work/wdrl-logo.svg" alt="Logo of the web dev reading list showing a circle and WDRL text"></a>
+			<h3>Web Dev Reading List</h3>
+		</li>
+		<li>
+			<a href="http://pubkon.eu/"><img src="http://img.anselmhannemann.netdna-cdn.com/img/work/PUBKON_13.svg" alt="Logo of the PUBKON conference containing fancy rounded rectangles"></a>
+			<h3>PUBKON Conference</h3>
+		</li>
+		<li>
+			<a href="http://publishing-please.com/"><img src="http://img.anselmhannemann.netdna-cdn.com/img/work/digital-publishing-please.svg" alt="Logo of Digital Publishing Please including the project's text"></a>
+			<h3>Digital Publishing Please</h3>
+		</li>
+	</ul>
+</section>
 
-- [W3C Responsive Images CG](http://responsiveimages.org/) is the platform for a native W3C responsive images solution. It contains the latest specifications for W3C, demo-data, use-case documents and much more.
-
-- [opendevicelab.com](http://opendevicelab.com/) is a platform that shows you all OpenDeviceLabs around the world and tells you how to use or maintain it.
+### Other Open Source Projects
 
 - [CSS-Slider](http://helloanselm.com/css-slider/)
-
-- [Web Dev Reading List](http://wdrl.helloanselm.com/)
-
-- Co-Developer of the [INIT Framework]([init](https://github.com/drublic/init))
 
 - Core-Contributor to [CSS-Modal](http://drublic.github.io/css-modal)
 

@@ -771,6 +771,11 @@ textarea {
       border-bottom: none;
       height: 3rem;
       line-height: 1; }
+    .involvement ul > li p {
+      font-size: 1rem;
+      margin: 0;
+      padding: 0;
+      height: 10rem; }
 
 .page__post > h1 {
   margin: 0.67em 0 0.5rem 0; }
