@@ -8,7 +8,7 @@ Last week I asked my Twitter followers to answer a short survey about their test
 
 ## Do you test your Responsive Design in all major Desktop browsers?
 
-![Chart: Only 72% of users test their sites on all desktop browsers](/img/blog/survey-testing-desktop.png)
+![Chart: Only 72% of users test their sites on all desktop browsers](http://img.anselmhannemann.netdna-cdn.com/img/blog/survey-testing-desktop.png)
 
 - 72% say they test their sites on all major desktop browsers
 - 28% don't do it
@@ -20,7 +20,7 @@ Last week I asked my Twitter followers to answer a short survey about their test
 
 This question is the base for my survey and what I wanted to see as an outcome of the survey is how people define 'I tested my code on mobile devices'. This being said I expected a even less people testing on real devices.
 
-![Chart: 91% test on real devices](/img/blog/survey-testing-mobiledevices.png)
+![Chart: 91% test on real devices](http://img.anselmhannemann.netdna-cdn.com/img/blog/survey-testing-mobiledevices.png)
 
 **Conclusion:** 91% doing real device testing is cool but I believe this number is due to the fact my followers are aware of the need to test on mobile. I don't think this number is very representative but it is to hope the real number is not too far away.
 
@@ -32,7 +32,7 @@ On purpose I set this response as textarea so everyone can only enter on which d
 
 ## Do you have the devices all at work? Would you want to test on more but simply don't have them?
 
-![Chart: most users would want to test on more devices](/img/blog/survey-testing-devicesatwork.png)
+![Chart: most users would want to test on more devices](http://img.anselmhannemann.netdna-cdn.com/img/blog/survey-testing-devicesatwork.png)
 
 This question exactly approved what I already thought. Most people only test on devices they have at home/work. While this is totally understandable it also means that for example the idea of **[Open Device Labs](http://opendevicelab.com/)** and sharing test devices is not very wide spread. Please help spread the word and tell your co-workers. Open Device Labs are a great way to test on devices you don't have at home.
 
