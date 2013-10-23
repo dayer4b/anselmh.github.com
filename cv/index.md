@@ -7,32 +7,37 @@ title: "Resumé / CV"
 
 ## »Move the web(standards) forward«
 
-80636 Munich, Germany
+Location: Munich, Germany
 
-[hello@anselm-hannemann.com](mailto:hello@anselm-hannemann.com)
-[helloanselm.com](http://helloanselm.com/)
+Availability: _Worldwide (remote/on-site), let's talk about it._
+
+Email: [hello@anselm-hannemann.com](mailto:hello@anselm-hannemann.com)
+
+Web: [helloanselm.com](http://helloanselm.com/)
 
 ## Expertise
 
 - Writing highly-scalable, modular and self-explaining code
-- High performance optimization techniques on Desktop and Mobile
 - Writing truly responsive 'mobile first' HTML/CSS
-- Making technical concepts for websites and digital magazines / ebooks
+- Writing high performance optimized code for desktop and mobile
+- Creating technical concepts for websites and digital magazines
 - Writing cross-browser optimized code
-- User Experience design concepts
+- User Experience Design concepts
 - Giving talks and workshops about HTML/CSS
 - Writing technology articles
 
 ## Open Source Engagement
 
 - Co-creator of [opendevicelab.com](http://opendevicelab.com/) &mdash; nominated as Game Changer Of The Year 2013 at netmag's netawards
-- Team member of [responsiveimages.org](http://responsiveimages.org/), web standards group of the W3C for the `<picture>` element and `srcset` attribute.
+- Team member of [responsiveimages.org](http://responsiveimages.org/), web standards group of the W3C for a standardized responsive images solution.
+- Co-Author of the [INIT framework](https://github.com/drublic/init), a GruntJS based boilerplate.
+- Curator of the weekly [Web Development Reading List](http://wdrl.helloanselm.com/).
 - Participator and Contributor to [testthewebforward](http://testthewebforward.org/), [WebPlatform.org](http://docs.webplatform.org/wiki/User:Anselm) and the W3C mailing list
 - Creator of [CSS-Slider](https://github.com/anselmh/css-slider/), [MLReader](https://chrome.google.com/webstore/detail/webstandards-mailing-list/kapkofkiggcefopeamfcpkkgfjjhmamf), [MODX-Boilerplate](https://github.com/anselmh/modx-boilerplate), the [HTML5-DPS-Boilerplate](https://github.com/anselmh/HTML5-DPS-Boilerplate) and [many small projects](https://github.com/anselmh?tab=repositories)
 - Creator of [Publishing-Please!](http://publishing-please.com/), a web portal about Digital Publishing tools
-- Invited guest on [Workingdraft Podcast](http://workingdraft.de/) (very well known German web tech podcast), several times
+- Regular guest of [Workingdraft Podcast](http://workingdraft.de/) (very well known German web tech podcast)
 - Writer for [Smashing Magazine](http://www.smashingmagazine.com/author/anselm-hannemann/)
-- Writer for [.net magazine](http://www.netmagazine.com/features/road-responsive-images) and other magazines / blogs
+- Writer for [.net magazine / creativebloq](http://www.netmagazine.com/features/road-responsive-images) and other magazines / blogs
 
 ## Speaker
 
@@ -46,6 +51,7 @@ title: "Resumé / CV"
 
 - Frontend-Development of the [SAP DataCenter Website](http://www.sapdatacenter.com/en/#!)
 - Co-Developed the [FOCUS Magazin for iPad](https://itunes.apple.com/us/app/focus-magazin/id548284324?mt=8) with 2issue
+- Development of the [FOCUS Magazin Teaser website](http://media.focus-magazin.de/)
 - Co-Developed [one of the first iPad Magazines](https://itunes.apple.com/de/app/monte-sommer-2011/id447344403) including full featured social sharing with [2issue](http://2issue.com/) and [mag10](http://mag10.my/) in 2011
 
 ## Organizing
@@ -57,6 +63,7 @@ title: "Resumé / CV"
 
 - Abitur "certificate" (equals high school diploma) at Jakob-Brucker Gymnasium Kaufbeuren, Germany
 - Regular [attendee at conferences](http://lanyrd.com/profile/anselmhannemann/past/)
+- Self learning beast.
 
 ## Work history
 
