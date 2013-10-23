@@ -111,14 +111,15 @@
 
 .page__header__action {
 	position: relative;
-	top: 3rem;
+	top: 9rem;
 	margin: 0 auto 0 auto;
 	text-align: center;
 	color: $lightColor;
-	text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.15);
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.15);
 
 	h2 {
-		font-size: 3rem;
+		font-family: $secondFont;
+		font-size: 2.25rem;
 
 		@media (max-width: $mediaL) {
 			font-size: 2rem;
@@ -142,6 +143,6 @@
 	}
 
 	.btn--big--positive {
-
+		text-shadow: none;
 	}
 }
