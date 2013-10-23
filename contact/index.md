@@ -3,23 +3,22 @@ layout: default
 title: "Contact"
 ---
 
+<article class="contact">
+
 Hey,
 
-it seems you want to contact me. That is lovely and I'd like to speak to you but first ensure [you meet my guidelines](/about/#matchmyinterest) and [notices for Recruiters](/about/#recruiters).
-This is for both, your and my happiness :-)
+it seems you want to contact me. If you want to hire me, you might want to go to my [»work with me« page](/hire/). <br>
+Please get in touch with me if you want to talk with me about a project, about working together, want me to speak at a conference or want me to do a worksop. Please bear in mind [my few but important guidelines](/about/#matchmyinterest), so both of us will have a great time working together.
 
-Now, please send an **e-mail** to:
-
-### [hello@anselm-hannemann.com](mailto:hello@anselm-hannemann.com)
+<a class="btn--big--positive" href="mailto:hello@anselm-hannemann.com?subject=Let's work together">Get in touch with me!</a>
 
 ## Availability
 
-I am currently accepting new projects starting **November, 2013**.
+I am currently accepting new projects starting **Mid November, 2013**.
 
 ----
 
-You can also try to call me via mobile at +49 172 . 263 97 09 but most of the time it is safer and easier to first send me an e-mail before talking via phone.
-
-Now I'd love to hear from you!
-
+Cheers!<br>
 -Anselm
+
+</article>

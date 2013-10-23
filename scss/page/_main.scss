@@ -189,3 +189,46 @@
 	list-style: none;
 	padding: 0;
 }
+
+.hire,
+.contact {
+
+	strong {
+		color: $colorPositive;
+	}
+
+	.btn--big--positive {
+		display: block;
+		text-align: center;
+		color: $lightColor;
+	}
+
+	p > a {
+		color: $colorPositive;
+	}
+}
+
+.teaser {
+	font-family: $secondFont;
+	font-size: 1.5rem;
+	line-height: 1.25;
+
+	> dt,
+	> dd {
+		display: inline;
+		margin: 0;
+	}
+
+	> dt {
+		font-weight: bold;
+		color: $colorPositive;
+	}
+
+	> dd {
+		color: #888;
+	}
+
+	strong {
+		color: $colorPositive;
+	}
+}
