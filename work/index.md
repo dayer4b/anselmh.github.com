@@ -52,6 +52,9 @@ Here are some projects I am part of. For most I developed the frontend code or d
 
 ## Events
 
+See [my appearances at Conferences](/conf/) where I have spoken or will speak at.
+
+
 ### [PUBKON Conference](http://pubkon.eu/)
 
 The PUBKON conference is a German publishing event happening once a year. It features most of the Top-Speakers as well as some less known newcomers and full day workshops the day before the conference starts. I am one of the four organizers.
