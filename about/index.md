@@ -15,7 +15,7 @@ If you hire me, you will get either of the following work from me:
 
 - **Frontend development** (HTML5, CSS, JavaScript). If you want a high-performance, modern and nice project, I am happy to discuss the project with you.
 - **Digital Magazines** (Concept, research, development of the full app) on basis of web-technologies or similar techniques.
-- **Speaking** about Frontend development.
+- [**Speaking** about Frontend development](/conf/).
 - **Workshops** about Frontend development.
 - **Writing** technical articles.
 
