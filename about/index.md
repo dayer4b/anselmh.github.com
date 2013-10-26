@@ -14,6 +14,7 @@ Also _make sure you are asking for a proper time frame_. I won't take any develo
 If you hire me, you will get either of the following work from me:
 
 - **Frontend development** (HTML5, CSS, JavaScript). If you want a high-performance, modern and nice project, I am happy to discuss the project with you.
+- **Device Testing**. I test, debug and review each project on a mass of devices in one of our device labs. This also correlates with my open source project [opendevicelab.com](http://opendevicelab.com/)
 - **Digital Magazines** (Concept, research, development of the full app) on basis of web-technologies or similar techniques.
 - [**Speaking** about Frontend development](/conf/).
 - **Workshops** about Frontend development.
