@@ -11,6 +11,14 @@ If you search for speakers or workshop leaders and organize an event, do not hes
 
 ## Speaking Appearances
 
+### WebTechCon 2013 in Munich, Germany (2013)
+
+[See the slides on "Are we There Yet?"](http://slidedeck.io/anselmh/webtechcon-13--we-are-not-there-yet)
+
+### MODXpo 2013 in Cologne, Germany (2013)
+
+[See the slides on "5 Things You Want for Responsive Development"](http://helloanselm.com/modxpoeu--5-things-you-want-for-rwd/#/)
+
 ### TakeOff Conference in Lille, France (2013)
 
 <iframe width="768" height="432" src="//www.youtube-nocookie.com/embed/pPOeg5WAhgw" frameborder="0" allowfullscreen></iframe>
