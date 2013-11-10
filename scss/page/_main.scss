@@ -33,8 +33,7 @@
 		}
 	}
 
-	img,
-	iframe {
+	img {
 		@include x-animation(fadeIn 500ms ease-in-out);
 
 		position: relative;
