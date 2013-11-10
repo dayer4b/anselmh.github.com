@@ -19,6 +19,8 @@ If you search for speakers or workshop leaders and organize an event, do not hes
 
 [See the slides on "5 Things You Want for Responsive Development"](http://helloanselm.com/modxpoeu--5-things-you-want-for-rwd/#/)
 
+![Photo from Anselm on stage at MODXpo 2013](http://img.anselmhannemann.netdna-cdn.com/img/modxpoeu2013-1_768px.jpg)
+
 ### TakeOff Conference in Lille, France (2013)
 
 <iframe width="768" height="432" src="//www.youtube-nocookie.com/embed/pPOeg5WAhgw" frameborder="0" allowfullscreen></iframe>

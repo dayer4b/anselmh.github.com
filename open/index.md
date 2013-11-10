@@ -10,7 +10,7 @@ I believe in Open Source and sharing resources with other people. Although I can
 <section class="involvement">
 	<ul>
 		<li>
-			<a href="http://drublic.github.io/init"><img src="http://img.anselmhannemann.netdna-cdn.com/img/work/init.svg" alt="Logo of INIT"></a>
+			<a href="http://use-init.com/"><img src="http://img.anselmhannemann.netdna-cdn.com/img/work/init.svg" alt="Logo of INIT"></a>
 			<h3>INIT Framework</h3>
 		</li>
 		<li>
@@ -22,7 +22,7 @@ I believe in Open Source and sharing resources with other people. Although I can
 			<h3>Responsive Images Community Group</h3>
 		</li>
 		<li>
-			<a href="http://wdrl.helloanselm.com/"><img src="http://img.anselmhannemann.netdna-cdn.com/img/work/wdrl-logo.svg" alt="Logo of the web dev reading list showing a circle and WDRL text"></a>
+			<a href="http://wdrl.info/"><img src="http://img.anselmhannemann.netdna-cdn.com/img/work/wdrl-logo.svg" alt="Logo of the web dev reading list showing a circle and WDRL text"></a>
 			<h3>Web Dev Reading List</h3>
 		</li>
 		<li>
