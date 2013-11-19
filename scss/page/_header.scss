@@ -11,6 +11,10 @@
 	@media (max-width: $mediaS) {
 		background-size: cover;
 	}
+
+	a {
+		color: $mainColor;
+	}
 }
 
 .page__header:before {
@@ -149,5 +153,6 @@
 
 	.btn--big--positive {
 		text-shadow: none;
+		color: $lightColor;
 	}
 }

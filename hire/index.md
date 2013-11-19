@@ -19,7 +19,9 @@ title: "Work with me"
 </dl>
 
 Hi, I'm Anselm.<br>
-I specialize in writing and architecting scalable front-end code for websites. With a strong **focus on performance**, **simplicity** and **maintainability**, I build front-ends that will just work best for your project. Learn more [about me](/about/), my expectations from you as a [client](/about/#matchmyinterest) or [recruiter](/about/#recruiters) or take a look at [my CV](/cv/).
+I specialize in writing and architecting scalable front-end code for websites. With a strong **focus on performance**, **simplicity** and **maintainability**, I build front-ends that will just work best for your project.<br>
+If you want a second pair of eyes on your code, I offer you a **code review** (usually 1-2 days).<br>
+Learn more [about me](/about/), my expectations from you as a [client](/about/#matchmyinterest) or [recruiter](/about/#recruiters) or take a look at [my CV](/cv/).
 
 I am open for new adventures and projects involving front-end work. I love to hear your story &mdash; just get in touch with me and we'll see if we can work something out. :)
 

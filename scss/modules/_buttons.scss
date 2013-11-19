@@ -16,8 +16,9 @@ $colorPositiveTxt: #fff;
 }
 
 .btn--big--positive {
+	@include x-rem(padding, 0.8 2.4);
 	font-family: $secondFont;
-	padding: 0.6rem 1.5rem;
+	// padding: 0.6rem 1.5rem;
 	background: $colorPositiveBg;
 	color: $colorPositiveTxt;
 	text-decoration: none;
