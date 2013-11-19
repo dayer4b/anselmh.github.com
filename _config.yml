@@ -6,7 +6,7 @@ paginate: 6
 destination: _site
 future: false
 show_drafts: nil
-markdown: redcarpet
+markdown: rdiscount
 safe: true
 lsi: false
 pygments: true

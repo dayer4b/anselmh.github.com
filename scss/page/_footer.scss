@@ -12,10 +12,6 @@
 	line-height: 1.2;
 	color: $lightColor;
 
-	a {
-		color: $lightColor;
-	}
-
 	@media (max-width: $mediaL) {
 		padding: 2rem;
 		max-width: 100%;
