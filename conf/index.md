@@ -23,15 +23,15 @@ If you search for speakers or workshop leaders and organize an event, do not hes
 
 ### TakeOff Conference in Lille, France (2013)
 
-<iframe width="768" height="432" src="//www.youtube-nocookie.com/embed/pPOeg5WAhgw" frameborder="0" allowfullscreen></iframe>
+<div class="embed-container"><iframe width="768" height="432" src="//www.youtube-nocookie.com/embed/pPOeg5WAhgw" frameborder="0" allowfullscreen></iframe></div>
 
 ### Fronteers Jam Session in Amsterdam, Netherlands (2012)
 
-<iframe src="//player.vimeo.com/video/51897011" width="768" height="432" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/51897011">Anselm Hannemann | The road to responsive images | Fronteers 2012 Jam Session</a> from <a href="http://vimeo.com/fronteers">Fronteers</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<div class="embed-container"><iframe src="//player.vimeo.com/video/51897011" width="768" height="432" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 ### PUBKON 2012 in Munich, Germany (2012)
 
-<iframe src="//player.vimeo.com/video/45066872?color=D13066" width="768" height="432" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/45066872">DPK12 – Digital Publishing-Suite für Profis | Anselm Hannemann</a> from <a href="http://vimeo.com/pubkon">PUBKON 13</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<div class="embed-container"><iframe src="//player.vimeo.com/video/45066872?color=D13066" width="768" height="432" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 and several other gigs not recorded (or video not publicly available) in the years 2012 and 2013.
 You can follow [my past and future conference appearances on Lanyrd](http://lanyrd.com/profile/anselmhannemann/).
