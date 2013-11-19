@@ -14,6 +14,8 @@ title: "Work with me"
 	<dd>Let me give it a kick start!</dd>
 	<dt>Your team needs a workshop?</dt>
 	<dd>I'll bring them up to date!</dd>
+	<dt>Want a 2nd eye on your project?</dt>
+	<dd>I review your code and give feedback!</dd>
 </dl>
 
 Hi, I'm Anselm.<br>
@@ -25,6 +27,6 @@ I am open for new adventures and projects involving front-end work. I love to he
 
 ## Availability
 
-I am currently accepting new projects starting **Mid November, 2013**.
+I am currently accepting new projects starting **now**.
 
 </article>

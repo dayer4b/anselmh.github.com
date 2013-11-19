@@ -14,7 +14,7 @@ Please get in touch with me if you want to talk with me about a project, about w
 
 ## Availability
 
-I am currently accepting new projects starting **Mid November, 2013**.
+I am currently accepting new projects starting **now**.
 
 ----
 
