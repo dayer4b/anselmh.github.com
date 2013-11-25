@@ -38,7 +38,7 @@ I believe in Open Source and sharing resources with other people. Although I can
 
 ### Other Open Source Projects
 
-- [CSS-Slider](http://helloanselm.com/css-slider/)
+- CSS3 [`object-fit`](https://github.com/anselmh/object-fit) polyfill.
 
 - Core-Contributor to [CSS-Modal](http://drublic.github.io/css-modal)
 
