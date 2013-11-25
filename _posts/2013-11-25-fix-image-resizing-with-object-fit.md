@@ -41,7 +41,7 @@ Unfortunately browser support is as following:
 ## Fix the browser support
 
 As the browser support is not that good I wanted to have a interim solution. If you wanna depend on jQuery there also is a polyfill. The problem is, this polyfill isn't that performant as it calculates the image sizing live at runtime. <br>
-When I started to write a vanilla JavaScript polyfill I realized the very same problem. While the solution I chose kind of worked, it didn't please me. Fortunately, when I asked [Christian Schäfer](https://twitter.com/derSchepp) for a code review, he came up with a much smarter idea.
+When I started to write a vanilla JavaScript polyfill I realized the very same problem. While the solution I chose kind of worked, it didn't please me. Fortunately, when I asked [Christian Schaefer](https://twitter.com/derSchepp) for a code review, he came up with a much smarter idea.
 
 Christian rewrote the whole code to work with CSS classes that are applied via JavaScript depending on the current 'situation' / 'state' of the image in a container. Additionally we wrap an [x-tag](https://hacks.mozilla.org/2013/05/speed-up-app-development-with-x-tag-and-web-components/) around the image element to be able to apply a CSS-only style solution. This way there's no need to constantly calculate sizes of the image to drastically improve the performance of the polyfill.
 
