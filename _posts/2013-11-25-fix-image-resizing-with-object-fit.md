@@ -45,7 +45,7 @@ When I started to write a vanilla JavaScript polyfill I realized the very same p
 
 Christian rewrote the whole code to work with CSS classes that are applied via JavaScript depending on the current 'situation' / 'state' of the image in a container. Additionally we wrap an [x-tag](https://hacks.mozilla.org/2013/05/speed-up-app-development-with-x-tag-and-web-components/) around the image element to be able to apply a CSS-only style solution. This way there's no need to constantly calculate sizes of the image to drastically improve the performance of the polyfill.
 
-Well, enough said&mdash;check out the [`object-fit` Polyfill](https://github.com/anselmh/object-fit/) at GitHub.
+Well, enough said&mdash;check out the [`object-fit` Polyfill](https://github.com/anselmh/object-fit/) on GitHub.
 It's also available via bower. Simply enter the following into your command line:
 
 	$ bower install object-fit
