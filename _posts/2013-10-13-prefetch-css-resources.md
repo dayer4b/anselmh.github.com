@@ -64,5 +64,10 @@ If you're not using jQuery, consider using a [DOM Ready snippet](https://github.
 
 ----
 
+## Update 1:
+
+Chrome and Mozilla Firefox support [`<link rel="prefetch">`](https://developer.mozilla.org/en/docs/Link_prefetching_FAQ) to tackle that problem. And recently, [IE 11 joined the party](http://msdn.microsoft.com/en-us/library/ie/dn265039(v=vs.85).aspx) providing support for prefetching, too.
+
+----
 
 _Credit notice: I am not sure where I found this technique first but [Harry](http://csswizardry.com/) at least uses it so I guess I owe him the credit although I added the alt-attribute for better screenreader compatibility even if the CSS is not loaded._
