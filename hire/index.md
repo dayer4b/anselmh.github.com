@@ -29,6 +29,6 @@ I am open for new adventures and projects involving front-end work. I love to he
 
 ## Availability
 
-I am currently accepting new projects starting **now**.
+I am currently accepting new projects starting **January 2014**.
 
 </article>
