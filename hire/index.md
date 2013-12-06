@@ -25,10 +25,11 @@ Learn more [about me](/about/), my expectations from you as a [client](/about/#m
 
 I am open for new adventures and projects involving front-end work. I love to hear your story &mdash; just get in touch with me and we'll see if we can work something out. :)
 
-<a class="btn--big--positive" href="mailto:hello@anselm-hannemann.com?subject=Let's work together">Get in touch!</a>
 
 ## Availability
 
-I am currently accepting new projects starting **January 2014**.
+I am currently accepting new projects starting **July, 2014**.
+
+<a class="btn--big--positive" href="mailto:hello@anselm-hannemann.com?subject=Let's work together">Get in touch!</a>
 
 </article>
