@@ -1,158 +1,104 @@
 /* page__header */
 
 .page__header {
-	width: 100%;
-	height: 30rem;
-
-	background: url('http://img.anselmhannemann.netdna-cdn.com/img/balcony-sunset--darkened--gaussian.jpg');
-	background-size: 100% auto;
-	background-repeat: no-repeat;
-
-	@media (max-width: $mediaS) {
-		background-size: cover;
-	}
+	@include x-box-sizing;
+	@include x-rem(min-height, 12);
+	@include x-rem(max-width, 48);
+	@include x-rem(padding, 0 2);
+	@include x-rem(margin, 2 auto 0 auto);
 
 	a {
 		color: $mainColor;
 	}
 }
 
-.page__header:before {
-	position: absolute;
-	top: 0;
-	left: 0;
-	display: block;
-	width: 100%;
-	height: 4rem;
-	background: #fff;
-	background: rgba(255, 255, 255, 0.95);
-	content: '';
-	z-index: 10;
-
-	@media (max-width: $mediaS) {
-		height: 6rem;
-	}
-}
-
-.page__header--wrapper {
-	position: relative;
-	z-index: 20;
-	height: 4rem;
-	max-width: 48rem;
-	margin: 0 auto;
-
-	@media (max-width: $mediaS) {
-		height: 6rem;
-	}
-}
-
-.page__header__title,
-.page__header__nav {
+.header__title,
+.header__nav {
 	@extend %clearfix;
-
-	width: 50%;
-	float: left;
 
 	@media (max-width: $mediaS) {
 		float: none;
 		width: 100%;
-		text-align: center;
 	}
 }
 
-.page__header__title {
+.header__title {
+	@include x-rem(margin, 0.25 0 0 0);
+
+	float: left;
 	font-family: $secondFont;
 	text-decoration: none;
-	margin-top: 0.25rem;
+
+	@media (max-width: 46em) {
+		float: none;
+	}
+
+	img {
+		float: left;
+		border-radius: 3px;
+	}
+
+	h1,
+	h2 {
+		font-weight: normal;
+	}
 
 	h1 {
-		margin: 0;
-		font-size: 2rem;
-		font-weight: normal;
+		@include x-rem(margin, 0.5 0 0 5.5);
+		@include x-rem(font-size, 1.25);
+		color: $colorPositive;
 	}
 
 	h2 {
-		margin: 0 0 0 0;
-		display: none;
-		font-weight: normal;
+		@include x-rem(margin, 0 0 0 5.5);
+		@include x-rem(font-size, 1);
+		color: #666;
 	}
 }
 
-.page__header__nav {
+.header__nav {
+	@include x-rem(font-size, 1);
+
+	float: right;
 	font-family: $secondFont;
 	text-align: right;
 
-	@media (max-width: $mediaS) {
-		text-align: center;
+	@media (max-width: 46em) {
+		float: none;
+		text-align: left;
 	}
 
 	> ul {
-		margin: 1rem 0 0 0;
+		@include x-rem(margin, 1 0 1 0);
+
 		padding: 0;
 		list-style: none;
-
-		@media (max-width: $mediaS) {
-			margin: 0;
-		}
 	}
 
 	li {
 		display: inline-block;
 		vertical-align: top;
 
+		@media (max-width: 340px) {
+			display: block;
+		}
+
 		> a {
 			text-decoration: none;
 			padding: 0.4rem;
 			margin-left: 0.15rem;
 
-			@media (max-width: $mediaS) {
-				padding: 0.2rem;
-				margin-left: 0;
+			@media (max-width: 340px) {
+				@include x-box-sizing;
+
+				width: 100%;
+				margin: 0;
+			}
+
+			&.anchor--positive {
+				color: $colorPositive;
 			}
 		}
 	}
 }
 
-.page__header__action {
-	position: relative;
-	top: 9rem;
-	margin: 0 auto 0 auto;
-	text-align: center;
-	color: $lightColor;
-	text-shadow: 0px 1px 15px rgba(0, 0, 0, 0.8);
-
-	.lt-ie10 & {
-		color: $mainColor;
-	}
-
-	h2 {
-		font-family: $secondFont;
-		font-size: 2.25rem;
-		font-weight: 100;
-
-		@media (max-width: $mediaL) {
-			font-size: 2rem;
-		}
-
-		@media (max-width: $mediaM) {
-			font-size: 1.5rem;
-		}
-	}
-
-	h2,
-	p {
-		margin: 0 0 1.5rem 0;
-	}
-
-	hr {
-		margin: 0 auto 3rem auto;
-		width: 35rem;
-		max-width: 80%;
-		border-top: thin solid rgba(255, 255, 255, 0.5);
-	}
-
-	.btn--big--positive {
-		text-shadow: none;
-		color: $lightColor;
-	}
-}

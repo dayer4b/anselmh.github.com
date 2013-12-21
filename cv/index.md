@@ -7,7 +7,7 @@ title: "Resumé / CV"
 
 ## »Move the web(standards) forward«
 
-Location: Munich, Germany
+Location: Munich & Cologne, Germany
 
 Availability: _Worldwide (remote/on-site), let's talk about it._
 
@@ -70,10 +70,10 @@ Web: [helloanselm.com](http://helloanselm.com/)
 ## Work history
 
 - November 2007 - December 2011: Founded 2 person design agency, transformed to my own business in 2011
-- December 2011 - now: Freelance web developer
-- March 2011 - now: Co-worker at 2issue digital publishing GmbH
-- May 2011 - now: Co-worker at PUBKON Conference
-- January 2012 - now: Part-time work (freelance basis) for Hubert Burda Media / FOCUS Magazin Verlag
+- January 2012 - July 2013: Part-time work (freelance basis) for Hubert Burda Media / FOCUS Magazin Verlag
+- December 2011 - now: Freelance Front-End Developer & Architect
+- March 2011 - now: Freelance Advisor at 2issue digital publishing GmbH
+- May 2011 - now: Co-Founder and Organizer of PUBKON Conference
 
 ## Social commitment
 - Civilian service at LMU university clinic, Cardiology dpt. in Munich, Germany as medical assistant and IT manager (September 2009 - May 2010)
