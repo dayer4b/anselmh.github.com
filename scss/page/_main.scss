@@ -1,7 +1,7 @@
 /* page__main */
 
 .page__main {
-	max-width: 48rem;
+	@include x-rem(max-width, 48);
 
 	-webkit-box-sizing: border-box;
 	   -moz-box-sizing: border-box;
@@ -103,8 +103,16 @@ blockquote {
 }
 
 .involvement {
+
+	&:hover ul {
+		max-height: 9999px;
+	}
+
 	ul {
 		@extend %clearfix;
+		@include x-rem(max-height, 18);
+		@include x-transition(all 2s ease-in-out);
+		overflow: hidden;
 
 		padding: 0;
 		list-style: none;

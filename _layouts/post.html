@@ -24,8 +24,7 @@
 			var h=document.getElementsByTagName("html")[0];h.className+=" wf-loading";var t=setTimeout(function(){h.className=h.className.replace(/(\s|^)wf-loading(\s|$)/g," ");h.className+=" wf-inactive"},config.scriptTimeout);var tk=document.createElement("script"),d=false;tk.src='//use.typekit.net/'+config.kitId+'.js';tk.type="text/javascript";tk.async="true";tk.onload=tk.onreadystatechange=function(){var a=this.readyState;if(d||a&&a!="complete"&&a!="loaded")return;d=true;clearTimeout(t);try{Typekit.load(config)}catch(b){}};var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(tk,s)
 		})();
 	</script>
-
-	<link rel="stylesheet" href="http://img.anselmhannemann.netdna-cdn.com/css/main.css?v=2.10">
+	<link rel="stylesheet" href="/css/main.css?v=2.10">
 </head>
 <body>
 	<!--[if lt IE 10]>
@@ -33,33 +32,28 @@
 	<![endif]-->
 
 	<!-- Hidden preload `div` to fetch images before CSS needs them. -->
-	<div class="ಠ_ಠ">
-
-	</div>
+	<div class="ಠ_ಠ"></div>
 
 	<header class="page__header">
-		<div class="page__header--wrapper">
-			<a class="page__header__title" href="/">
+		<figure class="header__who">
+			<a class="header__title" href="/">
+				<img class="profileimg" src="//img.anselmhannemann.netdna-cdn.com/img/anselm_profile--bigger.jpeg" alt="Portrait of Anselm Hannemann">
+
 				<h1>Anselm Hannemann</h1>
-				<h2>Freelance Web Developer, Speaker, Event organizer</h2>
+				<h2>Freelance Front-End Developer</h2>
 			</a>
+		</figure>
 
-			<nav class="page__header__nav" role="navigation">
-				<ul>
-					<li><a href="/#blog">Blog</a></li>
-					<li><a href="/about/">About</a></li>
-					<li><a href="/work/">Work</a></li>
-					<li><a href="/open/">Open</a></li>
-					<li><a href="/contact/">Contact</a></li>
-				</ul>
-			</nav>
-		</div>
-
-		<div class="page__header__action">
-			<h2>I am Front-end Web Developer</h2>
-			<p><a class="btn--big--positive" href="/hire/">Hire me</a></p>
-		</div>
-
+		<nav class="header__nav" role="navigation">
+			<ul>
+				<li><a href="/#blog">Blog</a></li>
+				<li><a href="/about/">About</a></li>
+				<li><a href="/work/">Work</a></li>
+				<li><a href="/open/">Open</a></li>
+				<li><a href="/contact/">Contact</a></li>
+				<li><a class="anchor--positive" href="/hire/">Hire me</a></li>
+			</ul>
+		</nav>
 	</header>
 
 	<main class="page__main page__post" role="main">
@@ -71,7 +65,6 @@
 
 	<footer class="page__footer">
 		<figure>
-			<img class="profileimg" src="//img.anselmhannemann.netdna-cdn.com/img/anselm_profile--bigger.jpeg" alt="Portrait of Anselm Hannemann">
 			<a href="https://twitter.com/helloanselm" class="twitter-follow-button" data-show-count="false" data-lang="en">Follow @helloanselm</a>
 		</figure>
 
@@ -83,7 +76,6 @@
 	</footer>
 
 	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-
 	<script>
 		var _paq = _paq || [];
 		_paq.push(["trackPageView"]);
