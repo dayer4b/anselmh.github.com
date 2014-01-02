@@ -13,7 +13,7 @@ In **January 2013** I had the opportunity to speak at the newcomer conference [T
 ----
 
 Next up we all met in Berlin to document the Web at the **Web Platform Doc Sprint**:
-[![People at the Web Platform Doc Sprint sitting around documenting the web](http://img.anselmhannemann.netdna-cdn.com/img/2013-in-review/andreas-dantz--wpds.jpg)](http://www.flickr.com/photos/szene/8459312560/in/faves-smooth-graphics/)
+[![People at the Web Platform Doc Sprint sitting around documenting the web](http://img.anselmhannemann.netdna-cdn.com/img/blog/2013-in-review/andreas-dantz--wpds.jpg)](http://www.flickr.com/photos/szene/8459312560/in/faves-smooth-graphics/)
 
 ----
 
@@ -38,14 +38,14 @@ Now followed two weeks **Bouldering in Fontainebleau**, a camping vacation with 
 
 Right back from vacation the final preparations for my own conference—**[the PUBKON](http://pubkon.eu/)**—went on. The conference itself, done the second time in 2013, gladfully was a huge success and we had an amazing time with all the attendees and speakers in Berlin.
 
-![The PUBKON event space showing the atmosphere with all the attendees](http://img.anselmhannemann.netdna-cdn.com/img/2013-in-review/pubkon.jpg)
-![Me and my colleagues on stage opening the event](http://img.anselmhannemann.netdna-cdn.com/img/2013-in-review/pubkon-key.jpg)
+![The PUBKON event space showing the atmosphere with all the attendees](http://img.anselmhannemann.netdna-cdn.com/img/blog/2013-in-review/pubkon.jpg)
+![Me and my colleagues on stage opening the event](http://img.anselmhannemann.netdna-cdn.com/img/blog/2013-in-review/pubkon-key.jpg)
 
 ----
 
 Because I’m a bit silly, I spontaneously said ‘Yes’ when I was asked by the usual German conference crew if I wanna join on **FrontTrends** just two days later. Directly from Berlin I took the train to Warsaw which is a super lovely city I definitely want to visit again. The food, beer, and weather was great as was the time I've spend there…
 
-![Warsaw center by night](http://img.anselmhannemann.netdna-cdn.com/img/2013-in-review/FrontTrends-1.jpg)
+![Warsaw center by night](http://img.anselmhannemann.netdna-cdn.com/img/blog/2013-in-review/FrontTrends-1.jpg)
 ![the conference crew drinking beers](http://distilleryimage4.ak.instagram.com/7f25c9b6ac3611e2892122000a9f13f9_7.jpg)
 ![enjoying the spring outside during conference](http://distilleryimage4.ak.instagram.com/12ca9644ae6511e28f8322000a9f18ae_7.jpg)
 
@@ -111,7 +111,7 @@ The last week in August and the first week of September I spent in the Provence,
 ![swimming pool](http://distilleryimage3.ak.instagram.com/5c880a3a10b911e38ed122000a9f1311_7.jpg)
 ![fresh tomatos](http://distilleryimage6.ak.instagram.com/0180425c130b11e3a77722000a1fbc49_7.jpg)
 The last day of the trip was my birthday and so we went home driving through the Alps enjoying the beauty of mountains:
-![Glacier in Central Alps, Switzerland](http://img.anselmhannemann.netdna-cdn.com/img/2013-in-review/glacier.JPG)
+![Glacier in Central Alps, Switzerland](http://img.anselmhannemann.netdna-cdn.com/img/blog/2013-in-review/glacier.JPG)
 
 ----
 
