@@ -201,6 +201,12 @@ blockquote {
 
 .page__post {
 
+	> h1,
+	> h2,
+	> h3 {
+		line-height: 1;
+	}
+
 	> h1 {
 		margin: 0.67em 0 0.5rem 0;
 	}
