@@ -20,7 +20,16 @@ Here are some projects I am part of. For most I developed the frontend code or d
 		<h3>SAP Data Center Frontend</h3>
 		<p>I hand-crafted the frontend of the new SAP Data Center website together with <a href="http://drublic.de/">Hans-Christian Reinl</a>. It uses much HTML5, CSS3 ans neat JavaScript tricks to gain full performance on mobile devices.</p>
 		<a href="http://sapdatacenter.com/">
-			<img src="http://img.anselmhannemann.netdna-cdn.com/img/work/sap-dc-web.jpg" alt="Screenshot of SAP-Datacenter Website">
+			<img src="http://img.anselmhannemann.netdna-cdn.com/img/work/sap-dc-web-1.jpg" alt="Screenshot of SAP-Datacenter Website">
+			<img src="http://img.anselmhannemann.netdna-cdn.com/img/work/sap-dc-web-2.jpg" alt="Screenshot of SAP-Datacenter Website">
+		</a>
+	</li>
+
+	<li>
+		<h3>FOCUS Magazin Teaser Website</h3>
+		<p>For the German weekly News magazine FOCUS Magazin I created a teaser website for their digital products (Tablet App, Augmented Reality App, EBooks, etc.). It is a plain HTML solution wrapped by the corporate’s master theme (given structure, markup, layout).</p>
+		<a href="http://media.focus-magazin.de/">
+			<img src="http://img.anselmhannemann.netdna-cdn.com/img/work/focus-magazin-online.jpg" alt="Screenshot FOCUS Magazin Online Teaser page">
 		</a>
 	</li>
 
@@ -28,7 +37,7 @@ Here are some projects I am part of. For most I developed the frontend code or d
 		<h3>FOCUS Magazin for iPad</h3>
 		<p>Together with <a href="http://2issue.com/">2issue</a> digital publishing gmbh I created the FOCUS Magazine for iPad in Germany. My job was the technical research, technical setup, scripting (automatisation of layout conversion) and technical project management and development. Together with 2issue I researched and created a nice, clean and good readable layout for tablet devices.</p>
 		<a href="https://itunes.apple.com/de/app/focus-magazin/id548284324">
-			<img src="http://img.anselmhannemann.netdna-cdn.com/img/work/focusmag_1.jpg" alt="Screenshot FOCUS Magazin iPad App">
+			<img src="http://img.anselmhannemann.netdna-cdn.com/img/work/focus-magazin-app.jpg" alt="Screenshot FOCUS Magazin iPad App">
 		</a>
 	</li>
 
@@ -44,7 +53,7 @@ Here are some projects I am part of. For most I developed the frontend code or d
 		<h3>OpenDeviceLab.com</h3>
 		<p>Together with <a href="https://twitter.com/klick_ass">Jay Meissner</a> and <a href="https://twitter.com/derSchepp">Christian Schäfer</a> I developed the non-profit platform opendevicelab.com. This service shows you where to find Open Device Labs where you can access several testing devices. I am responsible for the frontend and design of the site.</p>
 		<a href="http://opendevicelab.com/">
-			<img src="http://img.anselmhannemann.netdna-cdn.com/img/work/odl-com.jpg" alt="Screenshot of Opendevicelab.com website">
+			<img src="http://img.anselmhannemann.netdna-cdn.com/img/work/odl.jpg" alt="Screenshot of Opendevicelab.com website">
 		</a>
 	</li>
 
