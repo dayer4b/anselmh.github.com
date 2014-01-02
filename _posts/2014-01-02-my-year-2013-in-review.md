@@ -63,7 +63,6 @@ Summer came to Germany and I started to improve my Slackline skills and had very
 
 In May I went to Düsseldorf to attend to the beyondtellerand conference which is always one of the best events I’ve ever been to.
 ![](http://distilleryimage1.ak.instagram.com/84176afcc69d11e2852a22000a9e0709_7.jpg)
-![](http://www.flickr.com/photos/blambar/8895455416/in/faves-smooth-graphics/)
 
 ----
 
