@@ -52,4 +52,5 @@ I believe in Open Source and sharing resources with other people. Although I can
 	- [.netmagazine: "Responsive design: we are not there yet"](http://www.netmagazine.com/features/responsive-design-we-are-not-there-yet)
 	- [t3n: "Praktische Lösungen für flexible Bilder: Responsive Images schon jetzt einsetzen"](http://t3n.de/magazin/praktische-losungen-flexible-bilder-responsive-images-232734/) [German]
 	- [The Pastry Box Project: The Value and Importance of Content](http://the-pastry-box-project.net/anselm-hannemann/2013-october-3/)
+	- [Interview on Workspiration](http://workspiration.org/anselm-hannemann) with me
 - I make [MLReader](https://chrome.google.com/webstore/detail/webstandards-mailing-list/kapkofkiggcefopeamfcpkkgfjjhmamf), [MODX-Boilerplate](https://github.com/anselmh/modx-boilerplate), [HTML5-DPS-Boilerplate](https://github.com/anselmh/HTML5-DPS-Boilerplate), [Publishing-Please!](http://publishing-please.com/).
