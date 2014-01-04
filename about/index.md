@@ -47,4 +47,6 @@ With that in mind, I will be happy to speak with you about possibilities. Thank 
 
 ## My Grab Bag
 
+If you want to know how I work and with what I work, read [this interview on Workspiration](http://workspiration.org/anselm-hannemann) or just view my grab bag right here:
+
 [![This shows my grab bag which includes MacBook Air, headphones, iPhone, money and my keychain](http://img.anselmhannemann.netdna-cdn.com/img/grab-bag.jpg)](https://medium.com/grab-bag/acec0b302a9d)
