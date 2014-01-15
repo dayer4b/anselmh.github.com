@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Selling: Apple MacBook Pro 15” Mid 2010"
+title: "[SOLD] Apple MacBook Pro 15” Mid 2010"
 ---
 
 I am selling one of my work machines as I never used it too much in favor of my MacBook Air 11”.
@@ -28,8 +28,6 @@ I want to have **950 EUR** excl. VAT and shipping. This in my opinion is a very 
 and is based on official calculations by several online sellers.
 I will include a nice bag for it, too. Of course power adapter will also be included.
 
-<p class="centered"><a class="btn--big--positive" href="mailto:hello@anselm-hannemann.com?subject=I want your MacBook Pro">I want your MacBook Pro</a></p>
-
 ## Pictures
 
 If you want additional photos, please ask.
@@ -49,6 +47,3 @@ If you want additional photos, please ask.
 ![](http://imguber.anselmhannemann.netdna-cdn.com/mbp/macbookpro-7.jpg)
 
 ![](http://imguber.anselmhannemann.netdna-cdn.com/mbp/macbookpro-8.jpg)
-
-
-<p class="centered"><a class="btn--big--positive" href="mailto:hello@anselm-hannemann.com?subject=I want your MacBook Pro">I want your MacBook Pro</a></p>

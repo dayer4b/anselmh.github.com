@@ -8,6 +8,15 @@ Here are some projects I am part of. For most I developed the frontend code or d
 ## Projects
 
 <ul class="page__work">
+
+	<li>
+		<h3>ODL Donate Your Dusty Device</h3>
+		<p>A teaser page for a device donation campagain on OpenDeviceLab.com</p>
+		<a href="http://opendevicelab.com/DYDD">
+			<img src="http://img.anselmhannemann.netdna-cdn.com/img/work/odl-dydd.jpg" alt="Screenshot of Opendevicelab DYDD teaser website">
+		</a>
+	</li>
+
 	<li>
 		<h3>Book: Adobe Digital Publishing Suite</h3>
 		<p>Together with <a href="https://twitter.com/richardbrammer">Richard Brammer</a> and <a href="https://twitter.com/FischaelaMeer">Michaela Lehr</a> from Berlin I wrote my first book. It has been published at the dpunkt Verlag and currently is available in German. A digital English version is planned and might be released in fall 2013.</p>
