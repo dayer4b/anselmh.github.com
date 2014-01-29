@@ -53,10 +53,10 @@ When you look at the things [where Blink should go in 2014](https://groups.googl
 
 It is totally reasonable to drop an highly experimental technique which is not a finished webstandard yet because of whatever reason. It might not always be great for people who are working and fighting for that feature but you can’t deny that a fast changing specification can cause massive workload and problems.
 
-I don’t wonder that CSS Regions have bad performance. They are a powerful toolset which requires massive calculations and of images and text along vector paths. Now apply this for a responsive design and imagine how this can affect a browser’s performance…
+I am not suprised that CSS Regions have bad performance. They are a powerful toolset which requires massive calculations and of images and text along vector paths. Now apply this for a responsive design and imagine how this can affect a browser’s performance…
 
 But isn’t it just rational to drop such a feature if it doesn’t work right now *and* is still experimental? In my opinion it is.
 
-What I wonder about is, why people are starting to say “As Blink drops CSS Regions all is lost now and it’s going to die as a standard now”. Regions won’t die just because Blink drops them for the next time. Regions are still important. Blink is only one engine and there are many others that support the development of Regions right now. Keep on improving the webstandards.
+What surprised me was people starting to say “As Blink drops CSS Regions all is lost now and it’s going to die as a standard now”. Regions won’t die just because Blink drops them for the next time. Regions are still important. Blink is only one engine and there are many others that support the development of Regions right now. Keep on improving the webstandards.
 
 If they’re good enough and perform well, I’m sure they will get implemented sooner or later. The best thing you can do is to improve the spec, test cases, file bugs and improve the webstandards and proposals itself. Thanks for caring!
