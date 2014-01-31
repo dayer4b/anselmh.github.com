@@ -39,6 +39,12 @@ Web: [helloanselm.com](http://helloanselm.com/)
 - Writer for [Smashing Magazine](http://www.smashingmagazine.com/author/anselm-hannemann/)
 - Writer for [.net magazine / creativebloq](http://www.netmagazine.com/features/road-responsive-images) and other magazines / blogs
 
+## Awards
+
+- Nominated as [Young Developer of the Year at netawards 2014](https://thenetawards.com/vote/young-developer/anselm-hannemann/)
+- Nominated as [Game Changer of the Year at netawards 2014](https://thenetawards.com/vote/game-changer/open-device-lab/) for OpenDeviceLab.com
+- Nominated as Game Changer of the Year at netawards 2013 for OpenDeviceLab.com
+
 ## Speaker
 
 - ["Are we There Yet?"](http://slidedeck.io/anselmh/webtechcon-13--we-are-not-there-yet) at WebTechCon 2013 in Munich, Germany
