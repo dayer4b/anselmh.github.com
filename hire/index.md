@@ -28,7 +28,7 @@ I am open for new adventures and projects involving front-end work. I love to he
 
 ## Availability
 
-I am currently accepting new projects starting **July, 2014**.
+I am currently accepting new projects starting **August, 2014**.
 
 <a class="btn--big--positive" href="mailto:hello@anselm-hannemann.com?subject=Let's work together">Get in touch!</a>
 

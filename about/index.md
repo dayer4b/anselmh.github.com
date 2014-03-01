@@ -5,8 +5,8 @@ title: "About me"
 
 ## About me
 
-![Profile picture of Anselm Hannemann](http://img.anselmhannemann.netdna-cdn.com/img/anselm_btconf2013.jpg)
-I am a 24 year old frontend developer from lovely Munich, Germany currently living also in Colgone and work as a freelancer.
+![Profile picture of Anselm Hannemann](http://img.anselmhannemann.netdna-cdn.com/img/anselm_nominee.jpg)
+I’m a 24 years old front-end stack developer from lovely Munich, Germany currently living in Colgone. I work as a freelancer for companies and agencies and am [nominated as Young Developer of the Year 2014](https://thenetawards.com/vote/young-developer/anselm-hannemann/).
 
 ## What I do
 

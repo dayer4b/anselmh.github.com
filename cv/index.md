@@ -57,7 +57,8 @@ Web: [helloanselm.com](http://helloanselm.com/)
 
 ## Important client work
 
-- Frontend-Development of the [SAP DataCenter Website](http://www.sapdatacenter.com/en/#!)
+- Front-End Development as Front-End Architect/Strategist for the [Vaillant Group](http://www.vaillant-group.com/).
+- Front-End-Development of the [SAP DataCenter Website](http://www.sapdatacenter.com/en/#!)
 - Co-Developed the [FOCUS Magazin for iPad](https://itunes.apple.com/us/app/focus-magazin/id548284324?mt=8) with 2issue
 - Development of the [FOCUS Magazin Teaser website](http://media.focus-magazin.de/)
 - Co-Developed [one of the first iPad Magazines](https://itunes.apple.com/de/app/monte-sommer-2011/id447344403) including full featured social sharing with [2issue](http://2issue.com/) and [mag10](http://mag10.my/) in 2011
@@ -76,10 +77,11 @@ Web: [helloanselm.com](http://helloanselm.com/)
 ## Work history
 
 - November 2007 - December 2011: Founded 2 person design agency, transformed to my own business in 2011
-- January 2012 - July 2013: Part-time work (freelance basis) for Hubert Burda Media / FOCUS Magazin Verlag
+- January 2012 - July 2013: Part-time work (freelance basis) for Hubert Burda Media / [FOCUS Magazin Verlag](http://www.focus.de/)
 - December 2011 - now: Freelance Front-End Developer & Architect
-- March 2011 - now: Freelance Advisor at 2issue digital publishing GmbH
-- May 2011 - now: Co-Founder and Organizer of PUBKON Conference
+- March 2011 - now: Freelance Advisor for Web Technologies at [2issue digital publishing GmbH](http://2issue.com/)
+- May 2011 - now: Co-Founder and Organizer of [PUBKON Conference](http://2014.pubkon.eu/)
+- January 2014 - now: Front-End Developer at [Vaillant Group](http://www.vaillant-group.com/)
 
 ## Social commitment
 - Civilian service at LMU university clinic, Cardiology dpt. in Munich, Germany as medical assistant and IT manager (September 2009 - May 2010)
