@@ -45,4 +45,13 @@ many inline media queries often is that they’re [increasing the size of your C
 
 So all in all, happy media-querying!
 
+### _Update / Clarification collected from feedback_
+
+**It does matter how many _different_ media queries you use on the site when you’re
+resizing the browser window.** This can cause a massive CPU and memory load which
+even can crash your browser but as this is not a valid performance test (no user
+constantly resizes its browser, we should always focus on non-rezining events only).
+Also, these experiences sound really as they are a buggy behavior (which somehow
+is seen in the comments in source code).
+
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
