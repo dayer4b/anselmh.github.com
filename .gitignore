@@ -6,4 +6,5 @@
 /serve
 /_drafts
 /build
-/components
+components
+bower_components
