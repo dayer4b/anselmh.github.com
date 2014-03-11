@@ -12,8 +12,8 @@ I’m a 24 years old front-end stack developer from lovely Munich, Germany curre
 
 You can hire me for the following list of work:
 
-- **Frontend development** (HTML5, CSS, JavaScript). If you want a high-performance, modern and nice project, I am happy to discuss the project with you.
-- **Code Reviews**. I review your existing code and give you advice how to improve it. Usually this will take about ~1-2 days.
+- **Front-end development** (HTML5, CSS, JavaScript). If you want a performance optimized, well coded and modern project, I am happy to discuss it with you.
+- **Code Reviews**. I can do a code quality review of your existing code and give you advice how to improve it.
 - **Device Testing**. I test, debug and review each project on a mass of devices in one of our device labs. This also correlates with my open source project [opendevicelab.com](http://opendevicelab.com/)
 - **Digital Magazines** (Concept, research, development of the full app) on basis of web-technologies or similar techniques.
 - [**Speaking** about Frontend development](/conf/).
@@ -32,11 +32,12 @@ You can hire me for the following list of work:
 
 - Consider a proper timeframe that is doable for you and me. If I don't have the data in time, I might have to drop the project or drop the project during development and send you an invoice for the work I've done until that.
 
+
+<a id="recruiters"> </a>
+
 > Underrated Webdevs to Follow Vol. 1: @helloanselm, @respimg member, helped build opendevicelab.com, curates WDRL.
 >
 > <cite><a href="http://zachleat.com/" target="_blank">Zach Leatherman</a></cite>
-
-<a id="recruiters"> </a>
 
 ## Dear Recruiters,
 

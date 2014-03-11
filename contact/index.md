@@ -5,16 +5,16 @@ title: "Contact"
 
 <article class="contact">
 
-Hey,
+Hey!
 
-it seems you want to contact me. If you want to hire me, you might want to go to my [»work with me« page](/hire/). <br>
-Please get in touch with me if you want to talk with me about a project, about working together, want me to speak at a conference or want me to do a worksop. Please bear in mind [my few but important guidelines](/about/#matchmyinterest), so both of us will have a great time working together.
+If you want to hire me, you might want to go to my [»work with me« page](/hire/) first. <br>
+Get in touch with me if you want to talk with me about a project, working together, or if you want me to speak at a conference or want me to do a worksop. Please bear in mind [my few but important guidelines](/about/#matchmyinterest), so both of us will have a great time working together.
 
 ## Availability
 
 I am currently accepting new projects starting **August, 2014**.
 
-<a class="btn--big--positive" href="mailto:hello@anselm-hannemann.com?subject=Let's work together">Get in touch with me!</a>
+<a class="btn--big--positive" href="mailto:hello@anselm-hannemann.com?subject=Let's talk">Get in touch with me!</a>
 
 ----
 
