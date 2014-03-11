@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Work with me"
+title: "Hire me"
 ---
 
 <article class="hire">
@@ -17,6 +17,6 @@ Regardless if you want me to join your team for a project, want me to give a wor
 
 I am currently accepting new projects starting **August, 2014**.
 
-<a class="btn--big--positive" href="mailto:hello@anselm-hannemann.com?subject=Let's work together">Get in touch!</a>
+<a class="btn--big--positive" href="mailto:hello@anselm-hannemann.com?subject=Let’s talk">Get in touch!</a>
 
 </article>
