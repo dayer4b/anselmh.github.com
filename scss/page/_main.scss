@@ -5,12 +5,18 @@
 
 	-webkit-box-sizing: border-box;
 	   -moz-box-sizing: border-box;
-	        box-sizing: border-box;
+			box-sizing: border-box;
 
 	margin: -4rem auto 2rem auto;
 	padding: 2rem;
 
 	background: #fff;
+
+	h1,
+	h2,
+	h3 {
+		font-family: $secondFont;
+	}
 
 	h1 {
 		text-align: center;
@@ -104,15 +110,8 @@ blockquote {
 
 .involvement {
 
-	&:hover ul {
-		max-height: 9999px;
-	}
-
 	ul {
 		@extend %clearfix;
-		@include x-rem(max-height, 18);
-		@include x-transition(all 2s ease-in-out);
-		overflow: hidden;
 
 		padding: 0;
 		list-style: none;
@@ -126,30 +125,32 @@ blockquote {
 		}
 
 		> li {
+			@include x-rem(margin-bottom, 1);
+			@include x-rem(padding, 0.5);
+			@include x-box-sizing();
+
 			display: inline-block;
 			vertical-align: top;
-			width: 31%;
-			margin-bottom: 1rem;
-			padding: 0.5rem;
-
-			-webkit-box-sizing: border-box;
-			   -moz-box-sizing: border-box;
-			        box-sizing: border-box;
-
+			width: 16%;
 			border: thin solid #DDD;
+			background: #F6F6F6;
 
 			@media (max-width: $mediaL) {
-				width: 48%;
+				width: 24%;
 			}
 
 			@media (max-width: $mediaS) {
-				width: 100%;
+				width: 48%;
 			}
 
 			a {
+				@include x-rem(margin, -0.25 0 0 -0.25);
+				@include x-rem(padding, 0.25);
+
 				display: block;
 				position: relative;
 				width: 100%;
+				background: $lightColor;
 
 				&:before {
 					content: '';
@@ -180,19 +181,23 @@ blockquote {
 			}
 
 			h3 {
-				font-size: 1.25rem;
+				@include x-rem(font-size, 0.8);
+				@include x-rem(padding, 0.5 0 0 0);
+				@include x-rem(height, 2);
+
 				margin: 0;
-				padding: 0.5rem 0 0 0;
-				border-bottom: none;
-				height: 3rem;
 				line-height: 1;
+				font-weight: normal;
+				border-bottom: none;
+				text-align: left;
 			}
 
 			p {
-				font-size: 1rem;
+				@include x-rem(font-size, 1);
+				@include x-rem(height, 10);
+
 				margin: 0;
 				padding: 0;
-				height: 10rem;
 			}
 		}
 	}
@@ -212,12 +217,40 @@ blockquote {
 	}
 
 	.date {
+		@include x-rem(padding-top, 0.5);
+		@include x-rem(font-size, 1.25);
+
 		margin-top: 0;
-		padding-top: 0.5rem;
 		text-align: center;
 
+		font-family: $secondFont;
 		color: #999;
 		border-top: thin solid #DDD;
+	}
+
+	.post__teaserimg {
+		@include x-rem(height, 18);
+
+		overflow: hidden;
+		position: absolute;
+		width: 100%;
+		left: 0;
+		margin: 0;
+	}
+
+	figure + p {
+		@include x-rem(margin-top, 22);
+
+		font-size: 1.25em;
+	}
+
+	p:first-child {
+		color: blue !important;
+		background: yellow;
+	}
+
+	p:nth-child(3) {
+		font-size: 1.25em;
 	}
 
 	pre {
@@ -227,6 +260,16 @@ blockquote {
 
 		background: #F3F3F3;
 	}
+
+	p > code {
+		@include x-rem(padding, 0 0.125);
+		background: #F3F3F3;
+	}
+
+	p > a {
+		text-decoration: underline;
+	}
+
 }
 
 	.posts__list,
@@ -242,15 +285,35 @@ blockquote {
 
 	.posts__list .post__title {
 		margin-top: 0;
+		font-size: 1.2em;
+		line-height: 1.25;
 		border: none;
 	}
 
-	.posts__pagination {
+	.page__main .posts__pagination {
+		@include x-rem(padding-top, 1);
+
 		display: block;
+		font-size: 0.9em;
 		text-align: center;
+		font-family: $secondFont;
+		border-top: thin solid #DDD;
+		color: #999;
 
 		> li {
 			display: inline;
+		}
+	}
+
+	.pagination__prev {
+		&:before {
+			content: '\25c0';
+		}
+	}
+
+	.pagination__next {
+		&:after {
+			content: '\25ba';
 		}
 	}
 
