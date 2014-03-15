@@ -24,7 +24,7 @@
 			var h=document.getElementsByTagName("html")[0];h.className+=" wf-loading";var t=setTimeout(function(){h.className=h.className.replace(/(\s|^)wf-loading(\s|$)/g," ");h.className+=" wf-inactive"},config.scriptTimeout);var tk=document.createElement("script"),d=false;tk.src='//use.typekit.net/'+config.kitId+'.js';tk.type="text/javascript";tk.async="true";tk.onload=tk.onreadystatechange=function(){var a=this.readyState;if(d||a&&a!="complete"&&a!="loaded")return;d=true;clearTimeout(t);try{Typekit.load(config)}catch(b){}};var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(tk,s)
 		})();
 	</script>
-	<link rel="stylesheet" href="http://img.anselmhannemann.netdna-cdn.com/css/main.css?v=3.0.0">
+	<link rel="stylesheet" href="http://img.anselmhannemann.netdna-cdn.com/css/main.css?v=4.0.0">
 </head>
 <body>
 	<!--[if lt IE 10]>
@@ -37,7 +37,7 @@
 	<header class="page__header">
 		<figure class="header__who">
 			<a class="header__title" href="/">
-				<img class="profileimg" src="//img.anselmhannemann.netdna-cdn.com/img/anselm_profile--bigger.jpeg" alt="Portrait of Anselm Hannemann">
+				<img class="profileimg" src="/img/anselm-cologne-300.jpg" alt="Portrait of Anselm Hannemann">
 
 				<h1>Anselm Hannemann</h1>
 				<h2>Freelance Front-End Developer</h2>
@@ -59,7 +59,9 @@
 	<main class="page__main page__post" role="main">
 		<h1>{{ page.title }}</h1>
 		<p class="date">{{ page.date | date: "%B %d, %Y" }}</p>
-
+		{% if page.img %}
+			<figure class="post__teaserimg" style="background-image: url('{{ page.img }}');"></figure>
+		{% endif %}
 		{{ content }}
 	</main>
 
@@ -68,9 +70,10 @@
 			<a href="https://twitter.com/helloanselm" class="twitter-follow-button" data-show-count="false" data-lang="en">Follow @helloanselm</a>
 		</figure>
 
-		<p>Anselm Hannemann. &copy;2014. Munich/Cologne, Germany</p>
-		<p>This site is supported by <a href="http://www.maxcdn.com/">MaxCDN</a> &mdash; &hearts;!</p>
-		<p><a href="http://helloanselm.com/atom.xml">Grab the RSS</a>, <a href="https://twitter.com/helloanselm">follow me on Twitter</a>, or <a href="/legal/">find the legal notices here</a>.</p>
+		<p>&copy;2014 Anselm Hannemann. <br>
+		Munich/Cologne, Germany</p>
+		<p>Supported by <a href="http://www.maxcdn.com/">MaxCDN</a> &mdash; &hearts;!</p>
+		<p><a href="http://helloanselm.com/atom.xml">RSS</a>, <a href="https://github.com/anselmh/">GitHub</a>, <a href="/legal/">Legal</a>.</p>
 	</footer>
 
 	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>

@@ -15,15 +15,15 @@ I believe in Open Source and sharing resources with other people. Although I can
 		</li>
 		<li>
 			<a href="http://wdrl.info/"><img src="http://img.anselmhannemann.netdna-cdn.com/img/work/wdrl-logo.svg" alt="Logo of the web dev reading list showing a circle and WDRL text"></a>
-			<h3>Web Dev Reading List</h3>
+			<h3>WDRL Newsletter</h3>
 		</li>
 		<li>
 			<a href="http://opendevicelab.com/"><img src="http://img.anselmhannemann.netdna-cdn.com/img/work/odl-logo.svg" alt="Logo of Open Device Labs"></a>
-			<h3>Open Device Labs</h3>
+			<h3>Open Device Lab</h3>
 		</li>
 		<li>
 			<a href="http://responsiveimages.org/"><img src="http://img.anselmhannemann.netdna-cdn.com/img/work/ricg-icon--red.svg" alt="Logo of the Responsive Images Community Group showing media query rectangles"></a>
-			<h3>Responsive Images Community Group</h3>
+			<h3>Responsive Images</h3>
 		</li>
 		<li>
 			<a href="http://pubkon.eu/"><img src="http://img.anselmhannemann.netdna-cdn.com/img/work/PUBKON_13.svg" alt="Logo of the PUBKON conference containing fancy rounded rectangles"></a>
