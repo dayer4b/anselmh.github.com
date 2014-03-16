@@ -1,1 +1,7 @@
 // Mixins
+
+@mixin grayscale_element($value) {
+	-webkit-filter: #{"grayscale(#{$value})"};
+			filter: #{"grayscale(#{$value})"};
+	;
+}
