@@ -90,6 +90,7 @@
 				@include x-rem(padding, 0.8);
 				@include x-rem(min-width, 5);
 
+				display: inline-block;
 				margin: 0;
 				text-align: center;
 			}
