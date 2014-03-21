@@ -62,3 +62,14 @@ The following code is what I figured out as a solution for drop shadows on two c
 Feel free to use it on your page, fork it or leave a comment on the pen.
 
 As a variant you could also use pseudo-elements to add the box shadows on the left / right side. Also, the code for positioning the coherent boxes is only for demo—not necessarily the best for your use-case.
+
+## Variant for a flexible handler
+
+If you don’t know the exact width of the toggle button you can achieve the centering of it in a different way. Please note that this won’t work in older browsers like IE8:
+
+Instead of setting a margin on the element, put a CSS transform on it (and don’t forget to add applying prefixes).
+
+	.block_toggle {
+	  transform: translate(-50%, 0);
+	}
+
