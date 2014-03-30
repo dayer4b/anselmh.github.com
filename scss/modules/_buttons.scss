@@ -4,23 +4,22 @@ $colorPositiveBg: #019875;
 $colorPositiveBg: #9B2335;
 $colorPositiveTxt: #fff;
 
-.btn {
+%btn {
 	font-family: $secondFont;
 	padding: 0.25rem;
 	text-decoration: none;
 }
 
-.btn--big {
+%btn--big {
 	font-family: $secondFont;
 	padding: 1rem;
 	text-decoration: none;
 }
 
 .btn--big--positive {
+	@extend %btn;
 	@include x-rem(padding, 0.8 2.4);
-	font-family: $secondFont;
-	// padding: 0.6rem 1.5rem;
+
 	background: $colorPositiveBg;
 	color: $colorPositiveTxt;
-	text-decoration: none;
 }
