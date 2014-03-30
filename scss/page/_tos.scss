@@ -1,63 +1,44 @@
-/* AGB / ToS Styles */
+// /* AGB / ToS Styles */
 
-.tos {
+// .tos {
 
-	// Legal Adress
-	> .adress {
+// 	// ToS
+// 	ol {
+// 		position: relative;
 
-	}
+// 		counter-reset: section;
+// 		list-style-type: none;
+// 		padding: 0;
 
-	// VAT-ID
-	> .legal {
+// 		// §X
+// 		li:before {
+// 			position: absolute;
+// 			left: -2em;
 
-	}
+// 			counter-increment: section;
+// 			content: "§" counters(section, ".") " ";
+// 		}
 
-	// Banking Information
-	> .bank {
+// 		> ol {
+// 			padding: 0;
+// 		}
+// 	}
 
-	}
+// 	> ol.tos {
+// 		margin: 1em 0;
+// 		padding: 0 0 0 2em;
 
-	> .dateofdoc {
+// 		> li {
+// 			margin: 1em 0;
+// 			font-weight: bold;
 
-	}
+// 			> ol {
+// 				font-weight: normal;
+// 			}
+// 		}
 
-	// ToS
-	ol {
-		position: relative;
-
-		counter-reset: section;
-		list-style-type: none;
-		padding: 0;
-
-		// §X
-		li:before {
-			position: absolute;
-			left: -2em;
-
-			counter-increment: section;
-			content: "§" counters(section, ".") " ";
-		}
-
-		> ol {
-			padding: 0;
-		}
-	}
-
-	> ol.tos {
-		margin: 1em 0;
-		padding: 0 0 0 2em;
-
-		> li {
-			margin: 1em 0;
-			font-weight: bold;
-
-			> ol {
-				font-weight: normal;
-			}
-		}
-
-		> li:before {
-			left: 0em;
-		}
-	}
-}
+// 		> li:before {
+// 			left: 0em;
+// 		}
+// 	}
+// }
