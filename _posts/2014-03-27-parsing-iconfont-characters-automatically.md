@@ -21,13 +21,18 @@ This was the time when I thought about somehow it must be possible to parse a we
 The following code snippet is a sample of a character from an SVG icon font:
 
 	<?xml version="1.0" standalone="no"?>
-	<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+	<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+	  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 	<svg xmlns="http://www.w3.org/2000/svg">
 		<defs>
 			<font id="vsir-iconfont" horiz-adv-x="250" >
 				<font-face units-per-em="100" ascent="80" descent="-20" />
 				<glyph unicode=" " horiz-adv-x="50" d="" />
-				<glyph unicode="!" horiz-adv-x="100" d="M83.522656250000011 38.628515624999999 C85.970996093749989 38.628515625000006 90.867675781250000 38.628515625000006 93.316015624999977 38.628515625000006 C94.026953124999977 38.628515625000006 94.737695312500023 z" />
+				<glyph unicode="!" horiz-adv-x="100" d="M83.522656250000011
+				  38.628515624999999 C85.970996093749989 38.628515625000006
+				  90.867675781250000 38.628515625000006 93.316015624999977
+				  38.628515625000006 C94.026953124999977 38.628515625000006
+				  94.737695312500023 z" />
 			</font>
 		</defs>
 	</svg>
@@ -97,7 +102,8 @@ I use jQuery here but if you don’t need to support older browsers you can easi
 
 			// Find all glyph nodes in the SVG file
 			var svg = $('svg').find('glyph');
-			var unicodePrefix = '\\'; // Add unicode escaping for CSS, JS escaped
+			// Add unicode escaping for CSS
+			var unicodePrefix = '\\';
 			var iconOutput = '';
 			var icons = [];
 			var i = 0;
@@ -112,7 +118,12 @@ I use jQuery here but if you don’t need to support older browsers you can easi
 				var iconChar = icons[i].charCodeAt();
 
 				iconChar = iconChar.toString(16); // Convert to string format
-				iconOutput += '<tr><td class="icon--' + icons[i] + '">' + icons[i] + '</td><td><code>' + unicodePrefix + iconChar + '</code></td></tr>';
+				iconOutput += '<tr><td class="icon--' + icons[i] + '">' +
+				                icons[<i></i>] +
+				                '</td><td><code>' +
+				                unicodePrefix +
+				                iconChar +
+				                '</code></td></tr>';
 			}
 
 			$('.icons').append(iconOutput);
