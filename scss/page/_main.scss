@@ -252,11 +252,33 @@ blockquote {
 	}
 
 	pre {
+		@include x-transition(all 500ms ease-in-out);
 		@include x-rem(font-size, 1);
 		@include x-rem(padding, 1.25 1);
 		@include x-rem(margin, 1 0);
 
 		background: #F3F3F3;
+
+		@media (min-width: 60em) {
+			@include x-rem(width, 42);
+
+			position: relative;
+			left: 0;
+
+			&:hover {
+				@include x-rem(width, 55);
+				@include x-rem(left, -7);
+			}
+		}
+
+		@media (min-width: 75em) {
+			@include x-rem(width, 42);
+
+			&:hover {
+				@include x-rem(width, 70);
+				@include x-rem(left, -14.5);
+			}
+		}
 	}
 
 	p > code {
