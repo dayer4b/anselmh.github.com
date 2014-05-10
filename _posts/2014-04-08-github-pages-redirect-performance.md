@@ -8,6 +8,8 @@ Using GitHub pages is common practice today, especially using it as host for you
 
 _Please be aware this post is written as of April, 2014 and things might have changed when you read this post. You find the links with the proper information right here in the article._
 
+_**Update**: As of end of April, GitHub again updated their gh-pages infrastructure and [wrote about it on their manual page](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages). Check it out how to properly configure your custom domain to avoid the effect described here._
+
 While I already wrote about problems with [using GitHub pages as a CDN to serve static files](http://helloanselm.com/2013/use-a-cdn-on-github-pages/) I always was pretty convinced of the world-wide load performance with GitHub pages. As I optimized my website’s performance last week, I got a tweet from Andy Davies telling me a strange behavior about the initial load of the page:
 
 <blockquote class="twitter-tweet" data-conversation="none" lang="en"><p><a href="https://twitter.com/helloanselm">@helloanselm</a> <a href="https://twitter.com/WebPerfNews">@WebPerfNews</a>  1st waterfall redirect pattern seems quite common with GH pages</p>&mdash; Andy Davies (@AndyDavies) <a href="https://twitter.com/AndyDavies/statuses/450305634698035200">March 30, 2014</a></blockquote>
