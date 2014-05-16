@@ -16,14 +16,18 @@ The following is a test case to find regression bugs in your component including
 	        phantomcss.screenshot('.selector', 'screenshotname');
 	    })
 	    .then(function () {
-	        this.mouse.move('.selector a.button');
+	        this.mouse.move('.selector a.button'); // Trigger :hover state
 	    })
 	    .then(function () {
-	        this.mouse.move('.selector a.button--large');
+	        this.mouse.down('.selector a.button--large'); // Trigger :active state
 	    });
 
 	casper.on('mouse.move', function(resource) {
 	    phantomcss.screenshot('.selector', 'screenshotname-hover');
+	});
+
+	casper.on('mouse.down', function(resource) {
+	    phantomcss.screenshot('.selector', 'screenshotname-active');
 	});
 
 ### The Explanation
