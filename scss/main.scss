@@ -1,7 +1,6 @@
 // Helpers
 @import "helpers/variables";
 @import "../bower_components/sass-mixins/mixins";
-// @import "../bower_components/normalize-scss/normalize";
 @import "helpers/helpers";
 @import "helpers/animations";
 
@@ -10,7 +9,7 @@
 @import "page/header";
 @import "page/main";
 @import "page/footer";
-@import "page/_tos.scss";
+@import "page/tos";
 
 // Modules
 @import "modules/buttons";

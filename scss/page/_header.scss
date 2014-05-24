@@ -74,6 +74,13 @@
 		}
 	}
 
+	> a.btn--big--positive {
+		@include x-rem(margin, 0.5 auto 2 auto);
+
+		display: inline-block;
+		color: $colorPositiveTxt;
+	}
+
 	li {
 		display: inline-block;
 		vertical-align: top;
