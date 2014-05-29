@@ -36,7 +36,13 @@
 	<!-- Hidden preload `div` to fetch images before CSS needs them. -->
 	<div class="ಠ_ಠ"></div>
 
+	{% if page.imggradient == 'dark' %}
+	<header class="page__header on-dark">
+	{% else if page.imggradient == 'bright' %}
+	<header class="page__header on-bright">
+	{% else %}
 	<header class="page__header">
+	{% endif %}
 		<figure class="header__who">
 			<a class="header__title" href="/">
 				<img class="profileimg" src="http://img.anselmhannemann.netdna-cdn.com/img/anselm-cologne-300.jpg" alt="Portrait of Anselm Hannemann">
@@ -58,11 +64,15 @@
 		</nav>
 	</header>
 
+	{% if page.imgtype %}
+	<main class="page__main page__post has-full-background font--{{ page.fonttobe }} img-gradient--{{ page.imggradient }}" role="main">
+	{% else %}
 	<main class="page__main page__post" role="main">
+	{% endif %}
 		<h1>{{ page.title }}</h1>
 		<p class="date">{{ page.date | date: "%B %d, %Y" }}</p>
 		{% if page.img %}
-			<figure class="post__teaserimg" style="background-image: url('{{ page.img }}');"></figure>
+			<figure class="post__teaserimg {{ page.imgtype }}" style="background-image: url('{{ page.img }}');"></figure>
 		{% endif %}
 		{{ content }}
 	</main>

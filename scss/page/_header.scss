@@ -7,6 +7,9 @@
 	@include x-rem(padding, 0 2);
 	@include x-rem(margin, 2 auto 0 auto);
 
+	position: relative;
+	z-index: 10;
+
 	a {
 		color: $mainColor;
 	}
@@ -27,10 +30,10 @@
 	img {
 		$imgwidth: 7;
 
-		@include x-rem(top, 1);
 		@include x-rem(margin-left, -($imgwidth/2));
 		@include x-rem(width, $imgwidth);
 
+		top: 0;
 		position: absolute;
 		border-radius: 3px;
 		border-radius: 50%;
@@ -54,6 +57,10 @@
 		@include x-rem(font-size, 1);
 
 		color: #666;
+
+		.on-dark & {
+			color: $lightColor;
+		}
 	}
 }
 
@@ -91,6 +98,11 @@
 
 			color: $colorPositive;
 			text-decoration: underline;
+
+			.on-dark & {
+				color: $lightColor;
+			}
+
 
 			@media (max-width: 340px) {
 				@include x-box-sizing;

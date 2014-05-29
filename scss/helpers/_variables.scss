@@ -2,15 +2,23 @@
  * Variables to be used throughout the project
  */
 
+// blue: #00A9CE (more ancient) or #00a5e0 (bright)
+
 // Text Color
 $mainColor: #111;
 $lightColor: #fff;
-// $colorPositive: #019875;
-$colorPositive: #9B2335;
-$colorPositiveBg: #019875;
-$colorPositiveBg: #9B2335;
+// green: $colorPositive: #019875;
+// red: $colorPositive: #9B2335;
+// red: $colorPositiveBg: #019875;
+// red: $colorPositiveBg: #9B2335;
+$colorPositive: #00a5e0; // blue
+$colorPositiveBg: $colorPositive;
+$colorPositiveBg: $colorPositive;
+
 $colorPositiveTxt: #fff;
 $borderColor: #ccc;
+
+
 
 // Fonts and Font related things
 $mainFont: 'Calluna', Georgia, 'Times New Roman', serif;
