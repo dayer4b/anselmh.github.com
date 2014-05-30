@@ -7,7 +7,7 @@ fonttobe: dark
 imggradient: bright
 ---
 
-Exciting news have been coming up this week. Responsive Images are finally being implemented. Chrome will [ship `<picture>`](https://codereview.chromium.org/265763010/) in version 37, released in Canary this week and most likely released stable in August, 2014. Firefox has [all the patches](https://bugzilla.mozilla.org/show_bug.cgi?id=870022#c55) nearly finished and will ship soon in Nightly channel.
+Exciting news have been coming up this week. Responsive Images are finally being implemented. Chrome is [offering `<picture>`](https://codereview.chromium.org/265763010/) in version 37 behind flags, which means it’s in Canary since this week and hopefully in released stable v37 in August, 2014. Firefox has [all the patches](https://bugzilla.mozilla.org/show_bug.cgi?id=870022#c55) nearly finished and will ship soon in Nightly channel.
 
 Long awaited, discussed over the past three years, a webstandard for responsive images [will be usable](http://caniuse.com/#search=srcset) in new browsers by mid of the year. The [`<picture>` element](http://picture.responsiveimages.org/) and [`srcset`, `sizes`](http://www.w3.org/html/wg/drafts/srcset/w3c-srcset/) will be the thing to use when you need to serve images in different sizes and resolutions.
 
