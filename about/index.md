@@ -6,19 +6,19 @@ title: "About me"
 ## About me
 
 ![Profile picture of Anselm Hannemann](http://img.anselmhannemann.netdna-cdn.com/img/anselm_btconf2013.jpg)
-I’m a 24 years old front-end stack developer from lovely Munich, Germany currently living in Cologne. I work as a freelancer for companies and agencies and was nominated and short-listed as [Young Developer of the Year 2014](https://thenetawards.com/vote/young-developer/anselm-hannemann/).
+I’m a 24 years old front-end stack developer from Munich, Germany and currently also live in Cologne. I work as a freelancer for companies and agencies and was nominated and short-listed as [Young Developer of the Year 2014](https://thenetawards.com/vote/young-developer/anselm-hannemann/).
 
 ## What I do
 
 You can hire me for the following list of work:
 
-- **Front-end development** (HTML5, CSS, JavaScript). If you want a performance optimized, well coded and modern project, I am happy to discuss it with you.
+- **Front end development** (HTML5, CSS, JavaScript). If you want a performance optimized, well coded and modern project, I am happy to discuss it with you. This can be a cool, small one pager but also a large-scale web application.
 - **Code Reviews**. I can do a code quality review of your existing code and give you advice how to improve it.
 - **Device Testing**. I test, debug and review each project on a mass of devices in one of our device labs. This also correlates with my open source project [opendevicelab.com](http://opendevicelab.com/)
-- **Digital Magazines** (Concept, research, development of the full app) on basis of web-technologies or similar techniques.
-- [**Speaking** about Frontend development](/conf/).
-- **Workshops** about Frontend development.
+- [**Speaking** about front end development](/conf/).
+- **Workshops** about front end development.
 - **Writing** technical articles.
+- Working agile: I know Scrum, Kanban and have worked in several projects and teams using it.
 
 > We think Anselm Hannemann is just brilliant.
 >
@@ -28,10 +28,9 @@ You can hire me for the following list of work:
 
 ## Please consider:
 
-- I am working on your budget. I try to do my best to fit in your demands but please be aware that I cannot do countless revisions, changes on your project. It would burst the timeframe of the project and the budget.
+- Projects need a clear timeframe and project management with a solid goal. I’m happy to point you to the right people if you need help with taht but please understand that I can’t do countless revisions r changes. It would simply burst the timeframe and your budget of the project.
 
-- Consider a proper timeframe that is doable for you and me. If I don't have the data in time, I might have to drop the project or drop the project during development and send you an invoice for the work I've done until that.
-
+- Plan ahead. Projects can only be well crafted with a proper timeframe and to do my work I need all requirements, dependencies and the project’s settings already set up. If you need help or don’t know what you need to do, please contact me so we can figure this out.
 
 <a id="recruiters"> </a>
 
@@ -42,7 +41,7 @@ You can hire me for the following list of work:
 ## Dear Recruiters,
 
 I am always open for a new work experience but be sure it really fits to me and it is properly paid.
-I expect recruiters to read my [CV](/cv/), look at [my projects](/work/) and consider the employer has no problem with me not having a post-graduate but over 6 years working in my job already with much experience.
+I expect you to read my [CV](/cv/) and have a look at [my projects](/work/).
 
 With that in mind, I will be happy to speak with you about possibilities. Thank you! :)
 
