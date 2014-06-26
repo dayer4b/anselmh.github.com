@@ -9,7 +9,7 @@ How do you colorize a video in the very same colors you use in your webdesign? O
 
 ## The Demo
 
-_Please wait a bit until the video starts playing. Embeded demo takes a little bit…_
+_Please wait a bit until the video starts playing. Embeded demo takes a little bit… works currently best in Chrome (Canary)._
 
 <p data-height="480" data-theme-id="0" data-slug-hash="KGilq" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/anselmh/pen/KGilq/'>Fullscreen Video Hue</a> by Anselm Hannemann (<a href='http://codepen.io/anselmh'>@anselmh</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//codepen.io/assets/embed/ei.js"></script>
@@ -79,7 +79,7 @@ It’s simple: Just do the hue animation completely in the video editing / post-
 
 ## Final words and other experiments
 
-There’s not much to add to it. Except, I played around a bit more and here is another demo I want to show you.
+There’s not much to add to it. Except, I played around a bit more and here is another demo I want to show you. Currently does only work in Chrome.
 
 <p data-height="480" data-theme-id="0" data-slug-hash="BLcHC" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/anselmh/pen/BLcHC/'>Fullscreen Video Hue</a> by Anselm Hannemann (<a href='http://codepen.io/anselmh'>@anselmh</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//codepen.io/assets/embed/ei.js"></script>
