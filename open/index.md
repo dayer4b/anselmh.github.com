@@ -30,9 +30,13 @@ I believe in Open Source and sharing resources with other people. Although I can
 			<h3>PUBKON Conference</h3>
 		</li>
 		<li>
+			<a href="http://workingdraft.de/"><img src="http://img.anselmhannemann.netdna-cdn.com/img/work/workingdraft.png" alt="Logo of the Workingdraft podcast"></a>
+			<h3>Workingdraft Podcast</h3>
+		</li>
+		<!-- <li>
 			<a href="http://publishing-please.com/"><img src="http://img.anselmhannemann.netdna-cdn.com/img/work/digital-publishing-please.svg" alt="Logo of Digital Publishing Please including the project's text"></a>
 			<h3>Digital Publishing Please</h3>
-		</li>
+		</li> -->
 	</ul>
 </section>
 
