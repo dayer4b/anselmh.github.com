@@ -15,8 +15,10 @@ Regardless if you want me to join your team for a project, want me to give a wor
 
 ## Availability
 
-I am currently accepting new projects starting **August, 2014**.
+I am currently accepting new projects starting **September, 2014**.
 
 <a class="btn--big--positive" href="mailto:hello@anselm-hannemann.com?subject=Let’s talk">Get in touch!</a>
+
+_(If possible, encrypt your e-mail with PGP. [My Public Key is to be found here](https://anselm.taurus.uberspace.de/1BE74300.asc))_
 
 </article>

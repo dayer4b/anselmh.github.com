@@ -13,9 +13,14 @@
 	a {
 		color: $mainColor;
 	}
+
+	@media (max-width: $mediaS) {
+		@include x-rem(padding, 0);
+	}
 }
 
 .header__who {
+	margin: 0 auto;
 	text-align: center;
 }
 
@@ -70,15 +75,44 @@
 	font-family: $secondFont;
 	text-align: center;
 
+	@media (max-width: $mediaS) {
+		position: fixed;
+		top: 0.5rem;
+		right: 0.5rem;
+
+		//Make it a burger menu
+		> ul {
+			margin: 0;
+			text-align: left;
+
+			&:before {
+				content: 'Menu';
+				display: inline-block;
+				position: fixed;
+				top: 0.5rem;
+				right: 0.5rem;
+				padding: 0.5rem;
+				background: $lightColor;
+				border: thin solid $colorPositive;
+				border-radius: 0.3125rem;
+				text-transform: uppercase;
+			}
+
+			> li {
+
+				> a {
+					display: block;
+					width: 8rem;
+				}
+			}
+		}
+	}
+
 	> ul {
 		@include x-rem(margin, 1 0 1 0);
 
 		padding: 0;
 		list-style: none;
-
-		@media (max-width: $mediaM) {
-			text-align: center;
-		}
 	}
 
 	> a.btn--big--positive {
@@ -90,7 +124,6 @@
 
 	li {
 		display: inline-block;
-		vertical-align: top;
 
 		> a {
 			@include x-rem(margin, 0 0 0 0.15);
