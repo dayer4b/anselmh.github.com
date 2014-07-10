@@ -10,9 +10,13 @@ I’m a 24 years old front-end stack developer from Munich, Germany and currentl
 
 ## What I do
 
+> Underrated Webdevs to Follow Vol. 1: @helloanselm, @respimg member, helped build opendevicelab.com, curates WDRL.
+>
+> <cite><a href="http://zachleat.com/" target="_blank">Zach Leatherman</a></cite>
+
 You can hire me for the following list of work:
 
-- **Front end development** (HTML5, CSS, JavaScript). If you want a performance optimized, well coded and modern project, I am happy to discuss it with you. This can be a cool, small one pager but also a large-scale web application.
+- **Front-end development** (HTML5, CSS, JavaScript). If you want a performance optimized, well coded and modern project, I am happy to discuss it with you. This can be a cool, small one pager but also a large-scale web application.
 - **Code Reviews**. I can do a code quality review of your existing code and give you advice how to improve it.
 - **Device Testing**. I test, debug and review each project on a mass of devices in one of our device labs. This also correlates with my open source project [opendevicelab.com](http://opendevicelab.com/)
 - [**Speaking** about front end development](/conf/).
@@ -23,27 +27,6 @@ You can hire me for the following list of work:
 > We think Anselm Hannemann is just brilliant.
 >
 > <cite><a href="http://www.redtoadmedia.com/" target="_blank">Anne Miles</a></cite>
-
-<a id="matchmyinterest"> </a>
-
-## Please consider:
-
-- Projects need a clear timeframe and project management with a solid goal. I’m happy to point you to the right people if you need help with taht but please understand that I can’t do countless revisions r changes. It would simply burst the timeframe and your budget of the project.
-
-- Plan ahead. Projects can only be well crafted with a proper timeframe and to do my work I need all requirements, dependencies and the project’s settings already set up. If you need help or don’t know what you need to do, please contact me so we can figure this out.
-
-<a id="recruiters"> </a>
-
-> Underrated Webdevs to Follow Vol. 1: @helloanselm, @respimg member, helped build opendevicelab.com, curates WDRL.
->
-> <cite><a href="http://zachleat.com/" target="_blank">Zach Leatherman</a></cite>
-
-## Dear Recruiters,
-
-I am always open for a new work experience but be sure it really fits to me and it is properly paid.
-I expect you to read my [CV](/cv/) and have a look at [my projects](/work/).
-
-With that in mind, I will be happy to speak with you about possibilities. Thank you! :)
 
 ## My Grab Bag
 
