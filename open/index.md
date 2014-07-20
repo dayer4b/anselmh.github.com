@@ -10,34 +10,38 @@ I believe in Open Source and sharing resources with other people. Although I can
 <section class="involvement">
 	<ul>
 		<li>
-			<a href="http://use-init.com/"><img src="http://img.anselmhannemann.netdna-cdn.com/img/work/init.svg" alt="Logo of INIT"></a>
-			<h3>INIT Framework</h3>
-		</li>
-		<li>
 			<a href="http://wdrl.info/"><img src="http://img.anselmhannemann.netdna-cdn.com/img/work/wdrl-logo.svg" alt="Logo of the web dev reading list showing a circle and WDRL text"></a>
-			<h3>WDRL Newsletter</h3>
+			<h3>Web Development Reading List &ndash; a weekly digest.</h3>
 		</li>
 		<li>
-			<a href="http://opendevicelab.com/"><img src="http://img.anselmhannemann.netdna-cdn.com/img/work/odl-logo.svg" alt="Logo of Open Device Labs"></a>
-			<h3>Open Device Lab</h3>
+			<a href="http://use-init.com/"><img src="/img/work/init.svg" alt="Logo of INIT"></a>
+			<h3>INIT Grunt Automatisation Framework</h3>
 		</li>
 		<li>
 			<a href="http://responsiveimages.org/"><img src="http://img.anselmhannemann.netdna-cdn.com/img/work/ricg-icon--red.svg" alt="Logo of the Responsive Images Community Group showing media query rectangles"></a>
-			<h3>Responsive Images</h3>
+			<h3>Responsive Images Community Group</h3>
 		</li>
 		<li>
-			<a href="http://pubkon.eu/"><img src="http://img.anselmhannemann.netdna-cdn.com/img/work/PUBKON_13.svg" alt="Logo of the PUBKON conference containing fancy rounded rectangles"></a>
-			<h3>PUBKON Conference</h3>
+			<a href="http://nightlybuild.io/"><img src="http://img.anselmhannemann.netdna-cdn.com/img/work/nightlybuildio.svg" alt="Logo of the NightlyBuild.io conference showing an illustrated owl and the title"></a>
+			<h3>NightlyBuild.io Front-End Development Conference</h3>
+		</li>
+		<li>
+			<a href="http://pubkon.eu/"><img src="http://img.anselmhannemann.netdna-cdn.com/img/work/PUBKON.png" alt="Logo of the PUBKON conference containing fancy rounded rectangles"></a>
+			<h3>PUBKON Publishing Conference</h3>
 		</li>
 		<li>
 			<a href="http://workingdraft.de/"><img src="http://img.anselmhannemann.netdna-cdn.com/img/work/workingdraft.png" alt="Logo of the Workingdraft podcast"></a>
 			<h3>Workingdraft Podcast</h3>
 		</li>
-		<!-- <li>
-			<a href="http://publishing-please.com/"><img src="http://img.anselmhannemann.netdna-cdn.com/img/work/digital-publishing-please.svg" alt="Logo of Digital Publishing Please including the project's text"></a>
-			<h3>Digital Publishing Please</h3>
-		</li> -->
-	</ul>
+		<li>
+			<a href="http://opendevicelab.com/"><img src="http://img.anselmhannemann.netdna-cdn.com/img/work/odl-logo.svg" alt="Logo of Open Device Labs"></a>
+			<h3>opendevicelab.com</h3>
+		</li>
+<!-- 		<li>
+			<a href="http://dpunkt.de/buecher/4213/adobe-digital-publishing-suite.html"><img src="http://img.anselmhannemann.netdna-cdn.com/img/work/dpunkt-dps-book.jpg" alt="Book cover Adobe Digital Publishing Suite"></a>
+			<h3>Adobe DPS Book</h3>
+		</li>
+ -->	</ul>
 </section>
 
 ### Other Open Source Projects
