@@ -3,7 +3,7 @@ layout: default
 title: "Open"
 ---
 
-## "Open work"
+## “Open Work”
 
 I believe in Open Source and sharing resources with other people. Although I cannot open source every piece of work I do, I try to do my best improving the web and sharing resources to the community. I try to move the web forward by [contributing code](http://github.com/anselmh/), writing articles or speaking at conferences or talking in podcasts.
 
