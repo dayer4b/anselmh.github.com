@@ -1,9 +1,7 @@
 .page__footer {
-	@include x-rem(margin, 2 auto);
+	@include x-rem(margin, 2 auto 0);
 	@include x-rem(font-size, 1.1);
 	@include x-rem(max-width, 44);
-	@include x-rem(height, 15);
-	@include x-rem(padding-top, 4);
 	@include x-box-sizing();
 
 	text-align: center;
@@ -12,14 +10,21 @@
 	color: $lightColor;
 
 	@media (max-width: $mediaL) {
-		padding: 2rem;
+		padding: 0 2rem;
 		max-width: 100%;
 	}
-
+	
 	> p {
-		color: #444;
-		color: rgba(0, 0, 0, 0.5);
-		font-weight: bold;
+		display: inline;
+		color: #fff;
+	}
+	
+	> figure {
+		display: inline-block;
+		position: relative;
+		top: 0.25rem;
+		margin: 0;
+		padding: 0;
 	}
 
 	&:before {
@@ -28,18 +33,7 @@
 		z-index: -1;
 		left: 0;
 		width: 100%;
-		min-height: 20rem;
-		margin-top: -5rem;
-		padding-top: 1rem;
-
-		background: $mainColor;
-		background: url('http://img.anselmhannemann.netdna-cdn.com/img/footer.jpg');
-		background-size: cover;
-		background-position: center center;
-
-		@media (max-width: 42em) {
-			height: auto;
-			background: $lightColor;
-		}
+		min-height: 3.5rem;
+		background: #222;
 	}
 }
