@@ -4,11 +4,11 @@
 	"main": "",
 	"ignore": [],
 	"dependencies": {
-		"normalize-scss": "~3.0.0",
-		"jquery": "2.1.0",
-		"modernizr": "2.7.2",
-		"requirejs": "~2.1.6",
-		"sass-mixins": "~0.8.0"
+		"normalize-scss": "~3.0.1",
+		"jquery": "~2.1.1",
+		"modernizr": "~2.8.3",
+		"requirejs": "~2.1.14",
+		"sass-mixins": "~0.10.0"
 	},
 	"devDependencies": {}
 }
