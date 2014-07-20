@@ -12,7 +12,7 @@ Get in touch with me if you want to talk with me about a project, working togeth
 
 ## Availability
 
-I am currently accepting new projects starting **September, 2014**.
+I am currently accepting new projects starting **October, 2014**.
 
 <a class="btn--big--positive" href="mailto:hello@anselm-hannemann.com?subject=Let's talk">Get in touch with me!</a>
 
