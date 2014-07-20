@@ -12,10 +12,17 @@
 	text-decoration: none;
 }
 
-.btn--big--positive {
+a.btn--big--positive {
 	@extend %btn;
 	@include x-rem(padding, 0.8 2.4);
+	@include x-transition(all 250ms ease-in-out);
 
-	background: $colorPositiveBg;
-	color: $colorPositiveTxt;
+	color: $colorPositive;
+	border: thin solid $colorPositive;
+
+	&:hover {
+		color: $mainColor;
+		border: thin solid $mainColor;
+		text-decoration: underline;
+	}
 }
