@@ -25,8 +25,23 @@ body {
 }
 
 a {
+	@include x-transition(border-bottom 250ms ease-in-out);
+
 	color: $colorPositive;
 	text-decoration: none;
+}
+
+.header__nav a,
+.page__main a {
+	border-bottom: thin solid #ccc;
+
+	&:hover {
+		border-bottom: thin solid $colorPositive;
+	}
+}
+
+ul {
+	list-style: square;
 }
 
 img {
