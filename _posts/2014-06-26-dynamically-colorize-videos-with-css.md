@@ -19,7 +19,7 @@ _Please wait a bit until the video starts playing. Embeded demo takes a little b
 The HTML is pretty straight forward. As the `<video>` element (just as `<img>`) don’t support pseudo elements, there’s no way to do this with just one element. If you fancy this solution to be ugly, feel free to create a web component including this source so it’ll be hidden in the ShadowDOM. Instead, use a simple video element with a source child (in this case only one but be sure to add more to support all browsers) and an empty div element. The 2nd element is only presentational which might not be ideal but as it doesn’t contain any special role or content in it, it doesn’t harm either regarding accessibility or similar.
 
 	<video controls="no-controls">
-		<source src="http://media.xiph.org/mango/tears_of_steel_1080p.webm">  
+		<source src="http://media.xiph.org/mango/tears_of_steel_1080p.webm">
 	</video>
 	<div class="videohue"></div>
 
@@ -48,7 +48,7 @@ Regarding the CSS, an animation is needed showing your animated hue on the video
 			background: rgba(125, 0, 115, 0.5);
 		}
 	}
-	
+
 	/*
 	 * Create the hue effect
 	 */
@@ -79,7 +79,8 @@ It’s simple: Just do the hue animation completely in the video editing / post-
 
 ## Final words and other experiments
 
-There’s not much to add to it. Except, I played around a bit more and here is another demo I want to show you. Currently does only work in Chrome.
+There’s not much to add to it. Except, I played around a bit more and here is another demo I want to show you. Currently does only work in Chrome. Thanks to [Tears of Steel](http://tearsofsteel.org/) for the open source video material.
 
 <p data-height="480" data-theme-id="0" data-slug-hash="BLcHC" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/anselmh/pen/BLcHC/'>Fullscreen Video Hue</a> by Anselm Hannemann (<a href='http://codepen.io/anselmh'>@anselmh</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//codepen.io/assets/embed/ei.js"></script>
+<small>(CC) Blender Foundation | mango.blender.org</small>
