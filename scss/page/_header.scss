@@ -86,7 +86,7 @@
 			text-align: left;
 
 			&:before {
-				content: 'Menu';
+				content: '\2630  Menu';
 				display: inline-block;
 				position: fixed;
 				top: 0.5rem;
@@ -96,9 +96,28 @@
 				border: thin solid $colorPositive;
 				border-radius: 0.3125rem;
 				text-transform: uppercase;
+				cursor: pointer;
+			}
+
+			&:hover,
+			&:focus {
+				background: $lightColor;
+
+				> li {
+					display: block;
+
+					> a {
+						padding: 0.7rem 0.4rem 0.7rem 0.5rem;
+					}
+				}
 			}
 
 			> li {
+				display: none;
+
+				&:first-child {
+					margin-top: 2rem;
+				}
 
 				> a {
 					display: block;
@@ -119,6 +138,10 @@
 		@include x-rem(margin, 0.5 auto 2 auto);
 
 		display: inline-block;
+
+		@media (max-width: $mediaS) {
+			display: none;
+		}
 	}
 
 	li {
