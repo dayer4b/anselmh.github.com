@@ -9,6 +9,14 @@ Here are some projects I am part of. For most I developed the frontend code or d
 
 <ul class="page__work">
 	<li>
+		<h3>NightlyBuild.io Website</h3>
+		<p>This conference website is written in plain HTML, CSS and JavaScript—optimized in a post-processing step to serve it to the user. It makes use of the CSS-Flexbox technology, parallax scrolling and other cool stuff.</p>
+		<a href="http://www.nightlybuild.io/">
+			<img src="http://img.anselmhannemann.netdna-cdn.com/img/work/nightlybuildio-web.jpg" alt="Screenshot of the Nightlybuild.io Conference website">
+		</a>
+	</li>
+
+	<li>
 		<h3>ODL Donate Your Dusty Device</h3>
 		<p>I made a fresh new one pager for a device donation campagain on OpenDeviceLab.com</p>
 		<a href="http://opendevicelab.com/DYDD">
