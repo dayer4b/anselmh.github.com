@@ -14,7 +14,7 @@ I believe in Open Source and sharing resources with other people. Although I can
 			<h3>Web Development Reading List &ndash; a weekly digest.</h3>
 		</li>
 		<li>
-			<a href="http://use-init.com/"><img src="/img/work/init.svg" alt="Logo of INIT"></a>
+			<a href="http://use-init.com/"><img src="http://img.anselmhannemann.netdna-cdn.com/img/work/init.svg" alt="Logo of INIT"></a>
 			<h3>INIT Grunt Automatisation Framework</h3>
 		</li>
 		<li>
