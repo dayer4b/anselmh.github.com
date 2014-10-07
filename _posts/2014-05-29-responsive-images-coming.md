@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Responsive Images In Your Browser"
-img: http://img.anselmhannemann.netdna-cdn.com/img/blog/2014/05/responsive-images-coming/header.jpg
+img: //img-anselmhannemann.netdna-ssl.com/img/blog/2014/05/responsive-images-coming/header.jpg
 imgtype: full
 fonttobe: dark
 imggradient: bright

@@ -4,7 +4,7 @@ title: "How the WDRL Project Evolves"
 published: true
 ---
 
-At the End of June, 2013, I started a new project called [Web Development Reading List (WDRL)](http://wdrl.info/). It was the [logical evolvement](http://helloanselm.com/2013/introducing-wdrl/) of my weekly blog posts containing interesting links of our industry. When I started the newsletter, after just two weeks it already got 100 subscribers, not counting the people reading the online archive.
+At the End of June, 2013, I started a new project called [Web Development Reading List (WDRL)](http://wdrl.info/). It was the [logical evolvement](https://helloanselm.com/2013/introducing-wdrl/) of my weekly blog posts containing interesting links of our industry. When I started the newsletter, after just two weeks it already got 100 subscribers, not counting the people reading the online archive.
 
 ## It grew and outgrew…
 

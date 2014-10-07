@@ -17,9 +17,9 @@ If you search for speakers or workshop leaders and organize an event, do not hes
 
 ### MODXpo 2013 in Cologne, Germany (2013)
 
-[See the slides on "5 Things You Want for Responsive Development"](http://helloanselm.com/modxpoeu--5-things-you-want-for-rwd/#/)
+[See the slides on "5 Things You Want for Responsive Development"](https://helloanselm.com/modxpoeu--5-things-you-want-for-rwd/#/)
 
-![Photo from Anselm on stage at MODXpo 2013](http://img.anselmhannemann.netdna-cdn.com/img/modxpoeu2013-1_768px.jpg)
+![Photo from Anselm on stage at MODXpo 2013](//img-anselmhannemann.netdna-ssl.com/img/modxpoeu2013-1_768px.jpg)
 
 ### TakeOff Conference in Lille, France (2013)
 

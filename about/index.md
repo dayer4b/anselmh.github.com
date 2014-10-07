@@ -5,7 +5,7 @@ title: "About me"
 
 ## About me
 
-![Profile picture of Anselm Hannemann](http://img.anselmhannemann.netdna-cdn.com/img/anselm_btconf2013.jpg)
+![Profile picture of Anselm Hannemann](//img-anselmhannemann.netdna-ssl.com/img/anselm_btconf2013.jpg)
 I’m a 24 years old front-end stack developer from Munich, Germany and currently also live in Cologne. I work as a freelancer for companies and agencies and was nominated and short-listed as [Young Developer of the Year 2014](https://thenetawards.com/vote/young-developer/anselm-hannemann/). I am an active Open Source contributor, have held several conference talks and am author of articles for Smashing Magazine, Creative Bloq (netmagazine) and other well known sites.
 
 ## What I do
@@ -32,4 +32,4 @@ You can hire me for the following list of work:
 
 If you want to know how I work and with what I work, read [this interview on Workspiration](http://workspiration.org/anselm-hannemann) or just view my grab bag right here:
 
-[![This shows my grab bag which includes MacBook Air, headphones, iPhone, money and my keychain](http://img.anselmhannemann.netdna-cdn.com/img/grab-bag.jpg)](https://medium.com/grab-bag/acec0b302a9d)
+[![This shows my grab bag which includes MacBook Air, headphones, iPhone, money and my keychain](//img-anselmhannemann.netdna-ssl.com/img/grab-bag.jpg)](https://medium.com/grab-bag/acec0b302a9d)

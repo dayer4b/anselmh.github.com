@@ -7,7 +7,7 @@ published: true
 Today I want to share an announcement with you: Finally, after months of work, **[INIT 1.0](http://use-init.com/) has been released today**.<br>
 Founder of the project [Hans-Christian Reinl](http://drublic.de/) has written an announcement post at [The Nitty Gritty](http://thenittygritty.co/reducing-boilerplate-code-front-end-init) and I am happy to be co-author of the project.
 
-[![Logo of the INIT framework](http://img.anselmhannemann.netdna-cdn.com/img/blog/init.png)](http://use-init.com/)
+[![Logo of the INIT framework](//img-anselmhannemann.netdna-ssl.com/img/blog/init.png)](http://use-init.com/)
 
 ## What is INIT?
 

@@ -13,7 +13,7 @@ In **January 2013** I had the opportunity to speak at the newcomer conference [T
 ----
 
 Next up we all met in Berlin to document the Web at the **Web Platform Doc Sprint**:
-[![People at the Web Platform Doc Sprint sitting around documenting the web](http://img.anselmhannemann.netdna-cdn.com/img/blog/2013-in-review/andreas-dantz--wpds.jpg)](http://www.flickr.com/photos/szene/8459312560/in/faves-smooth-graphics/)
+[![People at the Web Platform Doc Sprint sitting around documenting the web](//img-anselmhannemann.netdna-ssl.com/img/blog/2013-in-review/andreas-dantz--wpds.jpg)](http://www.flickr.com/photos/szene/8459312560/in/faves-smooth-graphics/)
 
 ----
 
@@ -27,7 +27,7 @@ Just two weeks later the first **[UX Munich Conference](http://uxmunich.com/)** 
 
 ----
 
-In March I decided to get a new digital camera. I wanted to take more photos than before again and therefore wanted to have a digital cam (previously I only had several great old analog cameras). So [I bought a Fujifilm X-E1](http://helloanselm.com/2013/fuji-x-e1/).
+In March I decided to get a new digital camera. I wanted to take more photos than before again and therefore wanted to have a digital cam (previously I only had several great old analog cameras). So [I bought a Fujifilm X-E1](https://helloanselm.com/2013/fuji-x-e1/).
 ![My new Camera](http://distilleryimage11.ak.instagram.com/d2593a6c961211e2984522000a1f8ad9_7.jpg)
 
 ----
@@ -38,14 +38,14 @@ Now followed two weeks **Bouldering in Fontainebleau**, a camping vacation with 
 
 Right back from vacation the final preparations for my own conference—**[the PUBKON](http://pubkon.eu/)**—went on. The conference itself, done the second time in 2013, gladfully was a huge success and we had an amazing time with all the attendees and speakers in Berlin.
 
-![The PUBKON event space showing the atmosphere with all the attendees](http://img.anselmhannemann.netdna-cdn.com/img/blog/2013-in-review/pubkon.jpg)
-![Me and my colleagues on stage opening the event](http://img.anselmhannemann.netdna-cdn.com/img/blog/2013-in-review/pubkon-key.jpg)
+![The PUBKON event space showing the atmosphere with all the attendees](//img-anselmhannemann.netdna-ssl.com/img/blog/2013-in-review/pubkon.jpg)
+![Me and my colleagues on stage opening the event](//img-anselmhannemann.netdna-ssl.com/img/blog/2013-in-review/pubkon-key.jpg)
 
 ----
 
 Because I’m a bit silly, I spontaneously said ‘Yes’ when I was asked by the usual German conference crew if I wanna join on **FrontTrends** just two days later. Directly from Berlin I took the train to Warsaw which is a super lovely city I definitely want to visit again. The food, beer, and weather was great as was the time I've spend there…
 
-![Warsaw center by night](http://img.anselmhannemann.netdna-cdn.com/img/blog/2013-in-review/FrontTrends-1.jpg)
+![Warsaw center by night](//img-anselmhannemann.netdna-ssl.com/img/blog/2013-in-review/FrontTrends-1.jpg)
 ![the conference crew drinking beers](http://distilleryimage4.ak.instagram.com/7f25c9b6ac3611e2892122000a9f13f9_7.jpg)
 ![enjoying the spring outside during conference](http://distilleryimage4.ak.instagram.com/12ca9644ae6511e28f8322000a9f18ae_7.jpg)
 
@@ -88,11 +88,11 @@ During the week just in the evening I sometimes tried to walk on a Waterline (th
 In June finally I got **my first printed book** which I wrote with two other authors.
 ![](http://distilleryimage7.ak.instagram.com/1e0b5f56d9cc11e2ada322000a1fbcdb_7.jpg)
 
-Back then I decided to move the Reading Lists from my blog to a separate project, now called **[WDRL](http://wdrl.info/)**. I started the project with just a few readers, but the last months it grew massively and I’m stoked about the [success of this project](http://helloanselm.com/2013/the-wdrl-project-evolves/).
+Back then I decided to move the Reading Lists from my blog to a separate project, now called **[WDRL](http://wdrl.info/)**. I started the project with just a few readers, but the last months it grew massively and I’m stoked about the [success of this project](https://helloanselm.com/2013/the-wdrl-project-evolves/).
 
 ----
 
-When the X-Games came to Munich I had to watch the Mountainbike Slopstyle event and [took some photos](http://helloanselm.com/2013/x-games-munich/).
+When the X-Games came to Munich I had to watch the Mountainbike Slopstyle event and [took some photos](https://helloanselm.com/2013/x-games-munich/).
 ![](http://farm4.staticflickr.com/3785/9176385439_fe6f8b33fa_b.jpg)
 ![](http://farm4.staticflickr.com/3773/9176439077_9fd0f64856_b.jpg)
 
@@ -110,7 +110,7 @@ The last week in August and the first week of September I spent in the Provence,
 ![swimming pool](http://distilleryimage3.ak.instagram.com/5c880a3a10b911e38ed122000a9f1311_7.jpg)
 ![fresh tomatos](http://distilleryimage6.ak.instagram.com/0180425c130b11e3a77722000a1fbc49_7.jpg)
 The last day of the trip was my birthday and so we went home driving through the Alps enjoying the beauty of mountains:
-![Glacier in Central Alps, Switzerland](http://img.anselmhannemann.netdna-cdn.com/img/blog/2013-in-review/glacier.JPG)
+![Glacier in Central Alps, Switzerland](//img-anselmhannemann.netdna-ssl.com/img/blog/2013-in-review/glacier.JPG)
 
 ----
 
@@ -132,7 +132,7 @@ Then, for one day, I went to Florence, which is also a very nice city I enjoyed 
 
 2013 has really been an eye-opener to me. I changed lot of my habits to work, to life and to think. I have written down some parts of these changes, and while they may not work for you, here is the list of articles:
 
-- [Working on the Road](http://helloanselm.com/2013/working-on-the-road/)
+- [Working on the Road](https://helloanselm.com/2013/working-on-the-road/)
 - [How Sharing is Part of my Job](https://medium.com/lessons-learned/aca10dead168)
 - [The Value and Importance of Content](https://the-pastry-box-project.net/anselm-hannemann/2013-october-3)
 - Live with less things, donate what you don’t need. I cleared my book shelf and spend them to people who needed them.
@@ -160,9 +160,9 @@ When I came back from Cologne, my colleagues and me moved to a new office space 
 
 ----
 
-On November, 20th Hans-Christian and me finally launched the **[INIT Project](http://helloanselm.com/2013/introducing-init/)** which is a Front-End Framework to help you using a solid and good workflow.
+On November, 20th Hans-Christian and me finally launched the **[INIT Project](https://helloanselm.com/2013/introducing-init/)** which is a Front-End Framework to help you using a solid and good workflow.
 
-Only days later, my first official polyfill—the [CSS `object-fit` Polyfill](http://helloanselm.com/2013/fix-image-resizing-with-object-fit/)—went live with the massive help by Christian Schäfer.
+Only days later, my first official polyfill—the [CSS `object-fit` Polyfill](https://helloanselm.com/2013/fix-image-resizing-with-object-fit/)—went live with the massive help by Christian Schäfer.
 
 ----
 

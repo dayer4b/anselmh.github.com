@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Analyzing the GitHub Pages Waterfall Chart"
-img: http://img.anselmhannemann.netdna-cdn.com/img/blog/gh-pages-waterfall-chart.png
+img: //img-anselmhannemann.netdna-ssl.com/img/blog/gh-pages-waterfall-chart.png
 ---
 
 Using GitHub pages is common practice today, especially using it as host for your Open Source project’s website. But also, websites like mine, rely on GitHub’s pages service. But recently I stumbled over a little caveat—which helps GitHub to prevent attacks.
@@ -10,7 +10,7 @@ _Please be aware this post is written as of April, 2014 and things might have ch
 
 _**Update**: As of end of April, GitHub again updated their gh-pages infrastructure and [wrote about it on their manual page](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages). Check it out how to properly configure your custom domain to avoid the effect described here._
 
-While I already wrote about problems with [using GitHub pages as a CDN to serve static files](http://helloanselm.com/2013/use-a-cdn-on-github-pages/) I always was pretty convinced of the world-wide load performance with GitHub pages. As I optimized my website’s performance last week, I got a tweet from Andy Davies telling me a strange behavior about the initial load of the page:
+While I already wrote about problems with [using GitHub pages as a CDN to serve static files](https://helloanselm.com/2013/use-a-cdn-on-github-pages/) I always was pretty convinced of the world-wide load performance with GitHub pages. As I optimized my website’s performance last week, I got a tweet from Andy Davies telling me a strange behavior about the initial load of the page:
 
 <blockquote class="twitter-tweet" data-conversation="none" lang="en"><p><a href="https://twitter.com/helloanselm">@helloanselm</a> <a href="https://twitter.com/WebPerfNews">@WebPerfNews</a>  1st waterfall redirect pattern seems quite common with GH pages</p>&mdash; Andy Davies (@AndyDavies) <a href="https://twitter.com/AndyDavies/statuses/450305634698035200">March 30, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -30,7 +30,7 @@ Yesterday I got a newsletter from MaxCDN, the provider of my CDN, with announcem
 
 This came in handy to compare the first byte times between my local dealer site and my GitHub site leading to the following result which I already anticipated:
 
-![Chart showing the GitHub pages response times being faster than locale’s compared world-wide](http://img.anselmhannemann.netdna-cdn.com/img/blog/gh-pages-redirect-performance-comparison.png)
+![Chart showing the GitHub pages response times being faster than locale’s compared world-wide](//img-anselmhannemann.netdna-ssl.com/img/blog/gh-pages-redirect-performance-comparison.png)
 
 While my locale provider is much faster serving the site in my own country, GitHub does a far better job even with the redirect if you look at the request response time from e.g. Asia or America. Due to the long distance to Germany (where my local provider serves the site from) it’s much faster to go to Githubs Firewall and Servers which serve from their ‘always local’ servers than going the long distance half around the world.
 

@@ -10,7 +10,7 @@ I almost stopped doing the typical kind of vacation, laying on the beach relaxin
 
 But as I am a freelancer I also need to do some tasks when I'm aborad. It would work doing nothing for a few times but being at around 15 conferences a year means you need to do some work during that days, too. Working in a hotel is usually pretty boring so I decided to work in a coffee shops or even on a tower. Would you believe I am very productive on such days? I am and I will explain why&hellip;
 
-![Photo from Manarola, Italy, showing a lovely village and the sea coast](http://img.anselmhannemann.netdna-cdn.com/img/blog/20130920-Italy--web-20.jpg)
+![Photo from Manarola, Italy, showing a lovely village and the sea coast](//img-anselmhannemann.netdna-ssl.com/img/blog/20130920-Italy--web-20.jpg)
 
 To be honest it is exhausting to travel a lot. You need to plan things, travel, will get irregular sleep and all that stuff. And you also need to care about where to stay, how to finance it, how to get internet and where to charge your devices. Yes, this can be a big problem.
 
@@ -26,7 +26,7 @@ In some countries it is not very easy to get a data SIM card for your phone but 
 
 The main problem I always have is battery power. My MacBook Air lasts usually for 3.5hrs now, including one recharge of my iPhone which has a pretty ridiculous last of battery when tethering. This is not very long, so take care to find a coffee shop or restaurant where you can recharge. Otherwise, you're lucky if you have chosen your hostel near the city center so you can simply go home and recharge there. In Italy I clearly prefer sitting in the sun enjoying an Espresso while charging my computer.
 
-![A table with a cup of Espresso](http://img.anselmhannemann.netdna-cdn.com/img/blog/20130920-Italy--web-1.jpg)
+![A table with a cup of Espresso](//img-anselmhannemann.netdna-ssl.com/img/blog/20130920-Italy--web-1.jpg)
 
 ----
 
@@ -43,7 +43,7 @@ Sometimes it is better to take some friends with you. This can be good friends b
 
 I never experienced major trouble which I couldn't solve easily by myself. Of course bad things happen &mdash; on my last trip my charger broke and I needed to search half a day for an Apple Store because I had to finish some work on that day &mdash; what did I do? Bought it, walked up to a nice place over Florence and worked with this view in front of me:
 
-![View over the city of Florence](http://img.anselmhannemann.netdna-cdn.com/img/blog/20130920-Italy--web-28.jpg)
+![View over the city of Florence](//img-anselmhannemann.netdna-ssl.com/img/blog/20130920-Italy--web-28.jpg)
 
 This look pretty fantastic, doesn't it? To be honest, my trips aren't _that_ cool all the time. Sometimes it is just visiting a city for two days and it rains and rains. But to make my message short I give you one advice:
 
@@ -51,4 +51,4 @@ Wether you're just changing the location of your work in the same city or travel
 
 It might be the wrong thing to travel if you need a project to be finished – it is actually hard to just work after a schedule being abroad. But if you need some inspiration or new ideas it might be the best idea to just leave your usual place to work&hellip;
 
-![Sunset over the ocean](http://img.anselmhannemann.netdna-cdn.com/img/blog/20130920-Italy--web-16.jpg)
+![Sunset over the ocean](//img-anselmhannemann.netdna-ssl.com/img/blog/20130920-Italy--web-16.jpg)
