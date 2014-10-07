@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Parsing Iconfont Characters Automatically"
-img: http://img.anselmhannemann.netdna-cdn.com/img/blog/iconfont-parsing.png
+img: //img-anselmhannemann.netdna-ssl.com/img/blog/iconfont-parsing.png
 ---
 
 Recently I had to fix some issues in an iconfont. In the end all was tracked down to a corrupt WOFF font file but during the debugging process I found a neat solution to display all characters including unicodes of an iconfont automatically.

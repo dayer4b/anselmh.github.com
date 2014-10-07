@@ -5,12 +5,14 @@
 	<meta name="viewport" content="width=device-width, minimum-scale=1.0">
 	<meta name="description" content="Articles on HTML5, CSS, front-end architecture, web performance.">
 
-	<link rel="alternate" type="application/rss+xml" title="Anselm Hannemann (Feed)" href="http://helloanselm.com/atom.xml">
+	<link rel="alternate" type="application/rss+xml" title="Anselm Hannemann (Feed)" href="https://helloanselm.com/atom.xml">
 
 	<link rel="dns-prefetch" href="//helloanselm.com">
-	<link rel="dns-prefetch" href="//img.anselmhannemann.netdna-cdn.com">
+	<link rel="dns-prefetch" href="//img-anselmhannemann.netdna-ssl.com">
 	<link rel="dns-prefetch" href="//use.typekit.net">
 	<link rel="dns-prefetch" href="//anselm.uberspace.de">
+
+	<link rel="canonical" href="https://helloanselm.com{{ page.url | replace:'index.html','' }}">
 
 	<title>{{ page.title }} &ndash; Anselm Hannemann &ndash; HTML5, CSS, front-end architecture, web performance</title>
 
@@ -41,7 +43,7 @@
 	{% endif %}
 		<figure class="header__who">
 			<a class="header__title" href="/">
-				<img class="profileimg" src="http://img.anselmhannemann.netdna-cdn.com/img/anselm-cologne-300.jpg" alt="Portrait of Anselm Hannemann">
+				<img class="profileimg" src="//img-anselmhannemann.netdna-ssl.com/img/anselm-cologne-300.jpg" alt="Portrait of Anselm Hannemann">
 
 				<h1>Anselm Hannemann</h1>
 				<h2>Freelance Front-End Developer</h2>
@@ -81,8 +83,8 @@
 
 		<p>&copy;2014 Anselm Hannemann. <br>
 		Munich/Cologne, Germany</p>
-		<p>Supported by <a href="http://www.maxcdn.com/">MaxCDN</a> &mdash; &hearts;!</p>
-		<p><a href="http://helloanselm.com/atom.xml">RSS</a>, <a href="https://github.com/anselmh/">GitHub</a>, <a href="/legal/">Legal</a>.</p>
+		<p>Supported by <a href="https://www.maxcdn.com/">MaxCDN</a> &mdash; &hearts;!</p>
+		<p><a href="https://helloanselm.com/atom.xml">RSS</a>, <a href="https://github.com/anselmh/">GitHub</a>, <a href="/legal/">Legal</a>.</p>
 	</footer>
 
 	<script>
@@ -91,14 +93,14 @@
 		_paq.push(["enableLinkTracking"]);
 
 		(function() {
-			var u=(("https:" == document.location.protocol) ? "https" : "http") + "://anselm.taurus.uberspace.de/piwik/";
+			var u="//anselm.taurus.uberspace.de/piwik/";
 			_paq.push(["setTrackerUrl", u+"piwik.php"]);
 			_paq.push(["setSiteId", "1"]);
 			var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
 			g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
 		})();
 	</script>
-	<noscript><p><img src="http://anselm.taurus.uberspace.de/piwik/piwik.php?idsite=1" style="border:0" alt="" /></p></noscript>
+	<noscript><p><img src="//anselm.taurus.uberspace.de/piwik/piwik.php?idsite=1" style="border:0" alt="" /></p></noscript>
 	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//img.anselmhannemann.netdna-cdn.com/js/platform.twitter.com.widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 </body>
 </html>

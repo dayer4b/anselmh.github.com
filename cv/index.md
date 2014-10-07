@@ -13,7 +13,7 @@ Availability: _Worldwide (remote/on-site), let's talk about it._
 
 Email: [hello@anselm-hannemann.com](mailto:hello@anselm-hannemann.com)
 
-Web: [helloanselm.com](http://helloanselm.com/)
+Web: [helloanselm.com](https://helloanselm.com/)
 
 ## Expertise
 
@@ -45,7 +45,7 @@ Web: [helloanselm.com](http://helloanselm.com/)
 ## Speaker
 
 - ["Are we There Yet?"](http://slidedeck.io/anselmh/webtechcon-13--we-are-not-there-yet) at WebTechCon 2013 in Munich, Germany
-- ["5 Things You Want for Responsive Development"](http://helloanselm.com/modxpoeu--5-things-you-want-for-rwd/#/) at MODXpo 2013 in Cologne, Germany
+- ["5 Things You Want for Responsive Development"](https://helloanselm.com/modxpoeu--5-things-you-want-for-rwd/#/) at MODXpo 2013 in Cologne, Germany
 - Speaker about ["Responsive Images" at TakeOff Conference 2013](http://www.youtube.com/watch?v=pPOeg5WAhgw) in Lille, France
 - Lightning talk at [Fronteers' Jam session 2012](https://vimeo.com/51897011)
 - Speaker at [PUBKON](http://2013.pubkon.eu/) and several other events about Digital Publishing

@@ -56,7 +56,7 @@ The following code is what I figured out as a solution for drop shadows on two c
 				  -3px 1px 3px -2px rgba(0, 0, 0, 0.25);
 	}
 
-![Screenshot of the result showing two connected elements with outer drop-shadows](http://img.anselmhannemann.netdna-cdn.com/img/blog/drop-shadow-coherent-elements.png)
+![Screenshot of the result showing two connected elements with outer drop-shadows](//img-anselmhannemann.netdna-ssl.com/img/blog/drop-shadow-coherent-elements.png)
 </noscript>
 
 Feel free to use it on your page, fork it or leave a comment on the pen.

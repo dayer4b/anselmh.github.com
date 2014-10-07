@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Webstandard It Is…"
-img: http://img.anselmhannemann.netdna-cdn.com/img/blog/2014/06/respimg-a-standard-1.jpg
+img: //img-anselmhannemann.netdna-ssl.com/img/blog/2014/06/respimg-a-standard-1.jpg
 imgtype: full
 fonttobe: bright
 imggradient: dark

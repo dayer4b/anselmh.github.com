@@ -22,7 +22,7 @@ I now set up my CDN which was so easy that I couldn't believe it. First when I c
 
 Now I just changed the path to:
 
-	<img src="http://img.anselmhannemann.netdna-cdn.com/img/anselmhannemann.jpg">
+	<img src="//img-anselmhannemann.netdna-ssl.com/img/anselmhannemann.jpg">
 
 and have my CDN image. Everything else is done by MaxCDN. How easy is this?
 
@@ -39,4 +39,4 @@ By the way – their entry plans are from ~$40/yr so it's cheap to get it.
 
 Thanks a bunch, [MaxCDN](http://www.maxcdn.com/) for hosting my assets! It is a pleasure to recommend your service.
 
-[<img src="http://img.anselmhannemann.netdna-cdn.com/img/netdna-color.svg" width="300">](http://www.maxcdn.com/)
+[<img src="//img-anselmhannemann.netdna-ssl.com/img/netdna-color.svg" width="300">](http://www.maxcdn.com/)
