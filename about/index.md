@@ -33,3 +33,7 @@ You can hire me for the following list of work:
 If you want to know how I work and with what I work, read [this interview on Workspiration](http://workspiration.org/anselm-hannemann) or just view my grab bag right here:
 
 [![This shows my grab bag which includes MacBook Air, headphones, iPhone, money and my keychain](//img-anselmhannemann.netdna-ssl.com/img/grab-bag.jpg)](https://medium.com/grab-bag/acec0b302a9d)
+
+## My Desktop at Home
+
+[![This shows my Desktop at home](//img-anselmhannemann.netdna-ssl.com/img/desktop.jpg)](https://medium.com/grab-bag/acec0b302a9d)
