@@ -10,6 +10,7 @@
 	<link rel="authorization_endpoint" href="https://indieauth.com/auth">
 	<link rel="token_endpoint" href="https://tokens.indieauth.com/token">
 	<link rel="micropub" href="https://helloanselm.com/micropub">
+	<link rel="webmention" href="https://webmention.herokuapp.com/api/webmention">
 
 	<link href="https://twitter.com/helloanselm" rel="me">
 	<link href="https://github.com/anselmh" rel="me">
@@ -89,7 +90,23 @@
 			<figure class="post__teaserimg {{ page.imgtype }}" style="background-image: url('{{ page.img }}');"></figure>
 		{% endif %}
 		{{ content }}
+
+		<hr>
 		<p><a class="btn--big--positive" href="/hire">You like what I do? Let’s work together…</a></p>
+		<hr>
+
+		<aside class="webmentions comments">
+			<script id="webmention-hosted">
+				(function () {
+					var sn = document.createElement("script"), s = document.getElementsByTagName("script")[0], url;
+					url = document.querySelectorAll ? document.querySelectorAll("link[rel~=canonical]") : false;
+					url = url && url[0] ? url[0].href : false;
+					sn.type = "text/javascript"; sn.async = true;
+					sn.src = "//webmention.herokuapp.com/api/embed?url=" + encodeURIComponent(url || window.location);
+					s.parentNode.insertBefore(sn, s);
+				}());
+			</script>
+		</aside>
 	</main>
 
 	<footer class="page__footer">
