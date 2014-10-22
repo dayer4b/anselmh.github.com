@@ -100,8 +100,10 @@
 			}
 
 			&:hover,
-			&:focus {
+			&:focus,
+			&:target {
 				background: $lightColor;
+				cursor: pointer;
 
 				> li {
 					display: block;
