@@ -2,31 +2,28 @@
  * Variables to be used throughout the project
  */
 
-// blue: #00A9CE (more ancient) or #00a5e0 (bright)
+// Text
+$mainColor: #111 !default;
+$lightColor: #fff !default;
+$colorPositive: #00a5e0 !default; // blue
+$colorPositiveBg: $colorPositive !default;
+$colorPositiveBg: $colorPositive !default;
+$colorPositiveTxt: $lightColor !default;
+$borderColor: #ccc !default;
+$grey--light: #eee !default;
+$grey--superdark: #222 !default;
 
-// Text Color
-$mainColor: #111;
-$lightColor: #fff;
-// green: $colorPositive: #019875;
-// red: $colorPositive: #9B2335;
-// red: $colorPositiveBg: #019875;
-// red: $colorPositiveBg: #9B2335;
-$colorPositive: #00a5e0; // blue
-$colorPositiveBg: $colorPositive;
-$colorPositiveBg: $colorPositive;
+// Sizing
+$initialFontSize: 1.3125em !default; /* =21px */
+$content-text-width: 48rem !default;
+$content-width: 60rem !default;
 
-$colorPositiveTxt: #fff;
-$borderColor: #ccc;
-
-
-
-// Fonts and Font related things
-$mainFont: 'Calluna', Georgia, 'Times New Roman', serif;
-$secondFont: 'Calluna-Sans', 'Calibri', Arial, sans-serif;
-$initialFontSize: 1.3125em; /* =21px */
+// Fonts
+$mainFont: 'Calluna', Georgia, 'Times New Roman', serif !default;
+$secondFont: 'Calluna-Sans', 'Calibri', Arial, sans-serif !default;
 
 // Media Queries
-$mediaXS: 20em;
-$mediaS: 35em;
-$mediaM: 45em;
-$mediaL: 70em;
+$mediaXS: 20em !default;
+$mediaS: 35em !default;
+$mediaM: 45em !default;
+$mediaL: 70em !default;

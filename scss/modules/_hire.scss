@@ -1,0 +1,42 @@
+/**
+ * Module: Hire
+ */
+
+// Is sidebar
+.hire-info {
+	.hire-info__button {
+		position: relative;
+		z-index: 10;
+		display: block;
+		max-width: 12em;
+		margin: 0 auto 2em auto;
+		padding: 0.25em;
+		line-height: 1;
+		text-align: center;
+
+		@media (min-width: $mediaL) {
+			position: fixed;
+			bottom: 1rem;
+			right: 1rem;
+			margin: 0;
+			padding: 0;
+		}
+	}
+}
+
+.hire,
+.contact {
+
+	strong {
+		color: $colorPositive;
+	}
+
+	.btn--big--positive {
+		display: block;
+		text-align: center;
+	}
+
+	p > a {
+		color: $colorPositive;
+	}
+}

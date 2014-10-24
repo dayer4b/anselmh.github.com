@@ -1,0 +1,95 @@
+/**
+ * Module: Involvement.scss
+ */
+
+.involvement {
+
+	ul {
+		@include x-display-flex;
+		@include x-flex-direction(row);
+		@include x-align-content(distribute);
+		@include x-flex-wrap(wrap);
+
+		-webkit-align-items: stretch;
+		     -ms-flex-align: stretch;
+		        align-items: stretch;
+
+		padding: 0;
+		list-style: none;
+		text-align: justify;
+
+		> li {
+			@include x-rem(margin, 0 0.25 1 0.25);
+			@include x-rem(padding, 0.5);
+			@include x-box-sizing();
+			@include x-flex-wrap(wrap);
+			@include x-transition(border 250ms ease-in-out);
+
+			-webkit-flex-grow: 1;
+			    -ms-flex-grow: 1;
+			        flex-grow: 1;
+
+			border: thin solid #DDD;
+
+			&:hover {
+				border: thin solid $colorPositive;
+			}
+
+			&:first-child {
+				margin-left: 0;
+			}
+			&:last-child {
+				margin-right: 0;
+			}
+
+			> a {
+				@include x-rem(padding, 0.25);
+
+				display: block;
+				width: 100%;
+				text-align: center;
+				border: 0;
+
+				&:hover {
+					border: 0;
+				}
+			}
+
+			img {
+				@include x-transition(all 250ms linear);
+
+				left: 0;
+				width: 100%;
+				max-width: 8rem;
+				margin: 0 auto;
+				-webkit-filter: grayscale(100%);
+				        filter: grayscale(100%);
+
+				&:hover {
+					-webkit-filter: grayscale(0%);
+					        filter: grayscale(0%);
+				}
+			}
+
+			h3 {
+				@include x-rem(font-size, 0.8);
+				@include x-rem(padding, 0.5 0 0 0);
+				@include x-rem(height, 2);
+				@include x-rem(max-width, 10);
+
+				margin: 0 auto;
+				line-height: 1;
+				font-weight: normal;
+				border-bottom: none;
+			}
+
+			p {
+				@include x-rem(font-size, 1);
+				@include x-rem(height, 10);
+
+				margin: 0;
+				padding: 0;
+			}
+		}
+	}
+}

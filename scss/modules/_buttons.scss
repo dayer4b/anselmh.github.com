@@ -1,28 +1,36 @@
 /* Buttons */
 
 %btn {
+	padding: 0.25em;
 	font-family: $secondFont;
-	padding: 0.25rem;
 	text-decoration: none;
+	border-radius: 2px;
 }
 
 %btn--big {
+	padding: 1em;
 	font-family: $secondFont;
-	padding: 1rem;
 	text-decoration: none;
+	border-radius: 2px;
 }
 
-a.btn--big--positive {
+a.btn--big--positive,
+.hire-info__button {
 	@extend %btn;
-	@include x-rem(padding, 0.8 2.4);
 	@include x-transition(all 250ms ease-in-out);
 
-	color: $colorPositive;
-	border: thin solid $colorPositive;
+	padding: 0.8em 2.4em;
+	background: $colorPositive;
+	color: $lightColor;
 
 	&:hover {
-		color: $mainColor;
-		border: thin solid $mainColor;
 		text-decoration: underline;
+		background: darken($colorPositive, 10%);
+	}
+
+	&:active,
+	&:focus {
+		background: darken($colorPositive, 10%);
+		border: thin dotted $colorPositive;
 	}
 }

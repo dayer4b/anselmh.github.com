@@ -1,0 +1,24 @@
+/**
+ * Content Images
+ */
+
+.main img,
+.embed-container {
+	@include x-animation(fadeIn 500ms ease-in-out);
+
+	position: relative;
+	left: -2rem;
+	width: 52rem;
+	max-width: 52rem;
+	height: auto;
+	margin: 1rem 0;
+
+	@media (max-width: $mediaL) {
+		max-width: 100%;
+		width: 100%;
+		left: 0;
+	}
+}
+
+.main img.fullsize {}
+

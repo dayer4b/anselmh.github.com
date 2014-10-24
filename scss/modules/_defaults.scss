@@ -1,0 +1,132 @@
+/**
+ * Module: Defaults
+ */
+
+
+/**
+ * Box model
+ */
+
+html {
+	box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+	box-sizing: inherit;
+}
+
+
+/**
+ * Main Colors, Font
+ */
+
+html,
+button,
+input,
+select,
+textarea {
+	color: $mainColor;
+}
+
+body {
+	font-family: $mainFont;
+	font-size: $initialFontSize;
+	line-height: 1.4;
+}
+
+
+/**
+ * Headlines
+ */
+h1,
+h2,
+h3 {
+	font-family: $secondFont;
+}
+
+h1 {
+	text-align: center;
+	line-height: 1.1;
+}
+
+h2,
+h3 {
+	margin: 2rem 0 1.5rem 0;
+	padding-bottom: 0.5rem;
+	text-align: center;
+	border-bottom: thin solid $borderColor;
+}
+
+
+/**
+ * Links
+ */
+a {
+	@include x-transition(border-bottom 250ms ease-in-out);
+
+	color: $colorPositive;
+	text-decoration: none;
+}
+
+.header__nav a,
+.main a {
+	border-bottom: thin solid #ccc;
+
+	&:hover {
+		border-bottom: thin solid $colorPositive;
+	}
+}
+
+
+/**
+ * List Styles
+ */
+ol,
+ul {
+	padding: 0 0 0 1.25rem;
+
+	> li {
+		margin: 0.25rem 0 0.25rem 0;
+	}
+}
+ul {
+	list-style: square;
+}
+
+
+/**
+ * Image Handling, Embedded Stuff
+ */
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+.embed-container {
+	padding-bottom: 56.25%;
+	padding-top: 30px;
+	height: 0;
+	overflow: hidden;
+	height: auto;
+
+	> iframe {
+		position: absolute;
+		top: 0;
+		width: 100%;
+		height: 100%;
+	}
+}
+
+
+/**
+ * Base Classes
+ */
+.centered {
+	text-align: center;
+}
+
+.ಠ_ಠ{
+	display: none !important;
+}

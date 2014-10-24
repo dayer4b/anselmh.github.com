@@ -1,0 +1,62 @@
+.footer {
+	@include x-rem(font-size, 1);
+
+	max-width: 100%;
+	margin: 2em 0 0;
+	padding: 2em;
+	text-align: center;
+	line-height: 1.2;
+	font-family: $secondFont;
+	background: $grey--superdark;
+	color: $lightColor;
+
+	@media (max-width: $mediaL) {
+		max-width: 100%;
+	}
+
+	> h4 {
+		margin: 0 auto 1rem auto;
+		font-size: 1.5em;
+	}
+
+	> p {
+		display: inline;
+		color: $lightColor;
+	}
+
+	> figure {
+		display: inline-block;
+		position: relative;
+		top: 0.25rem;
+		margin: 0;
+		padding: 0;
+	}
+}
+
+.footer__links {
+	text-align: left;
+
+	dt {
+
+	}
+
+	dd {
+		margin: 0 0 1em 0;
+	}
+
+	@media (min-width: $mediaS) {
+		max-width: $content-text-width;
+
+		margin: 0 auto;
+	}
+}
+
+.footer__partners {
+	list-style: none;
+	padding: 0;
+
+	li {
+		display: inline-block;
+		margin: 0.25em 0.5em;
+	}
+}

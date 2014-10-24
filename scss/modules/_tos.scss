@@ -1,0 +1,44 @@
+// /* AGB / ToS Styles */
+
+// .tos {
+
+// 	// ToS
+// 	ol {
+// 		position: relative;
+
+// 		counter-reset: section;
+// 		list-style-type: none;
+// 		padding: 0;
+
+// 		// §X
+// 		li:before {
+// 			position: absolute;
+// 			left: -2em;
+
+// 			counter-increment: section;
+// 			content: "§" counters(section, ".") " ";
+// 		}
+
+// 		> ol {
+// 			padding: 0;
+// 		}
+// 	}
+
+// 	> ol.tos {
+// 		margin: 1em 0;
+// 		padding: 0 0 0 2em;
+
+// 		> li {
+// 			margin: 1em 0;
+// 			font-weight: bold;
+
+// 			> ol {
+// 				font-weight: normal;
+// 			}
+// 		}
+
+// 		> li:before {
+// 			left: 0em;
+// 		}
+// 	}
+// }

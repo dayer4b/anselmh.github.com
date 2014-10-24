@@ -7,7 +7,7 @@ Here are some projects I am part of. For most I developed the frontend code or d
 
 ## Projects
 
-<ul class="page__work">
+<ul class="work">
 	<li>
 		<h3>NightlyBuild.io Website</h3>
 		<p>This conference website is written in plain HTML, CSS and JavaScript—optimized in a post-processing step to serve it to the user. It makes use of the CSS-Flexbox technology, parallax scrolling and other cool stuff.</p>
