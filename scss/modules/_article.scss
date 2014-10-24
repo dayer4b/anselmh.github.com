@@ -2,7 +2,7 @@
  * Module: Article.scss
  */
 
-.post {
+.article {
 
 	> h1,
 	> h2,
@@ -148,7 +148,7 @@
 	}
 }
 
-.post__time {
+.date {
 	display: block;
 	text-align: center;
 	color: #666;

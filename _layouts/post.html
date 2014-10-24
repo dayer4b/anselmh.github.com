@@ -6,7 +6,7 @@
 	<main class="main article" role="main">
 	{% endif %}
 		<h1>{{ page.title }}</h1>
-		<p class="date">{{ page.date | date: "%B %d, %Y" }}</p>
+		<date class="date">{{ page.date | date: "%B %d, %Y" }}</date>
 		{% if page.img %}
 			<figure class="post__teaserimg {{ page.imgtype }}" style="background-image: url('{{ page.img }}');"></figure>
 		{% endif %}
