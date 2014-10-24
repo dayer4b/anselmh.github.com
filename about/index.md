@@ -6,7 +6,7 @@ title: "About me"
 ## About me
 
 ![Profile picture of Anselm Hannemann](//img-anselmhannemann.netdna-ssl.com/img/anselm_btconf2013.jpg)
-I’m a 24 years old front-end stack developer from Munich, Germany and currently also live in Cologne. I work as a freelancer for companies and agencies and was nominated and short-listed as [Young Developer of the Year 2014](https://thenetawards.com/vote/young-developer/anselm-hannemann/). I am an active Open Source contributor, have held several conference talks and am author of articles for Smashing Magazine, Creative Bloq (netmagazine) and other well known sites.
+I’m a front-end stack developer from Munich, Germany. I work as a freelancer and advisor for small and big clients and was nominated and short-listed as [Young Developer of the Year 2014](https://thenetawards.com/vote/young-developer/anselm-hannemann/). I am an active Open Source contributor, have held several conference talks and am author of articles for Smashing Magazine, Creative Bloq (netmagazine) and other well known sites.
 
 ## What I do
 
@@ -16,8 +16,8 @@ I’m a 24 years old front-end stack developer from Munich, Germany and currentl
 
 You can hire me for the following list of work:
 
-- **Front-end development** (HTML5, CSS, JavaScript). If you want a performance optimized, well coded and modern project, I am happy to discuss it with you. This can be a cool, small one pager but also a large-scale web application.
-- **Code Reviews**. I can do a code quality review of your existing code and give you advice how to improve it.
+- **Front-end development** (HTML5, CSS, JavaScript). If you want a performance optimized, well coded and modern project, I am happy to do it. This can be a cool, small one pager but also a large-scale web application.
+- **Code Reviews**. I do code quality reviews of existing code and give advice on how to improve it.
 - **Device Testing**. I test, debug and review each project on a mass of devices in one of our device labs. This also correlates with my open source project [opendevicelab.com](http://opendevicelab.com/)
 - [**Speaking** about front end development](/conf/).
 - **Workshops** about front end development.
