@@ -1,0 +1,62 @@
+/**
+ * Module: Article List.scss
+ */
+
+.posts__list,
+.posts__pagination {
+	list-style: none;
+}
+
+.posts__list {
+	padding: 0;
+
+	li {
+		text-align: left;
+	}
+
+	h2,
+	h3,
+	date {
+		text-align: left;
+	}
+
+	date {
+		margin-bottom: 2em;
+		font-size: 1rem;
+		font-style: italic;
+	}
+}
+
+.posts__list .post__title {
+	margin-top: 0;
+	margin-bottom: 0;
+	font-size: 1.2em;
+	line-height: 1.25;
+	border: none;
+}
+
+.main .posts__pagination {
+	display: block;
+	padding-top: 1em;
+	font-size: 0.9em;
+	text-align: center;
+	font-family: $secondFont;
+	border-top: thin solid #DDD;
+	color: #999;
+
+	> li {
+		display: inline;
+	}
+}
+
+.pagination__prev {
+	&:before {
+		content: '\25c0';
+	}
+}
+
+.pagination__next {
+	&:after {
+		content: '\25ba';
+	}
+}

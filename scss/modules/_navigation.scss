@@ -1,0 +1,54 @@
+/**
+ * Module: Navigation.scss
+ */
+
+.header__nav {
+	@include x-rem(font-size, 1);
+
+	font-family: $secondFont;
+	text-align: center;
+
+	> ul {
+		@include x-rem(margin, 1 0 1 0);
+
+		padding: 0;
+		list-style: none;
+	}
+
+	> a.btn--big--positive {
+		@include x-rem(margin, 0.5 auto 2 auto);
+
+		display: inline-block;
+	}
+
+	li {
+		display: inline-block;
+
+		@media (max-width: $mediaM) {
+			display: block;
+		}
+
+		> a {
+			@include x-rem(margin, 0 0 0 0.15);
+			@include x-rem(padding, 0.4 0.4 0.1 0.4);
+			@include x-transition(border-bottom 250ms ease-in-out);
+
+			color: $colorPositive;
+
+			.on-dark & {
+				color: $lightColor;
+			}
+
+			@media (max-width: $mediaM) {
+				@include x-rem(padding, 0.8);
+
+				display: block;
+				width: 100%;
+			}
+
+			&.anchor--positive {
+				color: $colorPositive;
+			}
+		}
+	}
+}

@@ -1,0 +1,16 @@
+/**
+ * Page: Default
+ */
+
+.main {
+	position: relative;
+	z-index: 20;
+	// margin: -4em auto 2em auto;
+	margin: 0 auto 2em auto;
+	background: $lightColor;
+
+	@media (min-width: $mediaS) {
+		max-width: $content-text-width;
+		margin: 0 auto 2em;
+	}
+}

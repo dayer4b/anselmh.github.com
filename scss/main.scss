@@ -1,3 +1,8 @@
+/**
+ * Main Import File
+ *
+ */
+
 // Helpers
 @import "helpers/variables";
 @import "../components/sass-mixins/mixins";
@@ -5,14 +10,24 @@
 @import "helpers/animations";
 
 // Layout
-@import "page/base";
-@import "page/header";
-@import "page/main";
-@import "page/footer";
-@import "page/tos";
+@import "page/default";
+@import "page/work";
 
 // Modules
+@import "modules/base";
+@import "modules/defaults";
 @import "modules/buttons";
+@import "modules/header";
+@import "modules/footer";
+@import "modules/cards";
+@import "modules/tos";
+@import "modules/quotes";
+@import "modules/hire";
+@import "modules/content-images";
+@import "modules/article";
+@import "modules/article-list";
+@import "modules/navigation";
+@import "modules/involvement";
 
 // Print Stylesheets
 @media print {

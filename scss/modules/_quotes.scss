@@ -1,0 +1,37 @@
+/**
+ * Module: Quotes.scss
+ */
+
+blockquote {
+	@include x-rem(margin, 2.5 0 2.5 0);
+	@include x-rem(padding, 1.5 1 1.5 2);
+	@include x-rem(border-left, 0.5 solid #DDD);
+
+	line-height: 1.33333333;
+	font-style: italic;
+	background: #F3F3F3;
+	color: #888;
+
+	> p:first-child:before {
+		content: "“";
+	}
+
+	> p:first-child:after {
+		content: "”";
+	}
+
+	> p {
+		margin: 0;
+	}
+
+	cite:before {
+		content: "—";
+	}
+
+	cite > a {
+		// display: block;
+		font-style: normal;
+		text-decoration: none;
+		color: $colorPositive;
+	}
+}

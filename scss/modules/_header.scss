@@ -1,0 +1,65 @@
+/**
+ * Module: Header.scss
+ */
+
+.header {
+	position: relative;
+	z-index: 10;
+	min-height: 14em;
+	margin: 0 auto 2em auto;
+	padding: 0 2em;
+	// background: $grey--light;
+
+	@media (max-width: $mediaS) {
+		padding: 0;
+	}
+}
+
+.header__profile {
+	margin: 0 auto;
+	text-align: center;
+}
+
+.header__profile > a {
+	display: inline-block;
+	margin: 6.5rem 0 0 0;
+	font-family: $secondFont;
+	text-decoration: none;
+	text-align: center;
+
+	> img {
+		$imgwidth: 7;
+
+		margin-left: #{-($imgwidth/2)}rem;
+		width: #{$imgwidth}rem;
+
+		top: 0;
+		position: absolute;
+		border-radius: 2px;
+		border-radius: 50%;
+		clip: rect(0 #{$imgwidth}rem #{($imgwidth - 0.5)}rem 0);
+	}
+
+	> h1,
+	> h2 {
+		margin: 0.025em 0;
+		font-weight: normal;
+	}
+
+	> h1 {
+		@include x-rem(font-size, 1.25);
+
+		margin-top: 0.5rem;
+		color: $colorPositive;
+	}
+
+	> h2 {
+		@include x-rem(font-size, 1);
+
+		color: #666;
+
+		.on-dark & {
+			color: $lightColor;
+		}
+	}
+}
