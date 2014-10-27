@@ -17,7 +17,7 @@ Regardless if you want me to join your team for a project, want me to give a wor
 
 I am currently accepting new projects starting **January, 2015**.
 
-<a class="btn--big--positive" href="mailto:hello@anselm-hannemann.com?subject=Let’s talk">Get in touch!</a>
+<a class="btn--big--positive" href="mailto:hello@anselm-hannemann.com?subject=I%20came%20across%20your%20website%20and%20wanted%20to%20talk%20to%20you">Get in touch!</a>
 
 _(If possible, encrypt your e-mail with PGP. [My Public Key is to be found here](https://anselm.taurus.uberspace.de/1BE74300.asc))_
 
