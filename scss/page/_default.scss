@@ -10,7 +10,20 @@
 	background: $lightColor;
 
 	@media (min-width: $mediaS) {
+		max-width: 100%;
+	}
+
+	h1,
+	h2,
+	h3,
+	h4,
+	ul,
+	ol,
+	dl,
+	p,
+	div,
+	figure {
 		max-width: $content-text-width;
-		margin: 0 auto 2em;
+		margin: 0 auto 1em;
 	}
 }
