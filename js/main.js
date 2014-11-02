@@ -13,7 +13,7 @@
 	window.addEventListener('DOMContentLoaded', function () {
 		var navigation = document.querySelector('.header__nav');
 
-		if (isMobile) {
+		if (isMobile() === true) {
 			navigation.classList.toggle('is-narrow');
 
 			navigation.addEventListener('click', function () {

@@ -29,20 +29,25 @@
 				}
 			}
 		}
+
+		.nav__toggle {
+			display: inline;
+			padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+			border: thin solid $colorPositive;
+			border-radius: 2px;
+			cursor: pointer;
+
+			&:after {
+				position: relative;
+				top: 0.4rem;
+				font-size: 2em;
+				content: ' \2261';
+			}
+		}
 	}
 
 	.nav__toggle {
-		padding: 0.5rem 0.5rem 0.5rem 0.5rem;
-		border: thin solid $colorPositive;
-		border-radius: 2px;
-		cursor: pointer;
-
-		&:after {
-			position: relative;
-			top: 0.4rem;
-			font-size: 2em;
-			content: ' \2261';
-		}
+		display: none;
 	}
 
 	> ul {
