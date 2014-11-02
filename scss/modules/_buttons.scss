@@ -19,9 +19,22 @@ a.btn--big--positive,
 	@extend %btn;
 	@include x-transition(all 250ms ease-in-out);
 
-	padding: 0.8em 2.4em;
+	padding: 0.4em 1.4em;
 	background: $colorPositive;
 	color: $lightColor;
+
+	@media (min-width: $mediaM) {
+		padding: 0.8em 2.4em;
+	}
+
+	small {
+		display: none;
+
+		@media (min-width: $mediaM) {
+			display: inline;
+		}
+	}
+
 
 	&:hover {
 		text-decoration: underline;

@@ -8,6 +8,43 @@
 	font-family: $secondFont;
 	text-align: center;
 
+	&.is-narrow {
+		ul {
+			display: none;
+		}
+
+		&.is-expanded {
+			ul {
+				display: block;
+			}
+
+			li {
+				display: block;
+
+				a {
+					@include x-rem(padding, 0.8);
+
+					display: block;
+					width: 100%;
+				}
+			}
+		}
+	}
+
+	.nav__toggle {
+		padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+		border: thin solid $colorPositive;
+		border-radius: 2px;
+		cursor: pointer;
+
+		&:after {
+			position: relative;
+			top: 0.4rem;
+			font-size: 2em;
+			content: ' \2261';
+		}
+	}
+
 	> ul {
 		@include x-rem(margin, 1 0 1 0);
 
@@ -15,18 +52,8 @@
 		list-style: none;
 	}
 
-	> a.btn--big--positive {
-		@include x-rem(margin, 0.5 auto 2 auto);
-
-		display: inline-block;
-	}
-
 	li {
 		display: inline-block;
-
-		@media (max-width: $mediaM) {
-			display: block;
-		}
 
 		> a {
 			@include x-rem(margin, 0 0 0 0.15);
@@ -37,13 +64,6 @@
 
 			.on-dark & {
 				color: $lightColor;
-			}
-
-			@media (max-width: $mediaM) {
-				@include x-rem(padding, 0.8);
-
-				display: block;
-				width: 100%;
 			}
 
 			&.anchor--positive {

@@ -5,10 +5,9 @@
 .header {
 	position: relative;
 	z-index: 10;
-	min-height: 14em;
+	min-height: 8em;
 	margin: 0 auto 2em auto;
 	padding: 0 2em;
-	// background: $grey--light;
 
 	@media (max-width: $mediaS) {
 		padding: 0;

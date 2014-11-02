@@ -108,8 +108,10 @@
 		margin-top: 7em;
 	}
 
-	p:nth-child(3) {
-		font-size: 1.25em;
+	@media (min-width: $mediaM) {
+		p:nth-child(3) {
+			font-size: 1.25em;
+		}
 	}
 
 	pre {
@@ -119,13 +121,14 @@
 		padding: 1.25em 1em;
 		margin: 1em 0;
 		background: #F3F3F3;
-		overflow: hidden;
+		overflow: scroll;
 
 		@media (min-width: 60em) {
 			width: 42em;
 
 			position: relative;
 			left: 0;
+			overflow: hidden;
 
 			&:hover {
 				width: 55em;
