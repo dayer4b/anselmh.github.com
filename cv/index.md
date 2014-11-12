@@ -1,34 +1,29 @@
 ---
 layout: default
-title: "Resumé / CV"
+title: "Resume / CV"
 ---
-
 # Anselm Hannemann
 
-## »Move the web(standards) forward«
+## Front-End Developer and Architect
 
-Location: Munich, Germany
+<article class="hire">
 
-Availability: _Worldwide (remote/on-site), let's talk about it._
-
-Email: [hello@anselm-hannemann.com](mailto:hello@anselm-hannemann.com)
-
-Web: [helloanselm.com](https://helloanselm.com/)
+I’m located in _Munich, Germany_ and am available for _worldwide / remote_ freelance projects. My Email is [hello@anselm-hannemann.com](mailto:hello@anselm-hannemann.com) and I’m also on [GitHub](https://github.com/anselmh/).
 
 ## Expertise
 
+I write code for scalable and maintainable front-end projects. **Code climate**, **quality** and reaching **performance goals** is the key focus in my work. Creating **cross-device responsive experiences** and **testing code** on a variety of devices is where I am specialized in. And if you need an **automated, tool-driven setup** (for example with Grunt), I can set this up for you.
+
 - Writing highly-scalable, modular and self-explaining code
-- Writing truly responsive 'mobile first' HTML/CSS
-- Writing performance optimized code for desktop and mobile
+- Writing truly responsive ‘mobile first’ HTML/CSS
+- Writing solid, performant code for cross-browser, desktop and mobile
 - Consultancy for front-end projects
 - Code Reviews with Analysis
-- Writing cross-browser optimized code
 
 ## Awards / Rewards
 
 - Nominated and shortlisted as [Young Developer of the Year at netawards 2014](https://thenetawards.com/vote/young-developer/anselm-hannemann/)
-- Nominated and shortlisted as [Game Changer of the Year at netawards 2014](https://thenetawards.com/vote/game-changer/open-device-lab/) with the project OpenDeviceLab.com
-- Nominated and shortlisted as Game Changer of the Year at netawards 2013 for OpenDeviceLab.com
+- Nominated and shortlisted as [Game Changer of the Year at netawards 2013 &amp; 2014](https://thenetawards.com/vote/game-changer/open-device-lab/) with the project OpenDeviceLab.com
 
 ## Important client work
 
@@ -59,28 +54,52 @@ Web: [helloanselm.com](https://helloanselm.com/)
 
 ## Organizing
 
-- Former co-manager of the [InDesign User Group Munich](http://www.indesignusergroup.com/chapters/munich/) (resigned in 2014)
-- Co-Organizer of the international web development conference [NightlyBuild.io](http://www.nightlybuild.io/) in Cologne (2014)
+- Co-Organizer of the international web development conference [NightlyBuild](http://www.nightlybuild.io/) in Cologne (2014)
 - Founder and Co-Manager of [PUBKON Conference](http://pubkon.eu/), Germany’s most popular publishing conference (2012-2015)
+- Former co-manager of the [InDesign User Group Munich](http://www.indesignusergroup.com/chapters/munich/) (resigned in 2014)
 
 ## Open Source Engagement
 
-- Curator of the weekly [Web Development Reading List](http://wdrl.info/).
+- Author of the weekly [Web Development Reading List](http://wdrl.info/).
 - Co-creator of [opendevicelab.com](http://opendevicelab.com/) &mdash; nominated as Game Changer Of The Year 2013 at netmag's netawards
-- Team member of [responsiveimages.org](http://responsiveimages.org/), web standards group of the W3C for a standardized responsive images solution.
-- Co-Author of the [INIT framework](https://use-init.com/), a GruntJS based boilerplate.
-- Participator and Contributor to [testthewebforward](http://testthewebforward.org/), [WebPlatform.org](http://docs.webplatform.org/wiki/User:Anselm) and the W3C mailing list
-- Creator of [CSS-Slider](https://github.com/anselmh/css-slider/), [MLReader](https://chrome.google.com/webstore/detail/webstandards-mailing-list/kapkofkiggcefopeamfcpkkgfjjhmamf), and [other OSS](https://github.com/anselmh?tab=repositories)
-- Co-Host of [Workingdraft Podcast](http://workingdraft.de/) (most popular German web development podcast)
+- Team member of the [RICG](http://ricg.io/), web standards group of the W3C for a standardized responsive images solution and now Element Queries.
+- Co-Author of the [INIT framework](https://use-init.com/), a GruntJS based front-end framework.
+- Co-Host of the [Workingdraft Podcast](http://workingdraft.de/)
 - Writer for [Smashing Magazine](http://www.smashingmagazine.com/author/anselm-hannemann/)
 - Writer for [.net magazine / creativebloq](http://www.netmagazine.com/features/road-responsive-images) and various other magazines / blogs
 
 ## Speaker
 
-- ["Are we There Yet?"](http://slidedeck.io/anselmh/webtechcon-13--we-are-not-there-yet) at WebTechCon 2013 in Munich, Germany
-- ["5 Things You Want for Responsive Development"](https://helloanselm.com/modxpoeu--5-things-you-want-for-rwd/#/) at MODXpo 2013 in Cologne, Germany
-- Speaker about ["Responsive Images" at TakeOff Conference 2013](http://www.youtube.com/watch?v=pPOeg5WAhgw) in Lille, France
-- Lightning talk at [Fronteers' Jam session 2012](https://vimeo.com/51897011)
-- Speaker at [PUBKON](http://2013.pubkon.eu/) and several other events about Digital Publishing
+- [“Are we There Yet?”](http://slidedeck.io/anselmh/webtechcon-13--we-are-not-there-yet) at WebTechCon 2013 in Munich, Germany
+- [“5 Things You Want for Responsive Development”](https://helloanselm.com/modxpoeu--5-things-you-want-for-rwd/#/) at MODXpo 2013 in Cologne, Germany
+- Speaker about [“Responsive Images” at TakeOff Conference 2013](http://www.youtube.com/watch?v=pPOeg5WAhgw) in Lille, France
+- Lightning talk “Responsive Images” at [Fronteers’ Jam session 2012](https://vimeo.com/51897011)
 - Regularly invited expert for Adobe: [Creative Winter – Brackets, Edge Reflow, Edge Inspect](http://www.youtube.com/user/AdobePRD/videos?flow=grid&view=0), [Creative Summer](http://www.youtube.com/watch?v=7AfXR-Ung9I&list=UU7-iNajG033J_66k16whthw&index=1&feature=plcp) and more
-- Author of video2brain's video trainings [Adobe Dreamweaver CS5.5 mit HTML5, CSS3 und jQuery](http://www.video2brain.com/de/videotraining/moderne-websites-mit-dreamweaver-cs5-5-html5-css3-und-jquery) and [HTML und CSS](http://www.video2brain.com/de/videotraining/html-und-css), featured in c't [15/2012](http://www.heise.de/ct/inhalt/2012/15/117/)
+- Author of video2brain’s video trainings [Adobe Dreamweaver CS5.5 mit HTML5, CSS3 und jQuery](http://www.video2brain.com/de/videotraining/moderne-websites-mit-dreamweaver-cs5-5-html5-css3-und-jquery) and [HTML und CSS](http://www.video2brain.com/de/videotraining/html-und-css), featured in c’t [15/2012](http://www.heise.de/ct/inhalt/2012/15/117/)
+
+
+## Ask me!
+
+<a class="btn--big--positive" href="mailto:hello@anselm-hannemann.com?subject=I%20came%20across%20your%20website%20and%20wanted%20to%20talk%20to%20you">Get in touch!</a>
+
+_(If possible, encrypt your e-mail with PGP. [My Public Key is to be found here](https://anselm.taurus.uberspace.de/1BE74300.asc))_
+
+
+<a id="matchmyinterest"> </a>
+
+### For inquiries please consider:
+
+- Both, me and you probably want to have a good product when you hire me. The groundwork for this is a proper, realistic timeframe and project management. Nothing is worse than a project with countless revisions and changes not being finished, mostly for your customer. If you need help with project management or methodology how to plan your project, I’m happy to help you out or point you to the right person.
+
+- Plan ahead. Projects can only be well crafted with a proper timeframe. To do my work the project’s goal, a concept and at least a rough design (if not also required) and technical setup should be already defined and set. If you need help or don’t know what you need to do, please contact me in advance so we can figure this out before starting the project.
+
+<a id="recruiters"> </a>
+
+### Dear Recruiters,
+
+I am always open for a new work experience but be sure it really fits to me and it is properly paid.
+I expect you to read my [CV](/cv/) and have a look at [my projects](/work/).
+
+With that in mind, I will be happy to speak with you about possibilities. Thank you! :)
+
+</article>
