@@ -7,8 +7,8 @@ title: "Contact"
 
 ## Hey!
 
-If you want to hire me, you might want to go to my [»work with me« page](/hire/) first. <br>
-Get in touch with me if you want to talk with me about a project, working together, or if you want me to speak at a conference or want me to do a worksop. Please bear in mind [my few but important guidelines](/about/#matchmyinterest), so both of us will have a great time working together.
+If you want to hire me, you might want to go to my [CV](/cv/) or [About page](/about/). <br>
+Get in touch with me if you want to talk with me about a project, working together, or if you want me to speak at a conference or want me to do a worksop. Please bear in mind [my few but important guidelines](/about/), so both of us will have a great time working together.
 
 ## Availability
 
