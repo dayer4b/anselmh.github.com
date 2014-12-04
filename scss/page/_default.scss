@@ -3,6 +3,7 @@
  */
 
 .main {
+	display: block; // fix unknown element in IE
 	position: relative;
 	z-index: 20;
 	// margin: -4em auto 2em auto;
