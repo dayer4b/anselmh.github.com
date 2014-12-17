@@ -1,0 +1,24 @@
+{% include header.html %}
+
+	{% if page.imgtype %}
+	<main class="main work has-full-background font--{{ page.fonttobe }} img-gradient--{{ page.imggradient }}" role="main">
+	{% else %}
+	<main class="main work" role="main">
+	{% endif %}
+		<h1>Work</h1>
+		{% if page.img %}
+			<figure class="post__teaserimg {{ page.imgtype }}" style="background-image: url('{{ page.img }}');"></figure>
+		{% endif %}
+
+		<h3 class="work__overview__project">{{ page.title }}</h3>
+		<p class="work__overview__client">{{ page.client }}</p>
+
+		{{ content }}
+
+
+		<hr>
+		<p class="article_hire"><a class="hire-info__button" href="/hire/">Like it? Let’s work together</a></p>
+		<hr>
+	</main>
+
+{% include footer.html %}
