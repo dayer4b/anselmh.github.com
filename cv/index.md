@@ -8,7 +8,7 @@ title: "Resume / CV"
 
 <article class="hire">
 
-I’m located in _Munich, Germany_ and am available for _worldwide / remote_ freelance projects. My Email is [hello@anselm-hannemann.com](mailto:hello@anselm-hannemann.com) and I’m also on [GitHub](https://github.com/anselmh/).
+I’m located in _Munich, Germany_ and am available for _worldwide / remote_ freelance projects. My Email is [hello@helloanselm.com](mailto:hello@helloanselm.com) and I’m also on [GitHub](https://github.com/anselmh/).
 
 ## Expertise
 
@@ -80,7 +80,7 @@ I write code for scalable and maintainable front-end projects. **Code climate**,
 
 ## Ask me!
 
-<a class="btn--big--positive" href="mailto:hello@anselm-hannemann.com?subject=I%20came%20across%20your%20website%20and%20wanted%20to%20talk%20to%20you">Get in touch!</a>
+<a class="btn--big--positive" href="mailto:hello@helloanselm.com?subject=I%20came%20across%20your%20website%20and%20wanted%20to%20talk%20to%20you">Get in touch!</a>
 
 _(If possible, encrypt your e-mail with PGP. [My Public Key is to be found here](https://anselm.taurus.uberspace.de/1BE74300.asc))_
 
