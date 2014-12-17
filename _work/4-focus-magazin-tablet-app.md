@@ -4,6 +4,7 @@ title: "FOCUS Magazin Tablet App"
 client: "FOCUS Magazin"
 year: 2013
 published: false
+img: //img-anselmhannemann.netdna-ssl.com/img/work/focus-magazin-app.jpg
 ---
 
 <h3>FOCUS Magazin for iPad</h3>

@@ -4,6 +4,7 @@ title: "Open Device Lab Website"
 client: "LabUp.org"
 year: 2012-2014
 published: false
+img: //img-anselmhannemann.netdna-ssl.com/img/work/odl.jpg
 ---
 
 <p>Together with <a href="https://twitter.com/klick_ass">Jay Meissner</a> and <a href="https://twitter.com/derSchepp">Christian Schäfer</a> I developed the non-profit platform opendevicelab.com. This service shows you where to find Open Device Labs where you can access several testing devices. I am responsible for the frontend and design of the site.</p>

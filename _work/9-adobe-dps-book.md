@@ -4,6 +4,7 @@ title: "Adobe Digital Publishing Suite Book"
 client: "dpunkt Verlag"
 published: true
 year: 2013
+img: //img-anselmhannemann.netdna-ssl.com/img/work/dpunkt-dps-book.jpg
 ---
 
 Together with <a href="https://twitter.com/richardbrammer">Richard Brammer</a> and <a href="https://twitter.com/FischaelaMeer">Michaela Lehr</a> from Berlin I wrote my first book, published in 2013. It has been published at the dpunkt Verlag and is available only in German.

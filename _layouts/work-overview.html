@@ -1,19 +1,31 @@
 {% include header.html %}
 
 	{% if page.imgtype %}
-	<main class="main work has-full-background font--{{ page.fonttobe }} img-gradient--{{ page.imggradient }}" role="main">
+	<main class="main work-overview has-full-background font--{{ page.fonttobe }} img-gradient--{{ page.imggradient }}" role="main">
 	{% else %}
-	<main class="main work" role="main">
+	<main class="main work-overview" role="main">
 	{% endif %}
 		<h1>{{ page.title }}</h1>
 		{% if page.img %}
 			<figure class="post__teaserimg {{ page.imgtype }}" style="background-image: url('{{ page.img }}');"></figure>
 		{% endif %}
 
-		<ul class="work__overview">
+		<ul class="flex-list work__overview">
 			{% for item in site.work %}
+
+			{% if forloop.first %}
+			<li class="first-child">
+			{% elsif forloop.last %}
+			<li class="last-child">
+			{% else %}
 			<li>
-				<a href="{{ item.url }}">{{ item.title }}</a> for <span class="work__overview__client">{{ item.client }}</span>
+			{% endif %}
+				<a href="{{ item.url }}">
+					<img src="{{ item.img }}" alt="" class="work__overview__image">
+					<div class="work__overview__desc">
+						<p>{{ item.title }} for <span class="work__overview__client">{{ item.client }}</span> in {{ item.year }}</p>
+					</div>
+				</a>
 			</li>
 			{% endfor %}
 		</ul>

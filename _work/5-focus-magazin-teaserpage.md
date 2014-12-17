@@ -4,6 +4,7 @@ title: "FOCUS Magazin Teaserpage"
 client: "FOCUS Magazin"
 year: 2013/2014
 published: false
+img: //img-anselmhannemann.netdna-ssl.com/img/work/focus-magazin-online.jpg
 ---
 
 For the German weekly News magazine FOCUS Magazin I created a teaser website for their digital products (Tablet App, Augmented Reality App, EBooks, etc.). It is a plain HTML solution wrapped by the corporate’s master theme (given structure, markup, layout).

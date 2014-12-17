@@ -4,6 +4,7 @@ title: "Vaillant Global Websites – Front-End"
 client: Vaillant
 year: 2014
 published: false
+img: /img/work/vaillant-group--extended.jpg
 ---
 
 In 2014 I‘ve worked 9.5 months for Vaillant in a bigger team as front-end developer to build a scalable and modular architecture to drive all of their global websites from one base and only create forked derivates for each country and company. This required a high level abstraction of nearly everything.
