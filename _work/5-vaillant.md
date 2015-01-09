@@ -4,12 +4,14 @@ title: "Vaillant Global Websites – Front-End"
 client: Vaillant
 year: 2014
 published: false
-img: /img/work/vaillant-group--extended.jpg
+img: //img-anselmhannemann.netdna-ssl.com/img/work/vaillant-group--extended.jpg
 ---
 
-In 2014 I‘ve worked 9.5 months for Vaillant in a bigger team as front-end developer to build a scalable and modular architecture to drive all of their global websites from one base and only create forked derivates for each country and company. This required a high level abstraction of nearly everything.
+In 2014 I‘ve worked 9 1/2 months for Vaillant in a bigger team as front-end developer to build a scalable and modular architecture to drive all of their global websites from one base and only create forked derivates for each country and company. This required a high level abstraction of nearly everything.
 
-The technological base for the framework that has been developed was [INIT](http://use-init.com/), the open-source tool I’m building with [Hans-Christian Reinl](https://drublic.de/) who was also on the project. Together we improved the Grunt modularity further and developed nearly 40 unique components used in a private bower instance. Each component is driven by the global configuration component that includes all build and quality assurance tasks (including the grunt configuration). It includes the markup, styles, scripts, tests (visual, regression, unit, code smell) and its unique configuration settings. Four host projects finally include the various components needed to stack the websites together. That way we gained a modularity and flexibility to only include and use the things that are really needed.
+The technological base for the framework that has been developed was [INIT](http://use-init.com/), the open-source tool I’m building with [Hans-Christian Reinl](https://drublic.de/) who was also on the project. Together we improved the Grunt modularity further and developed nearly 40 unique components used in a private bower instance. Each component is driven by the global configuration component that includes all build and quality assurance tasks (including the grunt configuration). It includes the markup, styles, scripts, tests (visual, regression, unit, code smell) and its unique configuration settings. Four host projects finally include the various components needed to stack the websites together. That way we gained a modularity and flexibility to only include and use the things that are really needed. While I wasn’t involved in all of these projects, I did work on the modules and infrastructure that is used on every website.
+
+![](//img-anselmhannemann.netdna-ssl.com/img/work/vaillant-group--tiny.png)
 
 ### Facts about the Project
 
@@ -27,3 +29,4 @@ While several projects are still in development and many more features and thing
 - [Website of Vaillant Group](http://www.vaillant-group.com/)
 - [Demo of a local Vaillant Country Website](http://www.vaillant.com/customers/)
 - [Demo of a local Saunier-Duval Country Website](http://www.saunierduval.com/home/)
+
