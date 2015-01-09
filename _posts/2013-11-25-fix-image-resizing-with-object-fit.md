@@ -32,11 +32,16 @@ Yes, we're going to fix this now. There's a webstandard for it, it's the CSS pro
 		object-fit: fill;
 	}
 
-Unfortunately browser support is as following:
+But browser support is as following:
 
-<div class="embed-container">
-	<iframe src="http://caniuse.com/object-fit/embed/" width="704" height="370"></iframe>
-</div>
+| Browser | natively? |
+|----------|------------|
+| Internet Explorer | - |
+| Google Chrome | v31+ |
+| Firefox | v36+ |
+| Safari OS X | 7.1+ |
+| Safari iOS | 8+ |
+| Opera | v19+ |
 
 ## Fix the browser support
 
@@ -46,9 +51,13 @@ When I started to write a vanilla JavaScript polyfill I realized the very same p
 Christian rewrote the whole code to work with CSS classes that are applied via JavaScript depending on the current 'situation' / 'state' of the image in a container. Additionally we wrap an [x-tag](https://hacks.mozilla.org/2013/05/speed-up-app-development-with-x-tag-and-web-components/) around the image element to be able to apply a CSS-only style solution. This way there's no need to constantly calculate sizes of the image to drastically improve the performance of the polyfill.
 
 Well, enough said&mdash;check out the [`object-fit` Polyfill](https://github.com/anselmh/object-fit/) on GitHub.
-It's also available via bower. Simply enter the following into your command line:
+It's also available via bower and [npm](https://www.npmjs.com/package/object-fit). Simply enter the following into your command line:
 
-	$ bower install object-fit
+	npm install object-fit
+
+or
+
+	bower install object-fit
 
 And this will get you the polyfill as a component. By the way, there is no need for Modernizr. We have a neat and very small feature-test baked right into the polyfill.
 

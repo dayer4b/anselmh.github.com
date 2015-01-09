@@ -34,6 +34,11 @@ body {
 	font-family: $mainFont;
 	font-size: $initialFontSize;
 	line-height: 1.4;
+
+	font-variant-numeric: diagonal-fractions;
+	    -ms-font-feature-settings: "frac";
+	-webkit-font-feature-settings: "frac";
+	        font-feature-settings: "frac";
 }
 
 
@@ -44,6 +49,10 @@ h1,
 h2,
 h3 {
 	font-family: $secondFont;
+	font-variant-ligatures: common-ligatures, contextual;
+	    -ms-font-feature-settings: "liga", "clig";
+	-webkit-font-feature-settings: "liga", "clig";
+	        font-feature-settings: "liga", "clig", "frac", "calt";
 }
 
 h1 {
