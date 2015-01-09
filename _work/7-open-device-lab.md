@@ -3,7 +3,7 @@ layout: work
 title: "Open Device Lab Website"
 client: "LabUp.org"
 year: 2012-2014
-published: false
+published: true
 img: //img-anselmhannemann.netdna-ssl.com/img/work/odl.jpg
 ---
 

@@ -13,6 +13,8 @@
 		<ul class="flex-list work__overview">
 			{% for item in site.work %}
 
+			{% if item.published != false %}
+
 			{% if forloop.first %}
 			<li class="first-child">
 			{% elsif forloop.last %}
@@ -27,6 +29,9 @@
 					</div>
 				</a>
 			</li>
+
+			{% endif %}
+
 			{% endfor %}
 		</ul>
 

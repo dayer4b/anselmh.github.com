@@ -3,7 +3,7 @@ layout: work
 title: "Nightlybuild Website"
 client: NightlyBuild Conference
 year: 2014
-published: false
+published: true
 img: //img-anselmhannemann.netdna-ssl.com/img/work/nightlybuildio-web.jpg
 ---
 
