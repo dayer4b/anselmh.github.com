@@ -2,7 +2,7 @@
 layout: work
 title: "FOCUS Magazin Teaserpage"
 client: "FOCUS Magazin"
-year: 2013/2015
+year: 2013-2015
 published: false
 img: //img-anselmhannemann.netdna-ssl.com/img/work/focus-magazin-online-2015.png
 ---
