@@ -6,6 +6,8 @@ img:
 
 It’s cool to be trendy and it’s cool to bash other people and products. Wait, what? It isn’t cool to harass people, it isn’t cool to fight with other persons. We need to be smarter in the ways we communicate with each other. [Today showed it again](https://storify.com/helloanselm/don-t-fight-but-start-supporting-each-other).
 
+*Addendum / Note: I’m not on either side in the following example. It just shows a hopefully neutral view on how different persons deal with others.*
+
 Ind.ie is a company that wants to re-invent how internet platforms nowadays work. They want such platforms to be de-centralized, user-focused, privacy-aware and still sustainable. This is an acknowledgeable goal and while I always thought it will be a challenge to achieve this with just a team of four people I wanted to support this goal.
 
 In my opinion they haven‘t done everything the way I think they should’ve but no company does so. And every human fails at some things as well. So when they launched their crowd-funding campaign (which gladly exceeded their minimum goal) I didn’t thought it was the right way to ask people for money. Especially as I never got what I expected and every time at least half a year later than promised from similar campaigns I wanted to support their goals.
