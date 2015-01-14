@@ -17,8 +17,9 @@ I write code for scalable and maintainable front-end projects. **Code climate**,
 - Writing highly-scalable, modular and self-explaining code
 - Writing truly responsive ‘mobile first’ HTML/CSS
 - Writing solid, performant code for cross-browser, desktop and mobile
-- Consultancy for front-end projects
+- Conception and Consultancy for front-end projects
 - Code Reviews with Analysis
+- Website Audits on Performance and Code Quality
 
 ## Awards / Rewards
 
@@ -27,6 +28,7 @@ I write code for scalable and maintainable front-end projects. **Code climate**,
 
 ## Important client work
 
+- Front-End Development and Consultancy for [LaterPay](https://laterpay.net/), doing a big front-end code refactoring and performance optimization in late 2014.
 - Front-End Development as Front-End Architect/Strategist for the [Vaillant Group](http://www.vaillant-group.com/) building a highly-scalable, modularized front-end workflow for a large team in 2014.
 - Front-End-Development of the [SAP DataCenter Website](http://www.sapdatacenter.com/en/#!) in 2013
 - Co-Developed the [FOCUS Magazin for iPad](https://itunes.apple.com/us/app/focus-magazin/id548284324?mt=8) with 2issue in 2013
@@ -48,6 +50,7 @@ I write code for scalable and maintainable front-end projects. **Code climate**,
 - December 2012 - May 2013: Front-End Development for [SAP Datacenter](http://www.sapdatacenter.com/) in partnership with [Hans-Christian Reinl](https://drublic.de/) and [grasundsterne](http://www.grasundsterne.de/home-en) agency
 - January 2014 - October 2014: Front-End Developer at [Vaillant Group](http://www.vaillant-group.com/)
 - July 2014 - September 2014: Co-Organizer of [NightlyBuild.io](http://www.nightlybuild.io/) conference
+- December 2014: Front-End Consultancy and Development for LaterPay.
 
 ## Social commitment
 - Civilian service at LMU university clinic, Cardiology dpt. in Munich, Germany as medical assistant and IT manager (September 2009 - May 2010)
