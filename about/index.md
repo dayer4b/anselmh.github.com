@@ -17,6 +17,7 @@ I’m a front-end stack developer from Munich, Germany. I work as a freelancer a
 You can hire me for the following list of work:
 
 - **Front-end development** (HTML5, CSS, JavaScript). If you want a performance optimized, well coded and modern project, I am happy to do it. This can be a cool, small one pager but also a large-scale web application.
+- **Website Audits**. I do performance and code quality audits and check if your code works fine in most cases.
 - **Code Reviews**. I do code quality reviews of existing code and give advice on how to improve it.
 - **Device Testing**. I test, debug and review each project on a mass of devices in one of our device labs. This also correlates with my open source project [opendevicelab.com](http://opendevicelab.com/)
 - [**Speaking** about front end development](/conf/).
@@ -24,11 +25,25 @@ You can hire me for the following list of work:
 - **Writing** technical articles.
 - Working agile: I know Scrum, Kanban and have worked in several projects and teams using it.
 
+I have specific knowledge on:
+
+- Git
+- HTML
+- CSS / Sass
+- JavaScript / jQuery
+- Front-End Tooling with npm / bower, Grunt / Gulp, and more.
+- Working Agile with Scrum or Kanban
+- W3C / WHATWG Webstandards (Following, Improving, Developing, Writing)
+
+----
+
+<p class="text--centered"><a class="btn--big--positive" href="/cv/">See my Curriculum Vitae</a></p>
+
 > We think Anselm Hannemann is just brilliant.
 >
 > <cite><a href="http://www.redtoadmedia.com/" target="_blank">Anne Miles</a></cite>
 
-## My Grab Bag
+## What I always have with me
 
 If you want to know how I work and with what I work, read [this interview on Workspiration](http://workspiration.org/anselm-hannemann) or just view my grab bag right here:
 
