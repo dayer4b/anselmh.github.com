@@ -14,7 +14,7 @@ Get in touch with me if you want to talk with me about a project, working togeth
 
 I am currently accepting new projects starting **February, 2015** (limited capacity).
 
-<a class="btn--big--positive" href="mailto:hello@helloanselm.com?subject=I%20came%20across%20your%20website%20and%20wanted%20to%20talk%20to%20you">Get in touch with me!</a>
+<p class="text--centered"></p><a class="btn--big--positive" href="mailto:hello@helloanselm.com?subject=I%20came%20across%20your%20website%20and%20wanted%20to%20talk%20to%20you">Get in touch with me!</a></p>
 
 _(If possible, encrypt your e-mail with PGP. [My Public Key is to be found here](https://anselm.taurus.uberspace.de/1BE74300.asc))_
 
