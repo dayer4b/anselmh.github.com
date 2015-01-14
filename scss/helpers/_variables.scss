@@ -3,9 +3,11 @@
  */
 
 // Text
+$lucite-green: darken(#7DCFB6, 15%) !default;
 $mainColor: #111 !default;
 $lightColor: #fff !default;
 $colorPositive: #00a5e0 !default; // blue
+$colorPositive: $lucite-green;
 $colorPositiveBg: $colorPositive !default;
 $colorPositiveBg: $colorPositive !default;
 $colorPositiveTxt: $lightColor !default;

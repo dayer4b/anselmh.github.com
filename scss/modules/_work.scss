@@ -10,14 +10,16 @@
 
 // <ul>
 .flex-list {
-	@include x-display-flex;
-	@include x-flex-direction(row);
-	@include x-align-content(distribute);
-	@include x-flex-wrap(wrap);
+	@media (min-width: $mediaM) {
+		@include x-display-flex;
+		@include x-flex-direction(row);
+		@include x-align-content(distribute);
+		@include x-flex-wrap(wrap);
 
-	-webkit-align-items: stretch;
-	     -ms-flex-align: stretch;
-	        align-items: stretch;
+		-webkit-align-items: stretch;
+		     -ms-flex-align: stretch;
+		        align-items: stretch;
+	}
 
 	padding: 0;
 	list-style: none;
@@ -26,16 +28,21 @@
 	> li {
 		@include x-rem(padding, 0.5);
 		@include x-box-sizing();
-		@include x-flex-wrap(wrap);
 		@include x-transition(border 250ms ease-in-out);
+
+		@media (min-width: $mediaM) {
+			@include x-flex-wrap(wrap);
+
+			-webkit-flex-grow: 1;
+			    -ms-flex-grow: 1;
+			        flex-grow: 1;
+			max-width: 32%;
+		}
 
 		position: relative;
 		margin: 0 0.5% 1em 0.5%;
-		-webkit-flex-grow: 1;
-		    -ms-flex-grow: 1;
-		        flex-grow: 1;
 		border: thin solid #DDD;
-		max-width: 32%;
+		min-height: 16em;
 		font-family: $secondFont;
 		font-size: 1rem;
 		object-fit: cover;
@@ -55,8 +62,13 @@
 		a {
 			display: block;
 			height: 100%;
+			min-height: 16em;
 			color: #111;
 			border-bottom: 0;
+
+			&:hover {
+				border-bottom: 0;
+			}
 		}
 
 		img {

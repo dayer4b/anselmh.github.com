@@ -5,10 +5,20 @@
 .header__nav {
 	@include x-rem(font-size, 1);
 
+	position: fixed;
+	z-index: 40;
+	top: 0;
+	left: 0;
+	width: 100%;
+	text-align: center;
+	background: $lightColor;
 	font-family: $secondFont;
 	text-align: center;
+	border-bottom: 2px solid $borderColor;
 
 	&.is-narrow {
+		padding-bottom: 0.5em;
+
 		ul {
 			display: none;
 		}
@@ -62,10 +72,11 @@
 
 		> a {
 			@include x-rem(margin, 0 0 0 0.15);
-			@include x-rem(padding, 0.4 0.4 0.1 0.4);
+			@include x-rem(padding, 0.4 0.6 0.1 0.6);
 			@include x-transition(border-bottom 250ms ease-in-out);
 
-			color: $colorPositive;
+			color: $mainColor;
+			border-bottom-color: transparent;
 
 			.on-dark & {
 				color: $lightColor;

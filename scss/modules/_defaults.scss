@@ -39,6 +39,10 @@ body {
 	    -ms-font-feature-settings: "frac";
 	-webkit-font-feature-settings: "frac";
 	        font-feature-settings: "frac";
+
+	@media (max-width: $mediaM) {
+		font-size: 1em;
+	}
 }
 
 
