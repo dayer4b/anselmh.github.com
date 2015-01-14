@@ -42,6 +42,10 @@
 
 		&.first-child {
 			max-width: 100%;
+
+			img {
+				max-height: 100%;
+			}
 		}
 
 		&:hover {
@@ -49,7 +53,10 @@
 		}
 
 		a {
+			display: block;
+			height: 100%;
 			color: #111;
+			border-bottom: 0;
 		}
 
 		img {
@@ -57,10 +64,13 @@
 
 			left: 0;
 			width: 100%;
+			height: 100%;
 			max-width: 100%;
-			margin: 0 auto 0.5em auto;
+			max-height: 20em;
+			margin: 0 auto;
 			-webkit-filter: grayscale(50%) blur(0px);
 			        filter: grayscale(50%) blur(0px);
+			object-fit: cover;
 		}
 
 		&:hover img {
