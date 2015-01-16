@@ -10,10 +10,17 @@
 		return (window.innerWidth < 481);
 	};
 
+	var isLandscape = function () {
+		return window.matchMedia("(orientation: landscape)").matches;
+	};
+
 	window.addEventListener('DOMContentLoaded', function () {
 		var navigation = document.querySelector('.header__nav');
 
-		if (isMobile() === true) {
+		console.log(isMobile());
+		console.log(isLandscape());
+
+		if (isMobile() === true && isLandscape() === false) {
 			navigation.classList.toggle('is-narrow');
 
 			navigation.addEventListener('click', function () {
