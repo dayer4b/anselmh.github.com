@@ -1,0 +1,66 @@
+/**
+ * Availability module
+ */
+
+.availability {
+	font-family: $secondFont;
+	font-size: 1em;
+	padding: 0.25em 1em;
+	background: $glacier-grey;
+
+	dl {
+		margin: 0 auto;
+		text-align: center;
+		min-height: 5em;
+	}
+
+	dt {
+		display: inline-block;
+		position: absolute;
+		width: 2em;
+		height: 2em;
+		padding: 0.25em 0.5em;
+		color: $lightColor;
+
+		@media (min-width: $mediaM) {
+			&:hover {
+				min-width: 6.5em;
+				height: 4em;
+			}
+		}
+	}
+
+	@media (min-width: $mediaM) {
+		dt:hover + dd {
+			text-indent: 0;
+			width: auto;
+			min-width: 6.5em;
+			height: 4em;
+			padding-top: 2.25em;
+		}
+	}
+
+	dd {
+		text-indent: -20em;
+		overflow: hidden;
+		width: 2em;
+		min-width: 2em;
+		height: 2em;
+		display: inline-block;
+		margin: 0;
+		padding: 0.25em;
+		color: $lightColor;
+		-webkit-transition: 500ms all ease-in-out;
+		        transition: 500ms all ease-in-out;
+
+		&[data-available="0"] {
+			background: $marsala;
+		}
+		&[data-available="1"] {
+			background: $custard;
+		}
+		&[data-available="2"] {
+			background: $lucite-green;
+		}
+	}
+}

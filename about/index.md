@@ -8,6 +8,9 @@ title: "About me"
 ![Profile picture of Anselm Hannemann](//img-anselmhannemann.netdna-ssl.com/img/anselm_btconf2013.jpg)
 I’m a front-end stack developer from Munich, Germany. I work as a freelancer and advisor for small and big clients and was nominated and short-listed as [Young Developer of the Year 2014](https://thenetawards.com/vote/young-developer/anselm-hannemann/). I am an active Open Source contributor, have held several conference talks and am author of articles for Smashing Magazine, Creative Bloq (netmagazine) and other well known sites.
 
+{% include availability.html %}
+<p class="text--centered"><a class="btn--big--positive" href="mailto:hello@helloanselm.com?subject=I%20came%20across%20your%20website%20and%20wanted%20to%20talk%20to%20you">Get in touch with me!</a></p>
+
 ## What I do
 
 > Underrated Webdevs to Follow Vol. 1: @helloanselm, @respimg member, helped build opendevicelab.com, curates WDRL.
